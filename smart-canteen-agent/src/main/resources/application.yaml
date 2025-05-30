@@ -1,0 +1,58 @@
+server:
+  port: 5799
+
+spring:
+  application:
+    name: agent
+  datasource:
+    url: jdbc:postgresql://localhost:5432/agent
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: 1005
+  jpa:
+     hibernate:
+       ddl-auto: none  # 可选：update / create / none 等
+     show-sql: true
+     database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    default-enum-type-handler: com.baomidou.mybatisplus.core.handlers.MybatisEnumTypeHandler
+  global-config:
+    db-config:
+      update-strategy: not_null
+      id-type: ASSIGN_UUID
+  mapper-locations: classpath:/mapper/**.xml
+
+knife4j:
+  enable: true
+  setting:
+    language: zh-CN
+    enable-swagger-models: true
+    enable-document-manage: true
+    swagger-model-name: 实体类列表
+    enable-version: true
+    enable-reload-cache-parameter: false
+    enable-after-script: true
+    enable-filter-multipart-api-method-type: POST
+    enable-filter-multipart-apis: false
+    enable-request-cache: true
+    enable-host: false
+    enable-host-text: localhost:1005
+    enable-home-custom: false
+    home-custom-path: classpath:markdown/home.md
+    enable-search: true
+    enable-footer: true
+    enable-footer-custom: true
+    footer-custom-content: Apache License 2.0 | Copyright 2025-[中国矿业大学MustBeMine团队](https://www.wotemo.com)
+    enable-dynamic-parameter: true
+    enable-debug: true
+    enable-open-api: true
+    enable-group: true
+  cors: false
+  production: false
+  basic:
+    enable: true
+    username: root
+    password: 1005
