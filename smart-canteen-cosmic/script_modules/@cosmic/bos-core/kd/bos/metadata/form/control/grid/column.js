@@ -1,0 +1,9 @@
+export const AmountDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.AmountDataGridColumnAp");
+export const DataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.DataGridColumnAp");
+export const DateDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.DateDataGridColumnAp");
+export const DecimalDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.DecimalDataGridColumnAp");
+export const IntegerDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.IntegerDataGridColumnAp");
+export const OperationDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.OperationDataGridColumnAp");
+export const PictureDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.PictureDataGridColumnAp");
+export const TextDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.TextDataGridColumnAp");
+export const TimeDataGridColumnAp = $.type("kd.bos.metadata.form.control.grid.column.TimeDataGridColumnAp");

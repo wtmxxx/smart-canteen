@@ -1,0 +1,18 @@
+export declare type AmountDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.AmountDataGridColumnAp;
+export declare const AmountDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.AmountDataGridColumnAp_C;
+export declare type DataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.DataGridColumnAp;
+export declare const DataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.DataGridColumnAp_C;
+export declare type DateDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.DateDataGridColumnAp;
+export declare const DateDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.DateDataGridColumnAp_C;
+export declare type DecimalDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.DecimalDataGridColumnAp;
+export declare const DecimalDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.DecimalDataGridColumnAp_C;
+export declare type IntegerDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.IntegerDataGridColumnAp;
+export declare const IntegerDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.IntegerDataGridColumnAp_C;
+export declare type OperationDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.OperationDataGridColumnAp;
+export declare const OperationDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.OperationDataGridColumnAp_C;
+export declare type PictureDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.PictureDataGridColumnAp;
+export declare const PictureDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.PictureDataGridColumnAp_C;
+export declare type TextDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.TextDataGridColumnAp;
+export declare const TextDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.TextDataGridColumnAp_C;
+export declare type TimeDataGridColumnAp = $.kd.bos.metadata.form.control.grid.column.TimeDataGridColumnAp;
+export declare const TimeDataGridColumnAp: $.kd.bos.metadata.form.control.grid.column.TimeDataGridColumnAp_C;

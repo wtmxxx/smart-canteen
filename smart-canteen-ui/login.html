@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智膳通 - 学生门户</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3b82f6',
+                        secondary: '#10b981',
+                        dark: '#1e293b',
+                        light: '#f8fafc'
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #f0f9ff, #e0f2fe);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        .card {
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            transition: all 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        .wave-bg {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            overflow: hidden;
+            line-height: 0;
+            transform: rotate(180deg);
+            z-index: -1;
+        }
+        
+        .wave-bg svg {
+            position: relative;
+            display: block;
+            width: calc(100% + 1.3px);
+            height: 150px;
+        }
+        
+        .wave-bg .shape-fill {
+            fill: #dbeafe;
+        }
+        
+        .input-field:focus-within {
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.3);
+        }
+        
+        select {
+            cursor: pointer;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            background-image: none;
+        }
+    </style>
+</head>
+<body class="font-sans text-gray-800 relative">
+    <!-- Wave background -->
+    <div class="wave-bg">
+        <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+            <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" class="shape-fill"></path>
+            <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" class="shape-fill"></path>
+            <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
+        </svg>
+    </div>
+    
+    <!-- Main Container -->
+    <div class="container mx-auto px-4 py-12 max-w-6xl">
+        <!-- Header -->
+        <header class="text-center mb-16">
+            <h1 class="text-4xl md:text-5xl font-bold text-dark mb-4 flex items-center justify-center">
+                <i class="fas fa-utensils text-secondary mr-3"></i>
+                智膳通
+                <span class="text-primary">Student</span>
+            </h1>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+                学生门户 | 智慧校园餐饮服务平台
+            </p>
+        </header>
+        
+        <div class="max-w-md mx-auto">
+            <!-- Register Form (hidden by default) -->
+            <div id="registerFormContainer" class="card bg-white rounded-xl p-8 relative overflow-hidden hidden">
+                <div class="absolute top-0 right-0 w-16 h-16 bg-secondary text-white flex items-center justify-center rounded-bl-xl">
+                    <i class="fas fa-user-plus text-xl"></i>
+                </div>
+                <div class="mb-8">
+                    <h2 class="text-2xl font-bold text-dark mb-2">创建账号</h2>
+                    <p class="text-gray-500">请输入您的注册信息</p>
+                </div>
+                
+                <form id="registerForm" class="space-y-6">
+                    <div class="input-field bg-gray-50 rounded-lg p-3 border border-gray-200">
+                        <label class="block text-sm text-gray-500 mb-1">用户名</label>
+                        <div class="flex items-center">
+                            <i class="fas fa-user text-gray-400 mr-3"></i>
+                            <input 
+                                type="text" 
+                                name="username" 
+                                required 
+                                class="w-full bg-transparent outline-none"
+                                placeholder="请输入用户名">
+                        </div>
+                    </div>
+                    
+                    <div class="input-field bg-gray-50 rounded-lg p-3 border border-gray-200">
+                        <label class="block text-sm text-gray-500 mb-1">密码</label>
+                        <div class="flex items-center">
+                            <i class="fas fa-lock text-gray-400 mr-3"></i>
+                            <input 
+                                type="password" 
+                                name="password" 
+                                required 
+                                class="w-full bg-transparent outline-none"
+                                placeholder="请输入密码">
+                        </div>
+                    </div>
+                    
+                    <div class="input-field bg-gray-50 rounded-lg p-3 border border-gray-200">
+                        <label class="block text-sm text-gray-500 mb-1">确认密码</label>
+                        <div class="flex items-center">
+                            <i class="fas fa-lock text-gray-400 mr-3"></i>
+                            <input 
+                                type="password" 
+                                name="confirmPassword" 
+                                required 
+                                class="w-full bg-transparent outline-none"
+                                placeholder="请再次输入密码">
+                        </div>
+                    </div>
+                    
+                    <div class="input-field bg-gray-50 rounded-lg p-3 border border-gray-200">
+                        <label class="block text-sm text-gray-500 mb-1">身份</label>
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-gray-400 mr-3"></i>
+                            <div class="relative w-full">
+                                <select 
+                                    name="role" 
+                                    required 
+                                    class="w-full bg-transparent outline-none appearance-none pr-8">
+                                    <option value="" disabled selected>请选择身份</option>
+                                    <option value="student">学生</option>
+                                    <option value="merchant">商家</option>
+                                    <option value="rider">配送员</option>
+                                </select>
+                                <div class="absolute right-0 top-0 h-full flex items-center pr-3 pointer-events-none">
+                                    <i class="fas fa-chevron-down text-gray-400"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="pt-2">
+                        <button 
+                            type="submit" 
+                            class="w-full bg-secondary hover:bg-green-600 text-white font-medium py-3 rounded-lg transition duration-300">
+                            注册账号
+                            <i class="fas fa-user-plus ml-2"></i>
+                        </button>
+                    </div>
+                </form>
+                
+            </div>
+            <!-- Login Form -->
+            <div id="loginFormContainer" class="card bg-white rounded-xl p-8 relative overflow-hidden">
+                <div class="absolute top-0 right-0 w-16 h-16 bg-primary text-white flex items-center justify-center rounded-bl-xl">
+                    <i class="fas fa-sign-in-alt text-xl"></i>
+                </div>
+                <div class="mb-8">
+                    <h2 class="text-2xl font-bold text-dark mb-2">账号登录</h2>
+                    <p class="text-gray-500">请输入您的学生账号信息</p>
+                </div>
+                
+                <form id="loginForm" class="space-y-6">
+                    <div class="input-field bg-gray-50 rounded-lg p-3 border border-gray-200">
+                        <label class="block text-sm text-gray-500 mb-1">用户名</label>
+                        <div class="flex items-center">
+                            <i class="fas fa-user text-gray-400 mr-3"></i>
+                            <input 
+                                type="text" 
+                                name="username" 
+                                required 
+                                class="w-full bg-transparent outline-none"
+                                placeholder="请输入用户名">
+                        </div>
+                    </div>
+                    
+                    <div class="input-field bg-gray-50 rounded-lg p-3 border border-gray-200">
+                        <label class="block text-sm text-gray-500 mb-1">密码</label>
+                        <div class="flex items-center">
+                            <i class="fas fa-lock text-gray-400 mr-3"></i>
+                            <input 
+                                type="password" 
+                                name="password" 
+                                required 
+                                class="w-full bg-transparent outline-none"
+                                placeholder="请输入密码">
+                        </div>
+                    </div>
+                    
+                    <div class="input-field bg-gray-50 rounded-lg p-3 border border-gray-200">
+                        <label class="block text-sm text-gray-500 mb-1">身份</label>
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-gray-400 mr-3"></i>
+                            <div class="relative w-full">
+                                <select 
+                                    name="role" 
+                                    required 
+                                    class="w-full bg-transparent outline-none appearance-none pr-8">
+                                    <option value="" disabled selected>请选择身份</option>
+                                    <option value="student">学生</option>
+                                    <option value="merchant">商家</option>
+                                    <option value="admin">管理员</option>
+                                    <option value="rider">配送员</option>
+                                </select>
+                                <div class="absolute right-0 top-0 h-full flex items-center pr-3 pointer-events-none">
+                                    <i class="fas fa-chevron-down text-gray-400"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="pt-2">
+                        <button 
+                            type="submit" 
+                            class="w-full bg-primary hover:bg-blue-600 text-white font-medium py-3 rounded-lg transition duration-300">
+                            登录账号
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </button>
+                    </div>
+                </form>
+                
+                <div class="mt-6 text-center text-gray-500 text-sm">
+                    <a href="#" class="text-blue-500 hover:underline">忘记密码?</a>
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class="mt-8 text-center">
+            <p class="text-gray-600" id="toggleText">还没有账号? <a href="#" id="toggleForm" class="text-primary font-medium hover:underline">立即注册</a></p>
+        </div>
+    </div>
+    
+    <!-- Footer -->
+    <footer class="py-6 text-center text-gray-600 text-sm">
+        <p>© 2025 智膳通 - MustBeMine 团队 | 中国矿业大学</p>
+        <p class="mt-2">
+            <a href="https://github.com/wtmxxx" target="_blank" class="text-blue-500 hover:underline">
+                <i class="fab fa-github mr-1"></i> GitHub
+            </a>
+            | Apache License 2.0
+        </p>
+    </footer>
+    
+    <!-- Response Modal -->
+    <div id="responseModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+        <div class="bg-white rounded-xl p-8 max-w-md w-full mx-4 relative">
+            <button class="absolute top-4 right-4 text-gray-500 hover:text-gray-700">
+                <i class="fas fa-times"></i>
+            </button>
+            <div id="modalIcon" class="text-center text-5xl mb-4">
+                <i class="fas fa-spinner fa-spin text-blue-500"></i>
+            </div>
+            <h3 id="modalTitle" class="text-2xl font-bold text-center mb-3">处理中</h3>
+            <p id="modalMessage" class="text-gray-600 text-center">请稍候，正在处理您的请求...</p>
+        </div>
+    </div>
+    
+    <script>
+        // Toggle between login and register forms
+        function updateToggleText(isLogin) {
+            const toggleText = document.getElementById('toggleText');
+            if (isLogin) {
+                toggleText.innerHTML = '还没有账号? <a href="#" id="toggleForm" class="text-primary font-medium hover:underline">立即注册</a>';
+            } else {
+                toggleText.innerHTML = '已有账号? <a href="#" id="showLogin" class="text-primary font-medium hover:underline">立即登录</a>';
+            }
+            // Reattach event listeners
+            document.getElementById('toggleForm')?.addEventListener('click', showRegister);
+            document.getElementById('showLogin')?.addEventListener('click', showLogin);
+        }
+
+        function showRegister(e) {
+            if (e) e.preventDefault();
+            document.getElementById('loginFormContainer').classList.add('hidden');
+            document.getElementById('registerFormContainer').classList.remove('hidden');
+            updateToggleText(false);
+        }
+
+        function showLogin(e) {
+            if (e) e.preventDefault();
+            document.getElementById('loginFormContainer').classList.remove('hidden');
+            document.getElementById('registerFormContainer').classList.add('hidden');
+            updateToggleText(true);
+        }
+
+        // Initial setup
+        document.getElementById('toggleForm').addEventListener('click', showRegister);
+        document.getElementById('showLogin').addEventListener('click', showLogin);
+        
+        // Form Submission Handlers
+        document.getElementById('loginForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const formData = {
+                username: e.target.elements.username.value,
+                password: e.target.elements.password.value,
+                role: e.target.elements.role.value
+            };
+            
+            if (!formData.role) {
+                showModal('请选择身份', 'fas fa-exclamation-circle text-red-500', '请选择您的身份类型');
+                return;
+            }
+            
+            showModal('登录中...', 'fas fa-spinner fa-spin text-primary', '请稍候，正在验证您的身份');
+            
+            try {
+                const response = await fetch('http://10.1.0.5:5799/api/student/v1/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(formData)
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showModal('登录成功', 'fas fa-check-circle text-green-500', '您已成功登录系统');
+                    // Store token and redirect
+                    localStorage.setItem('token', data.data.token);
+                    setTimeout(() => {
+                        window.location.href = '/dashboard';
+                    }, 1500);
+                } else {
+                    showModal('登录失败', 'fas fa-exclamation-circle text-red-500', data.msg || '账号或密码错误');
+                }
+            } catch (error) {
+                showModal('网络错误', 'fas fa-exclamation-circle text-red-500', '无法连接服务器，请稍后重试');
+            }
+        });
+        
+        // Modal functions
+        function showModal(title, iconClass, message) {
+            document.getElementById('modalIcon').className = 'text-center text-5xl mb-4 ' + iconClass;
+            document.getElementById('modalTitle').textContent = title;
+            document.getElementById('modalMessage').textContent = message;
+            document.getElementById('responseModal').classList.remove('hidden');
+        }
+        
+        function hideModal() {
+            document.getElementById('responseModal').classList.add('hidden');
+        }
+        
+        // Close modal when clicking close button or outside modal
+        document.querySelector('#responseModal button').addEventListener('click', hideModal);
+        document.getElementById('responseModal').addEventListener('click', (e) => {
+            if (e.target === document.getElementById('responseModal')) {
+                hideModal();
+            }
+        });
+        
+        // Add ripple effect to buttons
+        document.querySelectorAll('button').forEach(button => {
+            button.addEventListener('click', function(e) {
+                const rect = this.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const y = e.clientY - rect.top;
+                
+                const ripple = document.createElement('span');
+                ripple.className = 'ripple-effect';
+                ripple.style.left = `${x}px`;
+                ripple.style.top = `${y}px`;
+                this.appendChild(ripple);
+                
+                setTimeout(() => {
+                    ripple.remove();
+                }, 600);
+            });
+        });
+        
+        // Inject ripple effect styles
+        const style = document.createElement('style');
+        style.innerHTML = `
+            .ripple-effect {
+                position: absolute;
+                border-radius: 50%;
+                background: rgba(255, 255, 255, 0.7);
+                transform: scale(0);
+                animation: ripple 600ms linear;
+            }
+            
+            @keyframes ripple {
+                to {
+                    transform: scale(4);
+                    opacity: 0;
+                }
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>

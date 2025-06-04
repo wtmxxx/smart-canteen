@@ -1,0 +1,17 @@
+export const AfterExportEntryEvent = $.type("kd.bos.form.plugin.AfterExportEntryEvent");
+export const BeforeDownloadImportTemplateEvent = $.type("kd.bos.form.plugin.BeforeDownloadImportTemplateEvent");
+export const BeforeExportEntryEvent = $.type("kd.bos.form.plugin.BeforeExportEntryEvent");
+export const ImportTemplateListener = $.type("kd.bos.form.plugin.ImportTemplateListener");
+export const OperationResultPlugin = $.type("kd.bos.form.plugin.OperationResultPlugin");
+export const TemplateGroupBaseDataPlugin = $.type("kd.bos.form.plugin.TemplateGroupBaseDataPlugin");
+export const TemplateTreeBaseDataPlugin = $.type("kd.bos.form.plugin.TemplateTreeBaseDataPlugin");
+export const TemplateTreePlugin = $.type("kd.bos.form.plugin.TemplateTreePlugin");
+export const TreeListBizAppsPlugin = $.type("kd.bos.form.plugin.TreeListBizAppsPlugin");
+export const MobileTreeListPlugin = $.type("kd.bos.form.plugin.MobileTreeListPlugin");
+export const YzjContextMenuClickPlugin = $.type("kd.bos.form.plugin.YzjContextMenuClickPlugin");
+export const AbstractFormPlugin = $.type("kd.bos.form.plugin.AbstractFormPlugin");
+export const AbstractMobFormPlugin = $.type("kd.bos.form.plugin.AbstractMobFormPlugin");
+export const FormViewPluginProxy = $.type("kd.bos.form.plugin.FormViewPluginProxy");
+export const IFormPlugin = $.type("kd.bos.form.plugin.IFormPlugin");
+export const IMobFormPlugin = $.type("kd.bos.form.plugin.IMobFormPlugin");
+export const IWaterMarkPlugin = $.type("kd.bos.form.plugin.IWaterMarkPlugin");

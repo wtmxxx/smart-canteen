@@ -1,0 +1,10 @@
+export const IBankCardService = $.type("kd.sdk.hr.hom.business.personinfo.IBankCardService");
+export const IBaseInfoService = $.type("kd.sdk.hr.hom.business.personinfo.IBaseInfoService");
+export const ICanFamilyService = $.type("kd.sdk.hr.hom.business.personinfo.ICanFamilyService");
+export const ICancontactService = $.type("kd.sdk.hr.hom.business.personinfo.ICancontactService");
+export const ICertificateInfoService = $.type("kd.sdk.hr.hom.business.personinfo.ICertificateInfoService");
+export const IContactInfoService = $.type("kd.sdk.hr.hom.business.personinfo.IContactInfoService");
+export const IEducationExpService = $.type("kd.sdk.hr.hom.business.personinfo.IEducationExpService");
+export const ILanguageSkillService = $.type("kd.sdk.hr.hom.business.personinfo.ILanguageSkillService");
+export const IPreviousWorkExpService = $.type("kd.sdk.hr.hom.business.personinfo.IPreviousWorkExpService");
+export const IRsmpatinvService = $.type("kd.sdk.hr.hom.business.personinfo.IRsmpatinvService");

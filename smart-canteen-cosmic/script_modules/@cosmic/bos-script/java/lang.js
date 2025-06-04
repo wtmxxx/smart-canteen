@@ -1,0 +1,17 @@
+export const Appendable = $.type("java.lang.Appendable");
+export const AutoCloseable = $.type("java.lang.AutoCloseable");
+export const CharSequence = $.type("java.lang.CharSequence");
+export const Character$Subset = $.type("java.lang.Character$Subset");
+export const Cloneable = $.type("java.lang.Cloneable");
+export const Comparable = $.type("java.lang.Comparable");
+export const Enum = $.type("java.lang.Enum");
+export const Exception = $.type("java.lang.Exception");
+export const Iterable = $.type("java.lang.Iterable");
+export const Long = $.type("java.lang.Long");
+export const Package = $.type("java.lang.Package");
+export const Readable = $.type("java.lang.Readable");
+export const Runnable = $.type("java.lang.Runnable");
+export const StackTraceElement = $.type("java.lang.StackTraceElement");
+export const StringBuffer = $.type("java.lang.StringBuffer");
+export const StringBuilder = $.type("java.lang.StringBuilder");
+export const Throwable = $.type("java.lang.Throwable");

@@ -1,0 +1,14 @@
+export declare type BOSExpression = $.kd.bos.entity.formula.BOSExpression;
+export declare const BOSExpression: $.kd.bos.entity.formula.BOSExpression_C;
+export declare type BOSExpressionContext = $.kd.bos.entity.formula.BOSExpressionContext;
+export declare const BOSExpressionContext: $.kd.bos.entity.formula.BOSExpressionContext_C;
+export declare type CalcExprParser = $.kd.bos.entity.formula.CalcExprParser;
+export declare const CalcExprParser: $.kd.bos.entity.formula.CalcExprParser_C;
+export declare type ExpressionContext = $.kd.bos.entity.formula.ExpressionContext;
+export declare const ExpressionContext: $.kd.bos.entity.formula.ExpressionContext;
+export declare type ExpressionParameter = $.kd.bos.entity.formula.ExpressionParameter;
+export declare const ExpressionParameter: $.kd.bos.entity.formula.ExpressionParameter_C;
+export declare type RowDataModel = $.kd.bos.entity.formula.RowDataModel;
+export declare const RowDataModel: $.kd.bos.entity.formula.RowDataModel_C;
+export declare type VarValueParser = $.kd.bos.entity.formula.VarValueParser;
+export declare const VarValueParser: $.kd.bos.entity.formula.VarValueParser_C;

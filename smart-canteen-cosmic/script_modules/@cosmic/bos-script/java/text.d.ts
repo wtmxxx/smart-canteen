@@ -1,0 +1,23 @@
+/// <reference path="../index.d.ts" />
+export declare type AttributedCharacterIterator = $.java.text.AttributedCharacterIterator;
+export declare const AttributedCharacterIterator: $.java.text.AttributedCharacterIterator;
+export declare type AttributedCharacterIterator$Attribute = $.java.text.AttributedCharacterIterator$Attribute;
+export declare const AttributedCharacterIterator$Attribute: $.java.text.AttributedCharacterIterator$Attribute_C;
+export declare type CharacterIterator = $.java.text.CharacterIterator;
+export declare const CharacterIterator: $.java.text.CharacterIterator;
+export declare type DateFormat = $.java.text.DateFormat;
+export declare const DateFormat: $.java.text.DateFormat_C;
+export declare type DateFormatSymbols = $.java.text.DateFormatSymbols;
+export declare const DateFormatSymbols: $.java.text.DateFormatSymbols_C;
+export declare type FieldPosition = $.java.text.FieldPosition;
+export declare const FieldPosition: $.java.text.FieldPosition_C;
+export declare type Format = $.java.text.Format;
+export declare const Format: $.java.text.Format_C;
+export declare type Format$Field = $.java.text.Format$Field;
+export declare const Format$Field: $.java.text.Format$Field_C;
+export declare type NumberFormat = $.java.text.NumberFormat;
+export declare const NumberFormat: $.java.text.NumberFormat_C;
+export declare type ParsePosition = $.java.text.ParsePosition;
+export declare const ParsePosition: $.java.text.ParsePosition_C;
+export declare type SimpleDateFormat = $.java.text.SimpleDateFormat;
+export declare const SimpleDateFormat: $.java.text.SimpleDateFormat_C;

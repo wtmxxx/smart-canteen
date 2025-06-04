@@ -1,0 +1,10 @@
+export declare type CommonDtxResponse = $.kd.bos.kdtx.common.invoke.CommonDtxResponse;
+export declare const CommonDtxResponse: $.kd.bos.kdtx.common.invoke.CommonDtxResponse_C;
+export declare type DtxBranch = $.kd.bos.kdtx.common.invoke.DtxBranch;
+export declare const DtxBranch: $.kd.bos.kdtx.common.invoke.DtxBranch_C;
+export declare type DtxGlobalResult = $.kd.bos.kdtx.common.invoke.DtxGlobalResult;
+export declare const DtxGlobalResult: $.kd.bos.kdtx.common.invoke.DtxGlobalResult_C;
+export declare type DtxResponse = $.kd.bos.kdtx.common.invoke.DtxResponse;
+export declare const DtxResponse: $.kd.bos.kdtx.common.invoke.DtxResponse;
+export declare type DtxResult = $.kd.bos.kdtx.common.invoke.DtxResult;
+export declare const DtxResult: $.kd.bos.kdtx.common.invoke.DtxResult_C;

@@ -1,0 +1,10 @@
+export declare type Chunk = $.kd.bos.gptas.api.vector.Chunk;
+export declare const Chunk: $.kd.bos.gptas.api.vector.Chunk_C;
+export declare type EmbeddingModel = $.kd.bos.gptas.api.vector.EmbeddingModel;
+export declare const EmbeddingModel: typeof $.kd.bos.gptas.api.vector.EmbeddingModel;
+export declare type VectorResult = $.kd.bos.gptas.api.vector.VectorResult;
+export declare const VectorResult: $.kd.bos.gptas.api.vector.VectorResult_C;
+export declare type VectorTask = $.kd.bos.gptas.api.vector.VectorTask;
+export declare const VectorTask: $.kd.bos.gptas.api.vector.VectorTask_C;
+export declare type VectorTaskItem = $.kd.bos.gptas.api.vector.VectorTaskItem;
+export declare const VectorTaskItem: $.kd.bos.gptas.api.vector.VectorTaskItem_C;

@@ -1,0 +1,10 @@
+export declare type GetDimTypeIdReq = $.kd.bos.permission.model.perm.req.permctrltype.GetDimTypeIdReq;
+export declare const GetDimTypeIdReq: $.kd.bos.permission.model.perm.req.permctrltype.GetDimTypeIdReq_C;
+export declare type GetHasPermPermCtrlObjReq = $.kd.bos.permission.model.perm.req.permctrltype.GetHasPermPermCtrlObjReq;
+export declare const GetHasPermPermCtrlObjReq: $.kd.bos.permission.model.perm.req.permctrltype.GetHasPermPermCtrlObjReq_C;
+export declare type GetHasPermUserReq = $.kd.bos.permission.model.perm.req.permctrltype.GetHasPermUserReq;
+export declare const GetHasPermUserReq: $.kd.bos.permission.model.perm.req.permctrltype.GetHasPermUserReq_C;
+export declare type GetSuitableDimTypeReq = $.kd.bos.permission.model.perm.req.permctrltype.GetSuitableDimTypeReq;
+export declare const GetSuitableDimTypeReq: $.kd.bos.permission.model.perm.req.permctrltype.GetSuitableDimTypeReq_C;
+export declare type GetTreeShowFormCtrlTypeReq = $.kd.bos.permission.model.perm.req.permctrltype.GetTreeShowFormCtrlTypeReq;
+export declare const GetTreeShowFormCtrlTypeReq: $.kd.bos.permission.model.perm.req.permctrltype.GetTreeShowFormCtrlTypeReq_C;

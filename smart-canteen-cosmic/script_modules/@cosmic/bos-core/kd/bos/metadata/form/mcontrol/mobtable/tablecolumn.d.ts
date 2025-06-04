@@ -1,0 +1,16 @@
+export declare type AmountMobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.AmountMobTableColumnAp;
+export declare const AmountMobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.AmountMobTableColumnAp_C;
+export declare type DateMobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.DateMobTableColumnAp;
+export declare const DateMobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.DateMobTableColumnAp_C;
+export declare type DecimalMobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.DecimalMobTableColumnAp;
+export declare const DecimalMobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.DecimalMobTableColumnAp_C;
+export declare type IntegerMobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.IntegerMobTableColumnAp;
+export declare const IntegerMobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.IntegerMobTableColumnAp_C;
+export declare type MobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.MobTableColumnAp;
+export declare const MobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.MobTableColumnAp_C;
+export declare type PictureMobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.PictureMobTableColumnAp;
+export declare const PictureMobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.PictureMobTableColumnAp_C;
+export declare type TextMobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.TextMobTableColumnAp;
+export declare const TextMobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.TextMobTableColumnAp_C;
+export declare type TimeMobTableColumnAp = $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.TimeMobTableColumnAp;
+export declare const TimeMobTableColumnAp: $.kd.bos.metadata.form.mcontrol.mobtable.tablecolumn.TimeMobTableColumnAp_C;

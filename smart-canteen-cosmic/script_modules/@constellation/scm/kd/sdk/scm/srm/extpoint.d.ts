@@ -1,0 +1,27 @@
+/// <reference types="../../../../index" />
+export declare type IMainPage1NoticeService = $.kd.sdk.scm.srm.extpoint.IMainPage1NoticeService;
+export declare const IMainPage1NoticeService: $.kd.sdk.scm.srm.extpoint.IMainPage1NoticeService;
+export declare type ISrmAccessNodeService = $.kd.sdk.scm.srm.extpoint.ISrmAccessNodeService;
+export declare const ISrmAccessNodeService: $.kd.sdk.scm.srm.extpoint.ISrmAccessNodeService;
+export declare type ISrmAllScorerScoredService = $.kd.sdk.scm.srm.extpoint.ISrmAllScorerScoredService;
+export declare const ISrmAllScorerScoredService: $.kd.sdk.scm.srm.extpoint.ISrmAllScorerScoredService;
+export declare type ISrmAssignUserRoleService = $.kd.sdk.scm.srm.extpoint.ISrmAssignUserRoleService;
+export declare const ISrmAssignUserRoleService: $.kd.sdk.scm.srm.extpoint.ISrmAssignUserRoleService;
+export declare type ISrmAutoCalGroupOrgService = $.kd.sdk.scm.srm.extpoint.ISrmAutoCalGroupOrgService;
+export declare const ISrmAutoCalGroupOrgService: $.kd.sdk.scm.srm.extpoint.ISrmAutoCalGroupOrgService;
+export declare type ISrmAutoCalPluginService = $.kd.sdk.scm.srm.extpoint.ISrmAutoCalPluginService;
+export declare const ISrmAutoCalPluginService: $.kd.sdk.scm.srm.extpoint.ISrmAutoCalPluginService;
+export declare type ISrmCalEvaGradeService = $.kd.sdk.scm.srm.extpoint.ISrmCalEvaGradeService;
+export declare const ISrmCalEvaGradeService: $.kd.sdk.scm.srm.extpoint.ISrmCalEvaGradeService;
+export declare type ISrmEvaplanWritebackScoredService = $.kd.sdk.scm.srm.extpoint.ISrmEvaplanWritebackScoredService;
+export declare const ISrmEvaplanWritebackScoredService: $.kd.sdk.scm.srm.extpoint.ISrmEvaplanWritebackScoredService;
+export declare type ISrmRegisterSendMessageService = $.kd.sdk.scm.srm.extpoint.ISrmRegisterSendMessageService;
+export declare const ISrmRegisterSendMessageService: $.kd.sdk.scm.srm.extpoint.ISrmRegisterSendMessageService;
+export declare type ISrmSupChgInfoEffect = $.kd.sdk.scm.srm.extpoint.ISrmSupChgInfoEffect;
+export declare const ISrmSupChgInfoEffect: $.kd.sdk.scm.srm.extpoint.ISrmSupChgInfoEffect;
+export declare type ISrmSupChgPurUserAdminModifyService = $.kd.sdk.scm.srm.extpoint.ISrmSupChgPurUserAdminModifyService;
+export declare const ISrmSupChgPurUserAdminModifyService: $.kd.sdk.scm.srm.extpoint.ISrmSupChgPurUserAdminModifyService;
+export declare type ISrmSynBdSupplierService = $.kd.sdk.scm.srm.extpoint.ISrmSynBdSupplierService;
+export declare const ISrmSynBdSupplierService: $.kd.sdk.scm.srm.extpoint.ISrmSynBdSupplierService;
+export declare type ISupplierRegSetDefValueService = $.kd.sdk.scm.srm.extpoint.ISupplierRegSetDefValueService;
+export declare const ISupplierRegSetDefValueService: $.kd.sdk.scm.srm.extpoint.ISupplierRegSetDefValueService;

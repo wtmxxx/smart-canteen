@@ -1,0 +1,10 @@
+export declare type DTXCallback = $.kd.bos.kdtx.sdk.api.DTXCallback;
+export declare const DTXCallback: $.kd.bos.kdtx.sdk.api.DTXCallback;
+export declare type EventualConsistencyService = $.kd.bos.kdtx.sdk.api.EventualConsistencyService;
+export declare const EventualConsistencyService: $.kd.bos.kdtx.sdk.api.EventualConsistencyService_C;
+export declare type KdtxBusinessHelper = $.kd.bos.kdtx.sdk.api.KdtxBusinessHelper;
+export declare const KdtxBusinessHelper: $.kd.bos.kdtx.sdk.api.KdtxBusinessHelper_C;
+export declare type TCCAdapterService = $.kd.bos.kdtx.sdk.api.TCCAdapterService;
+export declare const TCCAdapterService: $.kd.bos.kdtx.sdk.api.TCCAdapterService_C;
+export declare type TCCServiceOnlyConfirm = $.kd.bos.kdtx.sdk.api.TCCServiceOnlyConfirm;
+export declare const TCCServiceOnlyConfirm: $.kd.bos.kdtx.sdk.api.TCCServiceOnlyConfirm_C;

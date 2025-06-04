@@ -1,0 +1,13 @@
+export const AbstractBillPlugIn = $.type("kd.bos.bill.AbstractBillPlugIn");
+export const AbstractBillWebApiPlugin = $.type("kd.bos.bill.AbstractBillWebApiPlugin");
+export const AbstractMobBillPlugIn = $.type("kd.bos.bill.AbstractMobBillPlugIn");
+export const IBillPlugin = $.type("kd.bos.bill.IBillPlugin");
+export const IBillWebApiPlugin = $.type("kd.bos.bill.IBillWebApiPlugin");
+export const IMobileBillView = $.type("kd.bos.bill.IMobileBillView");
+export const BillOperationStatus = $.type("kd.bos.bill.BillOperationStatus");
+export const BillShowParameter = $.type("kd.bos.bill.BillShowParameter");
+export const CtsyBillShowParameter = $.type("kd.bos.bill.CtsyBillShowParameter");
+export const IBillView = $.type("kd.bos.bill.IBillView");
+export const MobileBillShowParameter = $.type("kd.bos.bill.MobileBillShowParameter");
+export const MobileFormPosition = $.type("kd.bos.bill.MobileFormPosition");
+export const OperationStatus = $.type("kd.bos.bill.OperationStatus");

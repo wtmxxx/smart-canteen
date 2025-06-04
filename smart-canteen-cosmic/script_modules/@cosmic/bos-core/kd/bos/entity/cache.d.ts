@@ -1,0 +1,12 @@
+export declare type AppCache = $.kd.bos.entity.cache.AppCache;
+export declare const AppCache: $.kd.bos.entity.cache.AppCache_C;
+export declare type IAppCache = $.kd.bos.entity.cache.IAppCache;
+export declare const IAppCache: $.kd.bos.entity.cache.IAppCache;
+export declare type IBusinessAppCache = $.kd.bos.entity.cache.IBusinessAppCache;
+export declare const IBusinessAppCache: $.kd.bos.entity.cache.IBusinessAppCache;
+export declare type RedisModelCache = $.kd.bos.entity.cache.RedisModelCache;
+export declare const RedisModelCache: $.kd.bos.entity.cache.RedisModelCache_C;
+export declare type CacheKeyUtil = $.kd.bos.entity.cache.CacheKeyUtil;
+export declare const CacheKeyUtil: $.kd.bos.entity.cache.CacheKeyUtil_C;
+export declare type IModelCache = $.kd.bos.entity.cache.IModelCache;
+export declare const IModelCache: $.kd.bos.entity.cache.IModelCache;

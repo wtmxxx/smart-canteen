@@ -1,0 +1,16 @@
+export const CandContrastPropLoadEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.CandContrastPropLoadEvent");
+export const ContrastPropLoadEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.ContrastPropLoadEvent");
+export const OnGetCustomerQFilterEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetCustomerQFilterEvent");
+export const OnGetDefaultDisplayParamEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetDefaultDisplayParamEvent");
+export const OnGetFieldColumnWidthEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetFieldColumnWidthEvent");
+export const OnGetFieldLockStatusEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetFieldLockStatusEvent");
+export const OnGetFieldParamEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetFieldParamEvent");
+export const OnGetIntervalPropEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetIntervalPropEvent");
+export const OnGetItemRankEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetItemRankEvent");
+export const OnGetItemTipsEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetItemTipsEvent");
+export const OnGetNumberConstraintEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetNumberConstraintEvent");
+export const OnGetOnlySalaryCountEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetOnlySalaryCountEvent");
+export const OnGetPreviewStyleEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetPreviewStyleEvent");
+export const OnGetSpecialRankEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetSpecialRankEvent");
+export const OnGetVarPredictItemEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.OnGetVarPredictItemEvent");
+export const StdTableCalculateEvent = $.type("kd.sdk.swc.hcdm.business.extpoint.salarystd.event.StdTableCalculateEvent");

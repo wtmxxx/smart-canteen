@@ -1,0 +1,15 @@
+export const BaseRefEnum = $.type("kd.sdk.hr.hspm.common.enums.BaseRefEnum");
+export const BusinessTypeEnum = $.type("kd.sdk.hr.hspm.common.enums.BusinessTypeEnum");
+export const ClientTypeEnum = $.type("kd.sdk.hr.hspm.common.enums.ClientTypeEnum");
+export const ConfigAreaEnum = $.type("kd.sdk.hr.hspm.common.enums.ConfigAreaEnum");
+export const FieldTypeEnum = $.type("kd.sdk.hr.hspm.common.enums.FieldTypeEnum");
+export const InfoClassifyEntityKeyEnum = $.type("kd.sdk.hr.hspm.common.enums.InfoClassifyEntityKeyEnum");
+export const InfoClassifyFormOperateEnum = $.type("kd.sdk.hr.hspm.common.enums.InfoClassifyFormOperateEnum");
+export const InfoClassifyImportOperateEnum = $.type("kd.sdk.hr.hspm.common.enums.InfoClassifyImportOperateEnum");
+export const InfoClassifyListOperateEnum = $.type("kd.sdk.hr.hspm.common.enums.InfoClassifyListOperateEnum");
+export const InfoGroupFieldCategroyEnum = $.type("kd.sdk.hr.hspm.common.enums.InfoGroupFieldCategroyEnum");
+export const PereduexpcerttypeFieldEnum = $.type("kd.sdk.hr.hspm.common.enums.PereduexpcerttypeFieldEnum");
+export const PereduexpinfoFieldEnum = $.type("kd.sdk.hr.hspm.common.enums.PereduexpinfoFieldEnum");
+export const PersonModelClassificationEnum = $.type("kd.sdk.hr.hspm.common.enums.PersonModelClassificationEnum");
+export const PersoninfoFieldEnum = $.type("kd.sdk.hr.hspm.common.enums.PersoninfoFieldEnum");
+export const ReportTypeEnum = $.type("kd.sdk.hr.hspm.common.enums.ReportTypeEnum");

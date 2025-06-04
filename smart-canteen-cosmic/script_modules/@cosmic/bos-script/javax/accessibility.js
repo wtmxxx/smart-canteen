@@ -1,0 +1,16 @@
+export const Accessible = $.type("javax.accessibility.Accessible");
+export const AccessibleAction = $.type("javax.accessibility.AccessibleAction");
+export const AccessibleBundle = $.type("javax.accessibility.AccessibleBundle");
+export const AccessibleComponent = $.type("javax.accessibility.AccessibleComponent");
+export const AccessibleContext = $.type("javax.accessibility.AccessibleContext");
+export const AccessibleEditableText = $.type("javax.accessibility.AccessibleEditableText");
+export const AccessibleIcon = $.type("javax.accessibility.AccessibleIcon");
+export const AccessibleRelation = $.type("javax.accessibility.AccessibleRelation");
+export const AccessibleRelationSet = $.type("javax.accessibility.AccessibleRelationSet");
+export const AccessibleRole = $.type("javax.accessibility.AccessibleRole");
+export const AccessibleSelection = $.type("javax.accessibility.AccessibleSelection");
+export const AccessibleState = $.type("javax.accessibility.AccessibleState");
+export const AccessibleStateSet = $.type("javax.accessibility.AccessibleStateSet");
+export const AccessibleTable = $.type("javax.accessibility.AccessibleTable");
+export const AccessibleText = $.type("javax.accessibility.AccessibleText");
+export const AccessibleValue = $.type("javax.accessibility.AccessibleValue");

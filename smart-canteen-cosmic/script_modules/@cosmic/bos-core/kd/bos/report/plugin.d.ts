@@ -1,0 +1,10 @@
+export declare type AbstractReportFormPlugin = $.kd.bos.report.plugin.AbstractReportFormPlugin;
+export declare const AbstractReportFormPlugin: $.kd.bos.report.plugin.AbstractReportFormPlugin_C;
+export declare type GroupReportFormPlugin = $.kd.bos.report.plugin.GroupReportFormPlugin;
+export declare const GroupReportFormPlugin: $.kd.bos.report.plugin.GroupReportFormPlugin_C;
+export declare type IReportFormPlugin = $.kd.bos.report.plugin.IReportFormPlugin;
+export declare const IReportFormPlugin: $.kd.bos.report.plugin.IReportFormPlugin;
+export declare type ReportExportListener = $.kd.bos.report.plugin.ReportExportListener;
+export declare const ReportExportListener: $.kd.bos.report.plugin.ReportExportListener;
+export declare type ReportViewPluginProxy = $.kd.bos.report.plugin.ReportViewPluginProxy;
+export declare const ReportViewPluginProxy: $.kd.bos.report.plugin.ReportViewPluginProxy_C;

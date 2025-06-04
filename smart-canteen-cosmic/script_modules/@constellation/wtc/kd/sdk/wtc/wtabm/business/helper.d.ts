@@ -1,0 +1,12 @@
+export declare type VaBillDto = $.kd.sdk.wtc.wtabm.business.helper.VaBillDto;
+export declare const VaBillDto: $.kd.sdk.wtc.wtabm.business.helper.VaBillDto_C;
+export declare type VaBillEntryEntityDto = $.kd.sdk.wtc.wtabm.business.helper.VaBillEntryEntityDto;
+export declare const VaBillEntryEntityDto: $.kd.sdk.wtc.wtabm.business.helper.VaBillEntryEntityDto_C;
+export declare type VaBillSubEntryDto = $.kd.sdk.wtc.wtabm.business.helper.VaBillSubEntryDto;
+export declare const VaBillSubEntryDto: $.kd.sdk.wtc.wtabm.business.helper.VaBillSubEntryDto_C;
+export declare type VaBillsWithTimeInfoParam = $.kd.sdk.wtc.wtabm.business.helper.VaBillsWithTimeInfoParam;
+export declare const VaBillsWithTimeInfoParam: $.kd.sdk.wtc.wtabm.business.helper.VaBillsWithTimeInfoParam_C;
+export declare type WTABMHelper = $.kd.sdk.wtc.wtabm.business.helper.WTABMHelper;
+export declare const WTABMHelper: $.kd.sdk.wtc.wtabm.business.helper.WTABMHelper_C;
+export declare type WtabmVaBillHelper = $.kd.sdk.wtc.wtabm.business.helper.WtabmVaBillHelper;
+export declare const WtabmVaBillHelper: $.kd.sdk.wtc.wtabm.business.helper.WtabmVaBillHelper_C;

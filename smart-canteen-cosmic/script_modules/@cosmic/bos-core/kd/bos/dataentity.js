@@ -1,0 +1,10 @@
+export const Consumer = $.type("kd.bos.dataentity.Consumer");
+export const DataEntityModule = $.type("kd.bos.dataentity.DataEntityModule");
+export const FourTuple = $.type("kd.bos.dataentity.FourTuple");
+export const OperateOption = $.type("kd.bos.dataentity.OperateOption");
+export const OperateOptionPrivate = $.type("kd.bos.dataentity.OperateOptionPrivate");
+export const RefObject = $.type("kd.bos.dataentity.RefObject");
+export const SqlParameter = $.type("kd.bos.dataentity.SqlParameter");
+export const ThreeTuple = $.type("kd.bos.dataentity.ThreeTuple");
+export const Tuple = $.type("kd.bos.dataentity.Tuple");
+export const TypesContainer = $.type("kd.bos.dataentity.TypesContainer");

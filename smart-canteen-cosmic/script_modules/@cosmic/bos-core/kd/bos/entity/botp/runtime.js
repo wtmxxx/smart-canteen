@@ -1,0 +1,17 @@
+export const AbstractConvertServiceArgs = $.type("kd.bos.entity.botp.runtime.AbstractConvertServiceArgs");
+export const BFRow = $.type("kd.bos.entity.botp.runtime.BFRow");
+export const BFRowId = $.type("kd.bos.entity.botp.runtime.BFRowId");
+export const BFRowLinkDownNode = $.type("kd.bos.entity.botp.runtime.BFRowLinkDownNode");
+export const BFRowLinkUpNode = $.type("kd.bos.entity.botp.runtime.BFRowLinkUpNode");
+export const BeforeDrawArgs = $.type("kd.bos.entity.botp.runtime.BeforeDrawArgs");
+export const BeforeDrawOpResult = $.type("kd.bos.entity.botp.runtime.BeforeDrawOpResult");
+export const ConvertConst = $.type("kd.bos.entity.botp.runtime.ConvertConst");
+export const ConvertOpRule = $.type("kd.bos.entity.botp.runtime.ConvertOpRule");
+export const ConvertOperationResult = $.type("kd.bos.entity.botp.runtime.ConvertOperationResult");
+export const DrawArgs = $.type("kd.bos.entity.botp.runtime.DrawArgs");
+export const GetTargetOptionalOrgsArgs = $.type("kd.bos.entity.botp.runtime.GetTargetOptionalOrgsArgs");
+export const GetTargetOptionalOrgsResult = $.type("kd.bos.entity.botp.runtime.GetTargetOptionalOrgsResult");
+export const PushArgs = $.type("kd.bos.entity.botp.runtime.PushArgs");
+export const SourceBillReport = $.type("kd.bos.entity.botp.runtime.SourceBillReport");
+export const SourceRowReport = $.type("kd.bos.entity.botp.runtime.SourceRowReport");
+export const TableDefine = $.type("kd.bos.entity.botp.runtime.TableDefine");

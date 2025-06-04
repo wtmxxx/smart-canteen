@@ -1,0 +1,14 @@
+export declare type AdvContainer = $.kd.bos.form.container.AdvContainer;
+export declare const AdvContainer: $.kd.bos.form.container.AdvContainer_C;
+export declare type Container = $.kd.bos.form.container.Container;
+export declare const Container: $.kd.bos.form.container.Container_C;
+export declare type FormRoot = $.kd.bos.form.container.FormRoot;
+export declare const FormRoot: $.kd.bos.form.container.FormRoot_C;
+export declare type LayoutFlex = $.kd.bos.form.container.LayoutFlex;
+export declare const LayoutFlex: $.kd.bos.form.container.LayoutFlex_C;
+export declare type Tab = $.kd.bos.form.container.Tab;
+export declare const Tab: $.kd.bos.form.container.Tab_C;
+export declare type TabPage = $.kd.bos.form.container.TabPage;
+export declare const TabPage: $.kd.bos.form.container.TabPage_C;
+export declare type Wizard = $.kd.bos.form.container.Wizard;
+export declare const Wizard: $.kd.bos.form.container.Wizard_C;

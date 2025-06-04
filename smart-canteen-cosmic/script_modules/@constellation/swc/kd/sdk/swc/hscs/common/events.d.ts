@@ -1,0 +1,10 @@
+export declare type AfterSalaryCalEvent = $.kd.sdk.swc.hscs.common.events.AfterSalaryCalEvent;
+export declare const AfterSalaryCalEvent: $.kd.sdk.swc.hscs.common.events.AfterSalaryCalEvent_C;
+export declare type CalRollBackEvent = $.kd.sdk.swc.hscs.common.events.CalRollBackEvent;
+export declare const CalRollBackEvent: $.kd.sdk.swc.hscs.common.events.CalRollBackEvent_C;
+export declare type CostAllotDetailArgs = $.kd.sdk.swc.hscs.common.events.CostAllotDetailArgs;
+export declare const CostAllotDetailArgs: $.kd.sdk.swc.hscs.common.events.CostAllotDetailArgs_C;
+export declare type FetchResultCoverEvent = $.kd.sdk.swc.hscs.common.events.FetchResultCoverEvent;
+export declare const FetchResultCoverEvent: $.kd.sdk.swc.hscs.common.events.FetchResultCoverEvent_C;
+export declare type HisDataTaskCheckEvent = $.kd.sdk.swc.hscs.common.events.HisDataTaskCheckEvent;
+export declare const HisDataTaskCheckEvent: $.kd.sdk.swc.hscs.common.events.HisDataTaskCheckEvent_C;

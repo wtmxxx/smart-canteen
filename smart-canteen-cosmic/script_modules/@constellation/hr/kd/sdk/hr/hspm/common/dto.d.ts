@@ -1,0 +1,10 @@
+export declare type ChangeDto = $.kd.sdk.hr.hspm.common.dto.ChangeDto;
+export declare const ChangeDto: $.kd.sdk.hr.hspm.common.dto.ChangeDto_C;
+export declare type DrawFormFieldDto = $.kd.sdk.hr.hspm.common.dto.DrawFormFieldDto;
+export declare const DrawFormFieldDto: $.kd.sdk.hr.hspm.common.dto.DrawFormFieldDto_C;
+export declare type HpfsChgexternalrecordQueueDto = $.kd.sdk.hr.hspm.common.dto.HpfsChgexternalrecordQueueDto;
+export declare const HpfsChgexternalrecordQueueDto: $.kd.sdk.hr.hspm.common.dto.HpfsChgexternalrecordQueueDto_C;
+export declare type PereduexpcertDynDto = $.kd.sdk.hr.hspm.common.dto.PereduexpcertDynDto;
+export declare const PereduexpcertDynDto: $.kd.sdk.hr.hspm.common.dto.PereduexpcertDynDto_C;
+export declare type PersonModelDto = $.kd.sdk.hr.hspm.common.dto.PersonModelDto;
+export declare const PersonModelDto: $.kd.sdk.hr.hspm.common.dto.PersonModelDto_C;

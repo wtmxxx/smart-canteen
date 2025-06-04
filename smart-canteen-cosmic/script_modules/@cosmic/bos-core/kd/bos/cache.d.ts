@@ -1,0 +1,14 @@
+export declare type CacheConfigInfo = $.kd.bos.cache.CacheConfigInfo;
+export declare const CacheConfigInfo: $.kd.bos.cache.CacheConfigInfo_C;
+export declare type CacheFactory = $.kd.bos.cache.CacheFactory;
+export declare const CacheFactory: $.kd.bos.cache.CacheFactory_C;
+export declare type CacheModule = $.kd.bos.cache.CacheModule;
+export declare const CacheModule: $.kd.bos.cache.CacheModule_C;
+export declare type DistributeCacheHAPolicy = $.kd.bos.cache.DistributeCacheHAPolicy;
+export declare const DistributeCacheHAPolicy: $.kd.bos.cache.DistributeCacheHAPolicy_C;
+export declare type DistributeSessionlessCache = $.kd.bos.cache.DistributeSessionlessCache;
+export declare const DistributeSessionlessCache: $.kd.bos.cache.DistributeSessionlessCache;
+export declare type LocalMemoryCache = $.kd.bos.cache.LocalMemoryCache;
+export declare const LocalMemoryCache: $.kd.bos.cache.LocalMemoryCache;
+export declare type TempFileCache = $.kd.bos.cache.TempFileCache;
+export declare const TempFileCache: $.kd.bos.cache.TempFileCache;

@@ -1,0 +1,16 @@
+export const DragGestureEvent = $.type("java.awt.dnd.DragGestureEvent");
+export const DragGestureListener = $.type("java.awt.dnd.DragGestureListener");
+export const DragGestureRecognizer = $.type("java.awt.dnd.DragGestureRecognizer");
+export const DragSource = $.type("java.awt.dnd.DragSource");
+export const DragSourceContext = $.type("java.awt.dnd.DragSourceContext");
+export const DragSourceDragEvent = $.type("java.awt.dnd.DragSourceDragEvent");
+export const DragSourceDropEvent = $.type("java.awt.dnd.DragSourceDropEvent");
+export const DragSourceEvent = $.type("java.awt.dnd.DragSourceEvent");
+export const DragSourceListener = $.type("java.awt.dnd.DragSourceListener");
+export const DragSourceMotionListener = $.type("java.awt.dnd.DragSourceMotionListener");
+export const DropTarget = $.type("java.awt.dnd.DropTarget");
+export const DropTargetContext = $.type("java.awt.dnd.DropTargetContext");
+export const DropTargetDragEvent = $.type("java.awt.dnd.DropTargetDragEvent");
+export const DropTargetDropEvent = $.type("java.awt.dnd.DropTargetDropEvent");
+export const DropTargetEvent = $.type("java.awt.dnd.DropTargetEvent");
+export const DropTargetListener = $.type("java.awt.dnd.DropTargetListener");

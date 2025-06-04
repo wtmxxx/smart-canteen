@@ -1,0 +1,14 @@
+export declare type CommDataDto = $.kd.bos.openapi.security.model.CommDataDto;
+export declare const CommDataDto: $.kd.bos.openapi.security.model.CommDataDto_C;
+export declare type CommonSecurityDto = $.kd.bos.openapi.security.model.CommonSecurityDto;
+export declare const CommonSecurityDto: $.kd.bos.openapi.security.model.CommonSecurityDto_C;
+export declare type EncryptInfo = $.kd.bos.openapi.security.model.EncryptInfo;
+export declare const EncryptInfo: $.kd.bos.openapi.security.model.EncryptInfo_C;
+export declare type EncryptionEnum = $.kd.bos.openapi.security.model.EncryptionEnum;
+export declare const EncryptionEnum: typeof $.kd.bos.openapi.security.model.EncryptionEnum;
+export declare type RequestSecurityDto = $.kd.bos.openapi.security.model.RequestSecurityDto;
+export declare const RequestSecurityDto: $.kd.bos.openapi.security.model.RequestSecurityDto_C;
+export declare type ResponseSecurityDto = $.kd.bos.openapi.security.model.ResponseSecurityDto;
+export declare const ResponseSecurityDto: $.kd.bos.openapi.security.model.ResponseSecurityDto_C;
+export declare type SignInfoDto = $.kd.bos.openapi.security.model.SignInfoDto;
+export declare const SignInfoDto: $.kd.bos.openapi.security.model.SignInfoDto_C;

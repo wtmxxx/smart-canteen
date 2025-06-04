@@ -1,0 +1,12 @@
+export declare type AfterQteAllParamInitEvent = $.kd.sdk.wtc.wtes.business.qte.init.AfterQteAllParamInitEvent;
+export declare const AfterQteAllParamInitEvent: $.kd.sdk.wtc.wtes.business.qte.init.AfterQteAllParamInitEvent_C;
+export declare type AfterQteParamInitEvent = $.kd.sdk.wtc.wtes.business.qte.init.AfterQteParamInitEvent;
+export declare const AfterQteParamInitEvent: $.kd.sdk.wtc.wtes.business.qte.init.AfterQteParamInitEvent_C;
+export declare type BeforeQteCycSetInitEvent = $.kd.sdk.wtc.wtes.business.qte.init.BeforeQteCycSetInitEvent;
+export declare const BeforeQteCycSetInitEvent: $.kd.sdk.wtc.wtes.business.qte.init.BeforeQteCycSetInitEvent_C;
+export declare type QteCycSetInitExtPlugin = $.kd.sdk.wtc.wtes.business.qte.init.QteCycSetInitExtPlugin;
+export declare const QteCycSetInitExtPlugin: $.kd.sdk.wtc.wtes.business.qte.init.QteCycSetInitExtPlugin;
+export declare type QteParamInitExtPlugin = $.kd.sdk.wtc.wtes.business.qte.init.QteParamInitExtPlugin;
+export declare const QteParamInitExtPlugin: $.kd.sdk.wtc.wtes.business.qte.init.QteParamInitExtPlugin;
+export declare type QteParamInitRequest = $.kd.sdk.wtc.wtes.business.qte.init.QteParamInitRequest;
+export declare const QteParamInitRequest: $.kd.sdk.wtc.wtes.business.qte.init.QteParamInitRequest_C;

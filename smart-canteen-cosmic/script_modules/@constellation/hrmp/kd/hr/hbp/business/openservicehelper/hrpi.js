@@ -1,0 +1,12 @@
+export const HPRIPerBankCardServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HPRIPerBankCardServiceHelper");
+export const HRPIApplyServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIApplyServiceHelper");
+export const HRPIChargePersonServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIChargePersonServiceHelper");
+export const HRPICmpempServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPICmpempServiceHelper");
+export const HRPIDepempServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIDepempServiceHelper");
+export const HRPIEmployeeServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIEmployeeServiceHelper");
+export const HRPIModule = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIModule");
+export const HRPIOrgWorkFlowServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIOrgWorkFlowServiceHelper");
+export const HRPIPersonGenericServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIPersonGenericServiceHelper");
+export const HRPIPersonServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIPersonServiceHelper");
+export const HRPIWorkRoleServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPIWorkRoleServiceHelper");
+export const HRPTMMServiceHelper = $.type("kd.hr.hbp.business.openservicehelper.hrpi.HRPTMMServiceHelper");

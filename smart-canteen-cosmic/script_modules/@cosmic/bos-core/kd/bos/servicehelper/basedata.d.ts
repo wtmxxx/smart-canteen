@@ -1,0 +1,10 @@
+export declare type AssistantDataServiceHelper = $.kd.bos.servicehelper.basedata.AssistantDataServiceHelper;
+export declare const AssistantDataServiceHelper: $.kd.bos.servicehelper.basedata.AssistantDataServiceHelper_C;
+export declare type BaseDataRefrenceHelper = $.kd.bos.servicehelper.basedata.BaseDataRefrenceHelper;
+export declare const BaseDataRefrenceHelper: $.kd.bos.servicehelper.basedata.BaseDataRefrenceHelper_C;
+export declare type BaseDataService = $.kd.bos.servicehelper.basedata.BaseDataService;
+export declare const BaseDataService: $.kd.bos.servicehelper.basedata.BaseDataService_C;
+export declare type BaseDataServiceHelper = $.kd.bos.servicehelper.basedata.BaseDataServiceHelper;
+export declare const BaseDataServiceHelper: $.kd.bos.servicehelper.basedata.BaseDataServiceHelper_C;
+export declare type IBaseDataCtrlPlugin = $.kd.bos.servicehelper.basedata.IBaseDataCtrlPlugin;
+export declare const IBaseDataCtrlPlugin: $.kd.bos.servicehelper.basedata.IBaseDataCtrlPlugin;

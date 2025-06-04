@@ -1,0 +1,10 @@
+export declare type AfterExecExEvent = $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.AfterExecExEvent;
+export declare const AfterExecExEvent: $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.AfterExecExEvent_C;
+export declare type AfterExecExParam = $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.AfterExecExParam;
+export declare const AfterExecExParam: $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.AfterExecExParam;
+export declare type ExAttItemInstanceExtDTO = $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.ExAttItemInstanceExtDTO;
+export declare const ExAttItemInstanceExtDTO: $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.ExAttItemInstanceExtDTO_C;
+export declare type ExEvaluatorExpServiceDefault = $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.ExEvaluatorExpServiceDefault;
+export declare const ExEvaluatorExpServiceDefault: $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.ExEvaluatorExpServiceDefault_C;
+export declare type TieExecExExtPlugin = $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.TieExecExExtPlugin;
+export declare const TieExecExExtPlugin: $.kd.sdk.wtc.wtes.business.tie.exexutor.ex.TieExecExExtPlugin;

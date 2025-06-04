@@ -1,0 +1,10 @@
+export declare type AttDataPushReq = $.kd.sdk.wtc.wtis.business.attdata.AttDataPushReq;
+export declare const AttDataPushReq: $.kd.sdk.wtc.wtis.business.attdata.AttDataPushReq_C;
+export declare type BeforeSavePayAttDataInfoEvent = $.kd.sdk.wtc.wtis.business.attdata.BeforeSavePayAttDataInfoEvent;
+export declare const BeforeSavePayAttDataInfoEvent: $.kd.sdk.wtc.wtis.business.attdata.BeforeSavePayAttDataInfoEvent_C;
+export declare type DoSetExtFieldEvent = $.kd.sdk.wtc.wtis.business.attdata.DoSetExtFieldEvent;
+export declare const DoSetExtFieldEvent: $.kd.sdk.wtc.wtis.business.attdata.DoSetExtFieldEvent_C;
+export declare type PayAttDataInfoExtPlugin = $.kd.sdk.wtc.wtis.business.attdata.PayAttDataInfoExtPlugin;
+export declare const PayAttDataInfoExtPlugin: $.kd.sdk.wtc.wtis.business.attdata.PayAttDataInfoExtPlugin;
+export declare type PayAttDataInfoExtPluginDemo = $.kd.sdk.wtc.wtis.business.attdata.PayAttDataInfoExtPluginDemo;
+export declare const PayAttDataInfoExtPluginDemo: $.kd.sdk.wtc.wtis.business.attdata.PayAttDataInfoExtPluginDemo_C;

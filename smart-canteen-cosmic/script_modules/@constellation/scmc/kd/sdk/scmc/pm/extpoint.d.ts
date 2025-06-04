@@ -1,0 +1,14 @@
+export declare type IForecastPlanCasePlugin = $.kd.sdk.scmc.pm.extpoint.IForecastPlanCasePlugin;
+export declare const IForecastPlanCasePlugin: $.kd.sdk.scmc.pm.extpoint.IForecastPlanCasePlugin;
+export declare type IPurBatChangeCasePlugin = $.kd.sdk.scmc.pm.extpoint.IPurBatChangeCasePlugin;
+export declare const IPurBatChangeCasePlugin: $.kd.sdk.scmc.pm.extpoint.IPurBatChangeCasePlugin;
+export declare type IPurQuotaCasePlugin = $.kd.sdk.scmc.pm.extpoint.IPurQuotaCasePlugin;
+export declare const IPurQuotaCasePlugin: $.kd.sdk.scmc.pm.extpoint.IPurQuotaCasePlugin;
+export declare type IVMISettleCasePlugin = $.kd.sdk.scmc.pm.extpoint.IVMISettleCasePlugin;
+export declare const IVMISettleCasePlugin: $.kd.sdk.scmc.pm.extpoint.IVMISettleCasePlugin;
+export declare type IXPurApplyCasePlugin = $.kd.sdk.scmc.pm.extpoint.IXPurApplyCasePlugin;
+export declare const IXPurApplyCasePlugin: $.kd.sdk.scmc.pm.extpoint.IXPurApplyCasePlugin;
+export declare type IXPurOrderCasePlugin = $.kd.sdk.scmc.pm.extpoint.IXPurOrderCasePlugin;
+export declare const IXPurOrderCasePlugin: $.kd.sdk.scmc.pm.extpoint.IXPurOrderCasePlugin;
+export declare type PmExpandCaseCodes = $.kd.sdk.scmc.pm.extpoint.PmExpandCaseCodes;
+export declare const PmExpandCaseCodes: $.kd.sdk.scmc.pm.extpoint.PmExpandCaseCodes_C;

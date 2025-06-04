@@ -1,0 +1,12 @@
+export declare type AbstractDesignMeta = $.kd.bos.metadata.AbstractDesignMeta;
+export declare const AbstractDesignMeta: $.kd.bos.metadata.AbstractDesignMeta_C;
+export declare type AbstractElement = $.kd.bos.metadata.AbstractElement;
+export declare const AbstractElement: $.kd.bos.metadata.AbstractElement_C;
+export declare type AbstractMetadata = $.kd.bos.metadata.AbstractMetadata;
+export declare const AbstractMetadata: $.kd.bos.metadata.AbstractMetadata_C;
+export declare type DesignMeta = $.kd.bos.metadata.DesignMeta;
+export declare const DesignMeta: $.kd.bos.metadata.DesignMeta_C;
+export declare type IInheritFlag = $.kd.bos.metadata.IInheritFlag;
+export declare const IInheritFlag: $.kd.bos.metadata.IInheritFlag;
+export declare type MetaBuildContext = $.kd.bos.metadata.MetaBuildContext;
+export declare const MetaBuildContext: $.kd.bos.metadata.MetaBuildContext_C;

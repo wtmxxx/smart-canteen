@@ -1,0 +1,12 @@
+export declare type IExportRolePermCusPlugin = $.kd.hr.hbp.business.extpoint.permission.role.IExportRolePermCusPlugin;
+export declare const IExportRolePermCusPlugin: $.kd.hr.hbp.business.extpoint.permission.role.IExportRolePermCusPlugin;
+export declare type IMemAssignRoleCusPlugin = $.kd.hr.hbp.business.extpoint.permission.role.IMemAssignRoleCusPlugin;
+export declare const IMemAssignRoleCusPlugin: $.kd.hr.hbp.business.extpoint.permission.role.IMemAssignRoleCusPlugin;
+export declare type IRoleAssignMemCusPlugin = $.kd.hr.hbp.business.extpoint.permission.role.IRoleAssignMemCusPlugin;
+export declare const IRoleAssignMemCusPlugin: $.kd.hr.hbp.business.extpoint.permission.role.IRoleAssignMemCusPlugin;
+export declare type IRoleDimF7CustomFilterPlugin = $.kd.hr.hbp.business.extpoint.permission.role.IRoleDimF7CustomFilterPlugin;
+export declare const IRoleDimF7CustomFilterPlugin: $.kd.hr.hbp.business.extpoint.permission.role.IRoleDimF7CustomFilterPlugin;
+export declare type IRoleMemCusListPlugin = $.kd.hr.hbp.business.extpoint.permission.role.IRoleMemCusListPlugin;
+export declare const IRoleMemCusListPlugin: $.kd.hr.hbp.business.extpoint.permission.role.IRoleMemCusListPlugin;
+export declare type ISchemeParamRuleCustomFilterPlugin = $.kd.hr.hbp.business.extpoint.permission.role.ISchemeParamRuleCustomFilterPlugin;
+export declare const ISchemeParamRuleCustomFilterPlugin: $.kd.hr.hbp.business.extpoint.permission.role.ISchemeParamRuleCustomFilterPlugin;

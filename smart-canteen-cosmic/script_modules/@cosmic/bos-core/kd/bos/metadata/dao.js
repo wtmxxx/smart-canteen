@@ -1,0 +1,12 @@
+export const AbstractMetadataReader = $.type("kd.bos.metadata.dao.AbstractMetadataReader");
+export const AbstractMetadataWriter = $.type("kd.bos.metadata.dao.AbstractMetadataWriter");
+export const EntityMetadataUtil = $.type("kd.bos.metadata.dao.EntityMetadataUtil");
+export const IMetadataDaoPlugIn = $.type("kd.bos.metadata.dao.IMetadataDaoPlugIn");
+export const MetaCacheUtils = $.type("kd.bos.metadata.dao.MetaCacheUtils");
+export const MetaCategory = $.type("kd.bos.metadata.dao.MetaCategory");
+export const MetaLogType = $.type("kd.bos.metadata.dao.MetaLogType");
+export const MetaType = $.type("kd.bos.metadata.dao.MetaType");
+export const MetadataDao = $.type("kd.bos.metadata.dao.MetadataDao");
+export const MetadataExtends = $.type("kd.bos.metadata.dao.MetadataExtends");
+export const MetadataReader = $.type("kd.bos.metadata.dao.MetadataReader");
+export const MetadataWriter = $.type("kd.bos.metadata.dao.MetadataWriter");

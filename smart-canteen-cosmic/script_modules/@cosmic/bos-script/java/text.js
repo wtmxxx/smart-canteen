@@ -1,0 +1,11 @@
+export const AttributedCharacterIterator = $.type("java.text.AttributedCharacterIterator");
+export const AttributedCharacterIterator$Attribute = $.type("java.text.AttributedCharacterIterator$Attribute");
+export const CharacterIterator = $.type("java.text.CharacterIterator");
+export const DateFormat = $.type("java.text.DateFormat");
+export const DateFormatSymbols = $.type("java.text.DateFormatSymbols");
+export const FieldPosition = $.type("java.text.FieldPosition");
+export const Format = $.type("java.text.Format");
+export const Format$Field = $.type("java.text.Format$Field");
+export const NumberFormat = $.type("java.text.NumberFormat");
+export const ParsePosition = $.type("java.text.ParsePosition");
+export const SimpleDateFormat = $.type("java.text.SimpleDateFormat");

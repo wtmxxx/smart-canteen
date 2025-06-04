@@ -1,0 +1,11 @@
+export const ModelType = $.type("kd.bos.designer.query.ModelType");
+export const QueryConditionSelectFieldList = $.type("kd.bos.designer.query.QueryConditionSelectFieldList");
+export const QueryDynSourcePlugIn = $.type("kd.bos.designer.query.QueryDynSourcePlugIn");
+export const QueryDynSourceValid = $.type("kd.bos.designer.query.QueryDynSourceValid");
+export const QueryEntityParseHelper = $.type("kd.bos.designer.query.QueryEntityParseHelper");
+export const QueryEntityTreeBuildParameter = $.type("kd.bos.designer.query.QueryEntityTreeBuildParameter");
+export const QueryEntityTreeNode = $.type("kd.bos.designer.query.QueryEntityTreeNode");
+export const QueryMetadataHelper = $.type("kd.bos.designer.query.QueryMetadataHelper");
+export const QuerySelectFieldList = $.type("kd.bos.designer.query.QuerySelectFieldList");
+export const QueryTreeListPlugin = $.type("kd.bos.designer.query.QueryTreeListPlugin");
+export const ReportComboItemPlugin = $.type("kd.bos.designer.query.ReportComboItemPlugin");

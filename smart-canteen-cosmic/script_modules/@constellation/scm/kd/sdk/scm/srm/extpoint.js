@@ -1,0 +1,13 @@
+export const IMainPage1NoticeService = $.type("kd.sdk.scm.srm.extpoint.IMainPage1NoticeService");
+export const ISrmAccessNodeService = $.type("kd.sdk.scm.srm.extpoint.ISrmAccessNodeService");
+export const ISrmAllScorerScoredService = $.type("kd.sdk.scm.srm.extpoint.ISrmAllScorerScoredService");
+export const ISrmAssignUserRoleService = $.type("kd.sdk.scm.srm.extpoint.ISrmAssignUserRoleService");
+export const ISrmAutoCalGroupOrgService = $.type("kd.sdk.scm.srm.extpoint.ISrmAutoCalGroupOrgService");
+export const ISrmAutoCalPluginService = $.type("kd.sdk.scm.srm.extpoint.ISrmAutoCalPluginService");
+export const ISrmCalEvaGradeService = $.type("kd.sdk.scm.srm.extpoint.ISrmCalEvaGradeService");
+export const ISrmEvaplanWritebackScoredService = $.type("kd.sdk.scm.srm.extpoint.ISrmEvaplanWritebackScoredService");
+export const ISrmRegisterSendMessageService = $.type("kd.sdk.scm.srm.extpoint.ISrmRegisterSendMessageService");
+export const ISrmSupChgInfoEffect = $.type("kd.sdk.scm.srm.extpoint.ISrmSupChgInfoEffect");
+export const ISrmSupChgPurUserAdminModifyService = $.type("kd.sdk.scm.srm.extpoint.ISrmSupChgPurUserAdminModifyService");
+export const ISrmSynBdSupplierService = $.type("kd.sdk.scm.srm.extpoint.ISrmSynBdSupplierService");
+export const ISupplierRegSetDefValueService = $.type("kd.sdk.scm.srm.extpoint.ISupplierRegSetDefValueService");

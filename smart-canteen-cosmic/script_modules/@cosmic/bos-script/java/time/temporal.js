@@ -1,0 +1,9 @@
+export const ChronoField = $.type("java.time.temporal.ChronoField");
+export const Temporal = $.type("java.time.temporal.Temporal");
+export const TemporalAccessor = $.type("java.time.temporal.TemporalAccessor");
+export const TemporalAdjuster = $.type("java.time.temporal.TemporalAdjuster");
+export const TemporalAmount = $.type("java.time.temporal.TemporalAmount");
+export const TemporalField = $.type("java.time.temporal.TemporalField");
+export const TemporalQuery = $.type("java.time.temporal.TemporalQuery");
+export const TemporalUnit = $.type("java.time.temporal.TemporalUnit");
+export const ValueRange = $.type("java.time.temporal.ValueRange");

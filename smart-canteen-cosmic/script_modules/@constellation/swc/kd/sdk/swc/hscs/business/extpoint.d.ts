@@ -1,0 +1,10 @@
+export declare type ICalRollBackExtService = $.kd.sdk.swc.hscs.business.extpoint.ICalRollBackExtService;
+export declare const ICalRollBackExtService: $.kd.sdk.swc.hscs.business.extpoint.ICalRollBackExtService;
+export declare type IFetchResultCoverDataExtService = $.kd.sdk.swc.hscs.business.extpoint.IFetchResultCoverDataExtService;
+export declare const IFetchResultCoverDataExtService: $.kd.sdk.swc.hscs.business.extpoint.IFetchResultCoverDataExtService;
+export declare type IHisDataCheckExtService = $.kd.sdk.swc.hscs.business.extpoint.IHisDataCheckExtService;
+export declare const IHisDataCheckExtService: $.kd.sdk.swc.hscs.business.extpoint.IHisDataCheckExtService;
+export declare type IQueryInsuranceDataExtService = $.kd.sdk.swc.hscs.business.extpoint.IQueryInsuranceDataExtService;
+export declare const IQueryInsuranceDataExtService: $.kd.sdk.swc.hscs.business.extpoint.IQueryInsuranceDataExtService;
+export declare type ISalaryCalExtService = $.kd.sdk.swc.hscs.business.extpoint.ISalaryCalExtService;
+export declare const ISalaryCalExtService: $.kd.sdk.swc.hscs.business.extpoint.ISalaryCalExtService;

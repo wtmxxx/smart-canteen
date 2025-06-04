@@ -1,0 +1,12 @@
+export const CellStyleRule = $.type("kd.bos.report.events.CellStyleRule");
+export const CreateColumnEvent = $.type("kd.bos.report.events.CreateColumnEvent");
+export const CreateFilterInfoEvent = $.type("kd.bos.report.events.CreateFilterInfoEvent");
+export const FlexEvent = $.type("kd.bos.report.events.FlexEvent");
+export const FormatShowFilterEvent = $.type("kd.bos.report.events.FormatShowFilterEvent");
+export const MergeColumnRule = $.type("kd.bos.report.events.MergeColumnRule");
+export const QueryEvent = $.type("kd.bos.report.events.QueryEvent");
+export const ReportExportInitializeEvent = $.type("kd.bos.report.events.ReportExportInitializeEvent");
+export const SearchEvent = $.type("kd.bos.report.events.SearchEvent");
+export const SortAndFilterEvent = $.type("kd.bos.report.events.SortAndFilterEvent");
+export const SummaryEvent = $.type("kd.bos.report.events.SummaryEvent");
+export const TreeReportListEvent = $.type("kd.bos.report.events.TreeReportListEvent");

@@ -1,0 +1,12 @@
+export const ApiController = $.type("kd.bos.openapi.common.custom.annotation.ApiController");
+export const ApiErrorCode = $.type("kd.bos.openapi.common.custom.annotation.ApiErrorCode");
+export const ApiErrorCodes = $.type("kd.bos.openapi.common.custom.annotation.ApiErrorCodes");
+export const ApiGetMapping = $.type("kd.bos.openapi.common.custom.annotation.ApiGetMapping");
+export const ApiHeader = $.type("kd.bos.openapi.common.custom.annotation.ApiHeader");
+export const ApiHeaders = $.type("kd.bos.openapi.common.custom.annotation.ApiHeaders");
+export const ApiMapping = $.type("kd.bos.openapi.common.custom.annotation.ApiMapping");
+export const ApiModel = $.type("kd.bos.openapi.common.custom.annotation.ApiModel");
+export const ApiParam = $.type("kd.bos.openapi.common.custom.annotation.ApiParam");
+export const ApiPostMapping = $.type("kd.bos.openapi.common.custom.annotation.ApiPostMapping");
+export const ApiRequestBody = $.type("kd.bos.openapi.common.custom.annotation.ApiRequestBody");
+export const ApiResponseBody = $.type("kd.bos.openapi.common.custom.annotation.ApiResponseBody");

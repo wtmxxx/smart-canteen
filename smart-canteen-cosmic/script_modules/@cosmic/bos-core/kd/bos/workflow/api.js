@@ -1,0 +1,10 @@
+export const AgentExecution = $.type("kd.bos.workflow.api.AgentExecution");
+export const AgentTask = $.type("kd.bos.workflow.api.AgentTask");
+export const BizProcessStatus = $.type("kd.bos.workflow.api.BizProcessStatus");
+export const ExecutionListener = $.type("kd.bos.workflow.api.ExecutionListener");
+export const IConditionalRuleParser = $.type("kd.bos.workflow.api.IConditionalRuleParser");
+export const IRelationService = $.type("kd.bos.workflow.api.IRelationService");
+export const IWorkflowService = $.type("kd.bos.workflow.api.IWorkflowService");
+export const MessageRequestInfo = $.type("kd.bos.workflow.api.MessageRequestInfo");
+export const NodeTemplate = $.type("kd.bos.workflow.api.NodeTemplate");
+export const WorkflowElement = $.type("kd.bos.workflow.api.WorkflowElement");

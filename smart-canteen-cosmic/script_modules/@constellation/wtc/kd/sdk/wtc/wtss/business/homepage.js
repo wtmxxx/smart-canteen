@@ -1,0 +1,10 @@
+export const BeforeChooseApplyTypeEvent = $.type("kd.sdk.wtc.wtss.business.homepage.BeforeChooseApplyTypeEvent");
+export const BeforeShowApplyPageEvent = $.type("kd.sdk.wtc.wtss.business.homepage.BeforeShowApplyPageEvent");
+export const BeforeShowDetailPageEvent = $.type("kd.sdk.wtc.wtss.business.homepage.BeforeShowDetailPageEvent");
+export const BillReplaceExtPlugin = $.type("kd.sdk.wtc.wtss.business.homepage.BillReplaceExtPlugin");
+export const ISignAddressReplacePlugin = $.type("kd.sdk.wtc.wtss.business.homepage.ISignAddressReplacePlugin");
+export const MobileBillListDto = $.type("kd.sdk.wtc.wtss.business.homepage.MobileBillListDto");
+export const OnFilterMobileBillListEvent = $.type("kd.sdk.wtc.wtss.business.homepage.OnFilterMobileBillListEvent");
+export const OnQueryMobileBillListEvent = $.type("kd.sdk.wtc.wtss.business.homepage.OnQueryMobileBillListEvent");
+export const SignAddressChooseEvent = $.type("kd.sdk.wtc.wtss.business.homepage.SignAddressChooseEvent");
+export const WtssHomepageServiceHelper = $.type("kd.sdk.wtc.wtss.business.homepage.WtssHomepageServiceHelper");

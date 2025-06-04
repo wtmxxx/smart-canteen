@@ -1,0 +1,14 @@
+export declare type CirculateOperationParam = $.kd.bos.workflow.engine.task.operation.CirculateOperationParam;
+export declare const CirculateOperationParam: $.kd.bos.workflow.engine.task.operation.CirculateOperationParam_C;
+export declare type CompleteOperationParam = $.kd.bos.workflow.engine.task.operation.CompleteOperationParam;
+export declare const CompleteOperationParam: $.kd.bos.workflow.engine.task.operation.CompleteOperationParam_C;
+export declare type DeleteOperationParam = $.kd.bos.workflow.engine.task.operation.DeleteOperationParam;
+export declare const DeleteOperationParam: $.kd.bos.workflow.engine.task.operation.DeleteOperationParam_C;
+export declare type TaskOperationInfo = $.kd.bos.workflow.engine.task.operation.TaskOperationInfo;
+export declare const TaskOperationInfo: $.kd.bos.workflow.engine.task.operation.TaskOperationInfo;
+export declare type TaskOperationParam = $.kd.bos.workflow.engine.task.operation.TaskOperationParam;
+export declare const TaskOperationParam: $.kd.bos.workflow.engine.task.operation.TaskOperationParam_C;
+export declare type TransferOperationParam = $.kd.bos.workflow.engine.task.operation.TransferOperationParam;
+export declare const TransferOperationParam: $.kd.bos.workflow.engine.task.operation.TransferOperationParam_C;
+export declare type UpdateParticipantParam = $.kd.bos.workflow.engine.task.operation.UpdateParticipantParam;
+export declare const UpdateParticipantParam: $.kd.bos.workflow.engine.task.operation.UpdateParticipantParam_C;

@@ -1,0 +1,26 @@
+{
+	"license":"MIT",
+	"types":"index_reference.d.ts",
+	"keywords":[
+		"kingdee",
+		"cosmic",
+		"sdk",
+		"bos",
+		"framework"
+	],
+	"buildTime":"2024-10-16 09:35:14",
+	"exports":{
+		".":"index.d.ts"
+	},
+	"name":"@constellation/macc",
+	"description":"",
+	"files":[
+		"**/*"
+	],
+	"main":"index.js",
+	"scripts":{},
+	"version":"1.0.0",
+	"dependencies":{
+		"@cosmic/bos-script":"^1.0.0"
+	}
+}

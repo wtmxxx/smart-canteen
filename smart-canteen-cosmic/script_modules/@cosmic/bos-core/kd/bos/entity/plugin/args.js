@@ -1,0 +1,15 @@
+export const AfterOperationArgs = $.type("kd.bos.entity.plugin.args.AfterOperationArgs");
+export const BeforeOperationArgs = $.type("kd.bos.entity.plugin.args.BeforeOperationArgs");
+export const BeforeSaveAuditLogArg = $.type("kd.bos.entity.plugin.args.BeforeSaveAuditLogArg");
+export const BeginOperationTransactionArgs = $.type("kd.bos.entity.plugin.args.BeginOperationTransactionArgs");
+export const EndOperationTransactionArgs = $.type("kd.bos.entity.plugin.args.EndOperationTransactionArgs");
+export const InitOperationArgs = $.type("kd.bos.entity.plugin.args.InitOperationArgs");
+export const OperationArgs = $.type("kd.bos.entity.plugin.args.OperationArgs");
+export const ReturnOperationArgs = $.type("kd.bos.entity.plugin.args.ReturnOperationArgs");
+export const RollbackOperationArgs = $.type("kd.bos.entity.plugin.args.RollbackOperationArgs");
+export const SensitiveArgs = $.type("kd.bos.entity.plugin.args.SensitiveArgs");
+export const ValidatePrefixArgs = $.type("kd.bos.entity.plugin.args.ValidatePrefixArgs");
+export const BeforeLoadDataArgs = $.type("kd.bos.entity.plugin.args.BeforeLoadDataArgs");
+export const CustomPrintDataEntitiesArgs = $.type("kd.bos.entity.plugin.args.CustomPrintDataEntitiesArgs");
+export const DynamicColumnArgs = $.type("kd.bos.entity.plugin.args.DynamicColumnArgs");
+export const OutputElementArgs = $.type("kd.bos.entity.plugin.args.OutputElementArgs");

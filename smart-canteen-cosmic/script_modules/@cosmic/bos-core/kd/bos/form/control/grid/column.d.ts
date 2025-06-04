@@ -1,0 +1,10 @@
+export declare type AmountDataGridColumn = $.kd.bos.form.control.grid.column.AmountDataGridColumn;
+export declare const AmountDataGridColumn: $.kd.bos.form.control.grid.column.AmountDataGridColumn_C;
+export declare type DateDataGridColumn = $.kd.bos.form.control.grid.column.DateDataGridColumn;
+export declare const DateDataGridColumn: $.kd.bos.form.control.grid.column.DateDataGridColumn_C;
+export declare type DecimalDataGridColumn = $.kd.bos.form.control.grid.column.DecimalDataGridColumn;
+export declare const DecimalDataGridColumn: $.kd.bos.form.control.grid.column.DecimalDataGridColumn_C;
+export declare type IntegerDataGridColumn = $.kd.bos.form.control.grid.column.IntegerDataGridColumn;
+export declare const IntegerDataGridColumn: $.kd.bos.form.control.grid.column.IntegerDataGridColumn_C;
+export declare type TimeDataGridColumn = $.kd.bos.form.control.grid.column.TimeDataGridColumn;
+export declare const TimeDataGridColumn: $.kd.bos.form.control.grid.column.TimeDataGridColumn_C;

@@ -1,0 +1,10 @@
+export const AttendPersonExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.AttendPersonExt");
+export const CmpEmpExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.CmpEmpExt");
+export const ContrWorkLocExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.ContrWorkLocExt");
+export const EmpEntRelExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.EmpEntRelExt");
+export const EmpJobRelExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.EmpJobRelExt");
+export const EmpPosOrgRelExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.EmpPosOrgRelExt");
+export const EmployeeExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.EmployeeExt");
+export const PerNonTsPropExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.PerNonTsPropExt");
+export const PersonExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.PersonExt");
+export const TrialPeriodExt = $.type("kd.sdk.wtc.wtes.business.tie.model.attenperson.TrialPeriodExt");

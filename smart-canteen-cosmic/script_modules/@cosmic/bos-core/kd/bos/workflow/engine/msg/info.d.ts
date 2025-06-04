@@ -1,0 +1,10 @@
+export declare type ITaskMsg = $.kd.bos.workflow.engine.msg.info.ITaskMsg;
+export declare const ITaskMsg: $.kd.bos.workflow.engine.msg.info.ITaskMsg;
+export declare type MessageAttachment = $.kd.bos.workflow.engine.msg.info.MessageAttachment;
+export declare const MessageAttachment: $.kd.bos.workflow.engine.msg.info.MessageAttachment_C;
+export declare type MessageInfo = $.kd.bos.workflow.engine.msg.info.MessageInfo;
+export declare const MessageInfo: $.kd.bos.workflow.engine.msg.info.MessageInfo_C;
+export declare type ParticipantInfo = $.kd.bos.workflow.engine.msg.info.ParticipantInfo;
+export declare const ParticipantInfo: $.kd.bos.workflow.engine.msg.info.ParticipantInfo_C;
+export declare type TaskEntityInfo = $.kd.bos.workflow.engine.msg.info.TaskEntityInfo;
+export declare const TaskEntityInfo: $.kd.bos.workflow.engine.msg.info.TaskEntityInfo_C;

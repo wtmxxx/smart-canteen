@@ -1,0 +1,16 @@
+export const CardBindDataDTO = $.type("kd.sdk.hr.hspm.common.ext.file.CardBindDataDTO");
+export const DialogBindDataDTO = $.type("kd.sdk.hr.hspm.common.ext.file.DialogBindDataDTO");
+export const EmpReportExtCalculateDTO = $.type("kd.sdk.hr.hspm.common.ext.file.EmpReportExtCalculateDTO");
+export const EmpReportExtColumnDTO = $.type("kd.sdk.hr.hspm.common.ext.file.EmpReportExtColumnDTO");
+export const EmpReportExtQueryFieldsDTO = $.type("kd.sdk.hr.hspm.common.ext.file.EmpReportExtQueryFieldsDTO");
+export const EmpReportExtQueryFilterDTO = $.type("kd.sdk.hr.hspm.common.ext.file.EmpReportExtQueryFilterDTO");
+export const EmpReportExtReletionFilterDTO = $.type("kd.sdk.hr.hspm.common.ext.file.EmpReportExtReletionFilterDTO");
+export const EmpSupRelDTO = $.type("kd.sdk.hr.hspm.common.ext.file.EmpSupRelDTO");
+export const MobileHomeVectorDTO = $.type("kd.sdk.hr.hspm.common.ext.file.MobileHomeVectorDTO");
+export const QuitEmpReportExtCalculateDTO = $.type("kd.sdk.hr.hspm.common.ext.file.QuitEmpReportExtCalculateDTO");
+export const QuitEmpReportExtColumnDTO = $.type("kd.sdk.hr.hspm.common.ext.file.QuitEmpReportExtColumnDTO");
+export const QuitEmpReportExtHisQueryDateDTO = $.type("kd.sdk.hr.hspm.common.ext.file.QuitEmpReportExtHisQueryDateDTO");
+export const QuitEmpReportExtQueryFieldsDTO = $.type("kd.sdk.hr.hspm.common.ext.file.QuitEmpReportExtQueryFieldsDTO");
+export const QuitEmpReportExtQueryFilterDTO = $.type("kd.sdk.hr.hspm.common.ext.file.QuitEmpReportExtQueryFilterDTO");
+export const QuitEmpReportExtReletionFilterDTO = $.type("kd.sdk.hr.hspm.common.ext.file.QuitEmpReportExtReletionFilterDTO");
+export const SideBarDataDTO = $.type("kd.sdk.hr.hspm.common.ext.file.SideBarDataDTO");

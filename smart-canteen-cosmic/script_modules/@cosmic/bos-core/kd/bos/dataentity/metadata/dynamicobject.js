@@ -1,0 +1,9 @@
+export const DynamicCollectionProperty = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicCollectionProperty");
+export const DynamicComplexProperty = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicComplexProperty");
+export const DynamicLocaleProperty = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicLocaleProperty");
+export const DynamicMetadata = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicMetadata");
+export const DynamicObjectType = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicObjectType");
+export const DynamicProperty = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicProperty");
+export const DynamicPropertyCollection = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicPropertyCollection");
+export const DynamicSimpleProperty = $.type("kd.bos.dataentity.metadata.dynamicobject.DynamicSimpleProperty");
+export const ExtractOption = $.type("kd.bos.dataentity.metadata.dynamicobject.ExtractOption");

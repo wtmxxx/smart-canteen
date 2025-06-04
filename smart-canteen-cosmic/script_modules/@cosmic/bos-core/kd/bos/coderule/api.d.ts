@@ -1,0 +1,10 @@
+export declare type CodeRuleEntryInfo = $.kd.bos.coderule.api.CodeRuleEntryInfo;
+export declare const CodeRuleEntryInfo: $.kd.bos.coderule.api.CodeRuleEntryInfo_C;
+export declare type CodeRuleInfo = $.kd.bos.coderule.api.CodeRuleInfo;
+export declare const CodeRuleInfo: $.kd.bos.coderule.api.CodeRuleInfo_C;
+export declare type ConditionEntryInfo = $.kd.bos.coderule.api.ConditionEntryInfo;
+export declare const ConditionEntryInfo: $.kd.bos.coderule.api.ConditionEntryInfo_C;
+export declare type ICodeRuleService = $.kd.bos.coderule.api.ICodeRuleService;
+export declare const ICodeRuleService: $.kd.bos.coderule.api.ICodeRuleService;
+export declare type OrgEntryInfo = $.kd.bos.coderule.api.OrgEntryInfo;
+export declare const OrgEntryInfo: $.kd.bos.coderule.api.OrgEntryInfo_C;

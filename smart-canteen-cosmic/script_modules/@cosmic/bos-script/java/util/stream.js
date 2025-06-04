@@ -1,0 +1,11 @@
+export const BaseStream = $.type("java.util.stream.BaseStream");
+export const Collector = $.type("java.util.stream.Collector");
+export const Collector$Characteristics = $.type("java.util.stream.Collector$Characteristics");
+export const DoubleStream = $.type("java.util.stream.DoubleStream");
+export const DoubleStream$Builder = $.type("java.util.stream.DoubleStream$Builder");
+export const IntStream = $.type("java.util.stream.IntStream");
+export const IntStream$Builder = $.type("java.util.stream.IntStream$Builder");
+export const LongStream = $.type("java.util.stream.LongStream");
+export const LongStream$Builder = $.type("java.util.stream.LongStream$Builder");
+export const Stream = $.type("java.util.stream.Stream");
+export const Stream$Builder = $.type("java.util.stream.Stream$Builder");

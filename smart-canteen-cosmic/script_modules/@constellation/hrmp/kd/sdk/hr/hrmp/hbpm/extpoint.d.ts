@@ -1,0 +1,12 @@
+export declare type HROdcModule = $.kd.sdk.hr.hrmp.hbpm.extpoint.HROdcModule;
+export declare const HROdcModule: $.kd.sdk.hr.hrmp.hbpm.extpoint.HROdcModule_C;
+export declare type IBosPositionValidateServiceExt = $.kd.sdk.hr.hrmp.hbpm.extpoint.IBosPositionValidateServiceExt;
+export declare const IBosPositionValidateServiceExt: $.kd.sdk.hr.hrmp.hbpm.extpoint.IBosPositionValidateServiceExt;
+export declare type IPositionCompareEntryServiceExtend = $.kd.sdk.hr.hrmp.hbpm.extpoint.IPositionCompareEntryServiceExtend;
+export declare const IPositionCompareEntryServiceExtend: $.kd.sdk.hr.hrmp.hbpm.extpoint.IPositionCompareEntryServiceExtend;
+export declare type IPositionF7OrgTreeOrgIdsServiceExtend = $.kd.sdk.hr.hrmp.hbpm.extpoint.IPositionF7OrgTreeOrgIdsServiceExtend;
+export declare const IPositionF7OrgTreeOrgIdsServiceExtend: $.kd.sdk.hr.hrmp.hbpm.extpoint.IPositionF7OrgTreeOrgIdsServiceExtend;
+export declare type IPositionSkipValidateServiceExtend = $.kd.sdk.hr.hrmp.hbpm.extpoint.IPositionSkipValidateServiceExtend;
+export declare const IPositionSkipValidateServiceExtend: $.kd.sdk.hr.hrmp.hbpm.extpoint.IPositionSkipValidateServiceExtend;
+export declare type IValidatorExtend = $.kd.sdk.hr.hrmp.hbpm.extpoint.IValidatorExtend;
+export declare const IValidatorExtend: $.kd.sdk.hr.hrmp.hbpm.extpoint.IValidatorExtend;

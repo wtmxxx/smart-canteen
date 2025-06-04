@@ -1,0 +1,10 @@
+export declare type FlexBDValueCondition = $.kd.bos.entity.flex.FlexBDValueCondition;
+export declare const FlexBDValueCondition: $.kd.bos.entity.flex.FlexBDValueCondition_C;
+export declare type FlexEntireData = $.kd.bos.entity.flex.FlexEntireData;
+export declare const FlexEntireData: $.kd.bos.entity.flex.FlexEntireData_C;
+export declare type FlexEntityMetaUtils = $.kd.bos.entity.flex.FlexEntityMetaUtils;
+export declare const FlexEntityMetaUtils: $.kd.bos.entity.flex.FlexEntityMetaUtils_C;
+export declare type FlexProperty = $.kd.bos.entity.flex.FlexProperty;
+export declare const FlexProperty: $.kd.bos.entity.flex.FlexProperty_C;
+export declare type FlexType = $.kd.bos.entity.flex.FlexType;
+export declare const FlexType: $.kd.bos.entity.flex.FlexType_C;

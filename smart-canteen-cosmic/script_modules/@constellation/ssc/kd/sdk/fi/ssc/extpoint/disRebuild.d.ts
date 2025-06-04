@@ -1,0 +1,10 @@
+export declare type IAfterDisService = $.kd.sdk.fi.ssc.extpoint.disRebuild.IAfterDisService;
+export declare const IAfterDisService: $.kd.sdk.fi.ssc.extpoint.disRebuild.IAfterDisService;
+export declare type IDataPrepareService = $.kd.sdk.fi.ssc.extpoint.disRebuild.IDataPrepareService;
+export declare const IDataPrepareService: $.kd.sdk.fi.ssc.extpoint.disRebuild.IDataPrepareService;
+export declare type INotifyWfService = $.kd.sdk.fi.ssc.extpoint.disRebuild.INotifyWfService;
+export declare const INotifyWfService: $.kd.sdk.fi.ssc.extpoint.disRebuild.INotifyWfService;
+export declare type IStateChangeService = $.kd.sdk.fi.ssc.extpoint.disRebuild.IStateChangeService;
+export declare const IStateChangeService: $.kd.sdk.fi.ssc.extpoint.disRebuild.IStateChangeService;
+export declare type ITaskSaveService = $.kd.sdk.fi.ssc.extpoint.disRebuild.ITaskSaveService;
+export declare const ITaskSaveService: $.kd.sdk.fi.ssc.extpoint.disRebuild.ITaskSaveService;

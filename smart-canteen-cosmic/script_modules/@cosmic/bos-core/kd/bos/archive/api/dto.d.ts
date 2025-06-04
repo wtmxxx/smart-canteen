@@ -1,0 +1,16 @@
+export declare type ArchiveBasedata = $.kd.bos.archive.api.dto.ArchiveBasedata;
+export declare const ArchiveBasedata: $.kd.bos.archive.api.dto.ArchiveBasedata_C;
+export declare type ArchiveDatabase = $.kd.bos.archive.api.dto.ArchiveDatabase;
+export declare const ArchiveDatabase: $.kd.bos.archive.api.dto.ArchiveDatabase_C;
+export declare type ArchivePlan = $.kd.bos.archive.api.dto.ArchivePlan;
+export declare const ArchivePlan: $.kd.bos.archive.api.dto.ArchivePlan_C;
+export declare type ArchiveRule = $.kd.bos.archive.api.dto.ArchiveRule;
+export declare const ArchiveRule: $.kd.bos.archive.api.dto.ArchiveRule_C;
+export declare type ArchiveSchedule = $.kd.bos.archive.api.dto.ArchiveSchedule;
+export declare const ArchiveSchedule: $.kd.bos.archive.api.dto.ArchiveSchedule_C;
+export declare type McDatabase = $.kd.bos.archive.api.dto.McDatabase;
+export declare const McDatabase: $.kd.bos.archive.api.dto.McDatabase_C;
+export declare type ScheduleResultInfo = $.kd.bos.archive.api.dto.ScheduleResultInfo;
+export declare const ScheduleResultInfo: $.kd.bos.archive.api.dto.ScheduleResultInfo_C;
+export declare type TaskResultInfo = $.kd.bos.archive.api.dto.TaskResultInfo;
+export declare const TaskResultInfo: $.kd.bos.archive.api.dto.TaskResultInfo_C;

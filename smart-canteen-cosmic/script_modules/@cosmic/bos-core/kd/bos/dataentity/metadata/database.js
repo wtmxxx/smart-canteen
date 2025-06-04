@@ -1,0 +1,16 @@
+export const CollectionPropertyMap = $.type("kd.bos.dataentity.metadata.database.CollectionPropertyMap");
+export const ComplexPropertyMap = $.type("kd.bos.dataentity.metadata.database.ComplexPropertyMap");
+export const DataEntityMetadataMapBase = $.type("kd.bos.dataentity.metadata.database.DataEntityMetadataMapBase");
+export const DataEntityTypeMap = $.type("kd.bos.dataentity.metadata.database.DataEntityTypeMap");
+export const DbMetadataBase = $.type("kd.bos.dataentity.metadata.database.DbMetadataBase");
+export const DbMetadataCollection = $.type("kd.bos.dataentity.metadata.database.DbMetadataCollection");
+export const DbMetadataColumn = $.type("kd.bos.dataentity.metadata.database.DbMetadataColumn");
+export const DbMetadataColumnCollection = $.type("kd.bos.dataentity.metadata.database.DbMetadataColumnCollection");
+export const DbMetadataDatabase = $.type("kd.bos.dataentity.metadata.database.DbMetadataDatabase");
+export const DbMetadataGeoColumn = $.type("kd.bos.dataentity.metadata.database.DbMetadataGeoColumn");
+export const DbMetadataRelation = $.type("kd.bos.dataentity.metadata.database.DbMetadataRelation");
+export const DbMetadataRelationCollection = $.type("kd.bos.dataentity.metadata.database.DbMetadataRelationCollection");
+export const DbMetadataTable = $.type("kd.bos.dataentity.metadata.database.DbMetadataTable");
+export const DbMetadataTableCollection = $.type("kd.bos.dataentity.metadata.database.DbMetadataTableCollection");
+export const PropertyMap = $.type("kd.bos.dataentity.metadata.database.PropertyMap");
+export const SimplePropertyMap = $.type("kd.bos.dataentity.metadata.database.SimplePropertyMap");

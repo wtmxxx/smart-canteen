@@ -1,0 +1,26 @@
+{
+	"license":"MIT",
+	"types":"index_reference.d.ts",
+	"keywords":[
+		"kingdee",
+		"cosmic",
+		"sdk",
+		"bos",
+		"framework"
+	],
+	"buildTime":"2025-03-27 15:57:32",
+	"exports":{
+		".":"index.d.ts"
+	},
+	"name":"@cosmic/bos-core",
+	"description":"",
+	"files":[
+		"**/*"
+	],
+	"main":"index.js",
+	"scripts":{},
+	"version":"1.0.0",
+	"dependencies":{
+		"@cosmic/bos-script":"^1.0.0"
+	}
+}

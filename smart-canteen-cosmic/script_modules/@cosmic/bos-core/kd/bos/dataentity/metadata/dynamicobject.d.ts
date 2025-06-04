@@ -1,0 +1,18 @@
+export declare type DynamicCollectionProperty = $.kd.bos.dataentity.metadata.dynamicobject.DynamicCollectionProperty;
+export declare const DynamicCollectionProperty: $.kd.bos.dataentity.metadata.dynamicobject.DynamicCollectionProperty_C;
+export declare type DynamicComplexProperty = $.kd.bos.dataentity.metadata.dynamicobject.DynamicComplexProperty;
+export declare const DynamicComplexProperty: $.kd.bos.dataentity.metadata.dynamicobject.DynamicComplexProperty_C;
+export declare type DynamicLocaleProperty = $.kd.bos.dataentity.metadata.dynamicobject.DynamicLocaleProperty;
+export declare const DynamicLocaleProperty: $.kd.bos.dataentity.metadata.dynamicobject.DynamicLocaleProperty_C;
+export declare type DynamicMetadata = $.kd.bos.dataentity.metadata.dynamicobject.DynamicMetadata;
+export declare const DynamicMetadata: $.kd.bos.dataentity.metadata.dynamicobject.DynamicMetadata_C;
+export declare type DynamicObjectType = $.kd.bos.dataentity.metadata.dynamicobject.DynamicObjectType;
+export declare const DynamicObjectType: $.kd.bos.dataentity.metadata.dynamicobject.DynamicObjectType_C;
+export declare type DynamicProperty = $.kd.bos.dataentity.metadata.dynamicobject.DynamicProperty;
+export declare const DynamicProperty: $.kd.bos.dataentity.metadata.dynamicobject.DynamicProperty_C;
+export declare type DynamicPropertyCollection = $.kd.bos.dataentity.metadata.dynamicobject.DynamicPropertyCollection;
+export declare const DynamicPropertyCollection: $.kd.bos.dataentity.metadata.dynamicobject.DynamicPropertyCollection_C;
+export declare type DynamicSimpleProperty = $.kd.bos.dataentity.metadata.dynamicobject.DynamicSimpleProperty;
+export declare const DynamicSimpleProperty: $.kd.bos.dataentity.metadata.dynamicobject.DynamicSimpleProperty_C;
+export declare type ExtractOption = $.kd.bos.dataentity.metadata.dynamicobject.ExtractOption;
+export declare const ExtractOption: $.kd.bos.dataentity.metadata.dynamicobject.ExtractOption_C;

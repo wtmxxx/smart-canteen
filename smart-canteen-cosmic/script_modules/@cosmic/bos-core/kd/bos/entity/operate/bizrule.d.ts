@@ -1,0 +1,10 @@
+export declare type AbstractOpBizRuleAction = $.kd.bos.entity.operate.bizrule.AbstractOpBizRuleAction;
+export declare const AbstractOpBizRuleAction: $.kd.bos.entity.operate.bizrule.AbstractOpBizRuleAction_C;
+export declare type OpBizRule = $.kd.bos.entity.operate.bizrule.OpBizRule;
+export declare const OpBizRule: $.kd.bos.entity.operate.bizrule.OpBizRule_C;
+export declare type OpBizRuleType = $.kd.bos.entity.operate.bizrule.OpBizRuleType;
+export declare const OpBizRuleType: $.kd.bos.entity.operate.bizrule.OpBizRuleType_C;
+export declare type OpBizRuleTypeLoader = $.kd.bos.entity.operate.bizrule.OpBizRuleTypeLoader;
+export declare const OpBizRuleTypeLoader: $.kd.bos.entity.operate.bizrule.OpBizRuleTypeLoader_C;
+export declare type OpBizRuleTypes = $.kd.bos.entity.operate.bizrule.OpBizRuleTypes;
+export declare const OpBizRuleTypes: $.kd.bos.entity.operate.bizrule.OpBizRuleTypes_C;

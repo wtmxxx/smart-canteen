@@ -1,0 +1,12 @@
+export declare type DataMutex = $.kd.bos.mutex.DataMutex;
+export declare const DataMutex: $.kd.bos.mutex.DataMutex;
+export declare type FunctionMutex = $.kd.bos.mutex.FunctionMutex;
+export declare const FunctionMutex: $.kd.bos.mutex.FunctionMutex;
+export declare type LockType = $.kd.bos.mutex.LockType;
+export declare const LockType: typeof $.kd.bos.mutex.LockType;
+export declare type MutexFactory = $.kd.bos.mutex.MutexFactory;
+export declare const MutexFactory: $.kd.bos.mutex.MutexFactory_C;
+export declare type MutexModule = $.kd.bos.mutex.MutexModule;
+export declare const MutexModule: $.kd.bos.mutex.MutexModule_C;
+export declare type ShareLock = $.kd.bos.mutex.ShareLock;
+export declare const ShareLock: $.kd.bos.mutex.ShareLock;

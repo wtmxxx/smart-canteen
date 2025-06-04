@@ -1,0 +1,14 @@
+export const HasPermDimObjResult = $.type("kd.bos.permission.api.HasPermDimObjResult");
+export const HasPermOrgResult = $.type("kd.bos.permission.api.HasPermOrgResult");
+export const AdminAppResult = $.type("kd.bos.permission.api.AdminAppResult");
+export const BizRoleInfo = $.type("kd.bos.permission.api.BizRoleInfo");
+export const BizRoleInfo$BizRoleDisPerm = $.type("kd.bos.permission.api.BizRoleInfo$BizRoleDisPerm");
+export const BizRoleInfo$BizRoleOrg = $.type("kd.bos.permission.api.BizRoleInfo$BizRoleOrg");
+export const BizRoleInfo$BizRolePerm = $.type("kd.bos.permission.api.BizRoleInfo$BizRolePerm");
+export const BizRoleInfo$CommonRole = $.type("kd.bos.permission.api.BizRoleInfo$CommonRole");
+export const DimensionPermOrgResult = $.type("kd.bos.permission.api.DimensionPermOrgResult");
+export const FieldControlRule = $.type("kd.bos.permission.api.FieldControlRule");
+export const FieldControlRuleDto = $.type("kd.bos.permission.api.FieldControlRuleDto");
+export const FieldControlRules = $.type("kd.bos.permission.api.FieldControlRules");
+export const RoleInfo = $.type("kd.bos.permission.api.RoleInfo");
+export const UserScopeResult = $.type("kd.bos.permission.api.UserScopeResult");

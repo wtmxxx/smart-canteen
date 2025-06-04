@@ -1,0 +1,12 @@
+export declare type CollectionProperty = $.kd.bos.dataentity.metadata.clr.CollectionProperty;
+export declare const CollectionProperty: $.kd.bos.dataentity.metadata.clr.CollectionProperty_C;
+export declare type ComplexProperty = $.kd.bos.dataentity.metadata.clr.ComplexProperty;
+export declare const ComplexProperty: $.kd.bos.dataentity.metadata.clr.ComplexProperty_C;
+export declare type DataEntityProperty = $.kd.bos.dataentity.metadata.clr.DataEntityProperty;
+export declare const DataEntityProperty: $.kd.bos.dataentity.metadata.clr.DataEntityProperty_C;
+export declare type DataEntityPropertyCollection = $.kd.bos.dataentity.metadata.clr.DataEntityPropertyCollection;
+export declare const DataEntityPropertyCollection: $.kd.bos.dataentity.metadata.clr.DataEntityPropertyCollection_C;
+export declare type DataEntityType = $.kd.bos.dataentity.metadata.clr.DataEntityType;
+export declare const DataEntityType: $.kd.bos.dataentity.metadata.clr.DataEntityType_C;
+export declare type SimpleProperty = $.kd.bos.dataentity.metadata.clr.SimpleProperty;
+export declare const SimpleProperty: $.kd.bos.dataentity.metadata.clr.SimpleProperty_C;

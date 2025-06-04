@@ -1,0 +1,10 @@
+export declare type BaseDataDeleteValidator = $.kd.bos.service.operation.validate.BaseDataDeleteValidator;
+export declare const BaseDataDeleteValidator: $.kd.bos.service.operation.validate.BaseDataDeleteValidator_C;
+export declare type ConditionValidator = $.kd.bos.service.operation.validate.ConditionValidator;
+export declare const ConditionValidator: $.kd.bos.service.operation.validate.ConditionValidator_C;
+export declare type DataMutexResult = $.kd.bos.service.operation.validate.DataMutexResult;
+export declare const DataMutexResult: $.kd.bos.service.operation.validate.DataMutexResult_C;
+export declare type MutexValidator = $.kd.bos.service.operation.validate.MutexValidator;
+export declare const MutexValidator: $.kd.bos.service.operation.validate.MutexValidator_C;
+export declare type ValidationService = $.kd.bos.service.operation.validate.ValidationService;
+export declare const ValidationService: $.kd.bos.service.operation.validate.ValidationService_C;

@@ -1,0 +1,10 @@
+export const Attributes = $.type("org.xml.sax.Attributes");
+export const ContentHandler = $.type("org.xml.sax.ContentHandler");
+export const DTDHandler = $.type("org.xml.sax.DTDHandler");
+export const EntityResolver = $.type("org.xml.sax.EntityResolver");
+export const ErrorHandler = $.type("org.xml.sax.ErrorHandler");
+export const InputSource = $.type("org.xml.sax.InputSource");
+export const Locator = $.type("org.xml.sax.Locator");
+export const SAXException = $.type("org.xml.sax.SAXException");
+export const SAXParseException = $.type("org.xml.sax.SAXParseException");
+export const XMLReader = $.type("org.xml.sax.XMLReader");

@@ -1,0 +1,10 @@
+export const ContentHandler = $.type("java.net.ContentHandler");
+export const ContentHandlerFactory = $.type("java.net.ContentHandlerFactory");
+export const FileNameMap = $.type("java.net.FileNameMap");
+export const Proxy = $.type("java.net.Proxy");
+export const Proxy$Type = $.type("java.net.Proxy$Type");
+export const URI = $.type("java.net.URI");
+export const URL = $.type("java.net.URL");
+export const URLConnection = $.type("java.net.URLConnection");
+export const URLStreamHandler = $.type("java.net.URLStreamHandler");
+export const URLStreamHandlerFactory = $.type("java.net.URLStreamHandlerFactory");

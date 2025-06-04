@@ -1,0 +1,12 @@
+export declare type AfterExecAttendanceEvent = $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AfterExecAttendanceEvent;
+export declare const AfterExecAttendanceEvent: $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AfterExecAttendanceEvent_C;
+export declare type AfterExecAttendanceParam = $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AfterExecAttendanceParam;
+export declare const AfterExecAttendanceParam: $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AfterExecAttendanceParam;
+export declare type AttEvaluatorExpService = $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AttEvaluatorExpService;
+export declare const AttEvaluatorExpService: $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AttEvaluatorExpService;
+export declare type AttEvaluatorExpServiceDefault = $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AttEvaluatorExpServiceDefault;
+export declare const AttEvaluatorExpServiceDefault: $.kd.sdk.wtc.wtes.business.tie.exexutor.att.AttEvaluatorExpServiceDefault_C;
+export declare type OnEvaluateAttendanceEndEvent = $.kd.sdk.wtc.wtes.business.tie.exexutor.att.OnEvaluateAttendanceEndEvent;
+export declare const OnEvaluateAttendanceEndEvent: $.kd.sdk.wtc.wtes.business.tie.exexutor.att.OnEvaluateAttendanceEndEvent_C;
+export declare type TieExecAttendanceExtPlugin = $.kd.sdk.wtc.wtes.business.tie.exexutor.att.TieExecAttendanceExtPlugin;
+export declare const TieExecAttendanceExtPlugin: $.kd.sdk.wtc.wtes.business.tie.exexutor.att.TieExecAttendanceExtPlugin;

@@ -1,0 +1,14 @@
+export declare type AfterCardMatchEvent = $.kd.sdk.wtc.wtpm.business.cardmatch.AfterCardMatchEvent;
+export declare const AfterCardMatchEvent: $.kd.sdk.wtc.wtpm.business.cardmatch.AfterCardMatchEvent_C;
+export declare type AfterCardMatchExtPlugin = $.kd.sdk.wtc.wtpm.business.cardmatch.AfterCardMatchExtPlugin;
+export declare const AfterCardMatchExtPlugin: $.kd.sdk.wtc.wtpm.business.cardmatch.AfterCardMatchExtPlugin;
+export declare type BeforeCardMatchIntersectionEvent = $.kd.sdk.wtc.wtpm.business.cardmatch.BeforeCardMatchIntersectionEvent;
+export declare const BeforeCardMatchIntersectionEvent: $.kd.sdk.wtc.wtpm.business.cardmatch.BeforeCardMatchIntersectionEvent_C;
+export declare type CardMatchIntersectionExtPlugin = $.kd.sdk.wtc.wtpm.business.cardmatch.CardMatchIntersectionExtPlugin;
+export declare const CardMatchIntersectionExtPlugin: $.kd.sdk.wtc.wtpm.business.cardmatch.CardMatchIntersectionExtPlugin;
+export declare type CardMatchOffShiftExtPlugin = $.kd.sdk.wtc.wtpm.business.cardmatch.CardMatchOffShiftExtPlugin;
+export declare const CardMatchOffShiftExtPlugin: $.kd.sdk.wtc.wtpm.business.cardmatch.CardMatchOffShiftExtPlugin;
+export declare type CardMatchTaskParam = $.kd.sdk.wtc.wtpm.business.cardmatch.CardMatchTaskParam;
+export declare const CardMatchTaskParam: $.kd.sdk.wtc.wtpm.business.cardmatch.CardMatchTaskParam_C;
+export declare type OffShiftTakeCardRangeEvent = $.kd.sdk.wtc.wtpm.business.cardmatch.OffShiftTakeCardRangeEvent;
+export declare const OffShiftTakeCardRangeEvent: $.kd.sdk.wtc.wtpm.business.cardmatch.OffShiftTakeCardRangeEvent_C;

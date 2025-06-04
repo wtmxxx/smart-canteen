@@ -1,0 +1,18 @@
+export declare type BusiRoleAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.BusiRoleAfterDelReq;
+export declare const BusiRoleAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.BusiRoleAfterDelReq_C;
+export declare type ComRoleAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.ComRoleAfterDelReq;
+export declare const ComRoleAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.ComRoleAfterDelReq_C;
+export declare type UserBusiRoleAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.UserBusiRoleAfterDelReq;
+export declare const UserBusiRoleAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.UserBusiRoleAfterDelReq_C;
+export declare type UserComRoleAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.UserComRoleAfterDelReq;
+export declare const UserComRoleAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.UserComRoleAfterDelReq_C;
+export declare type UserDirectDisPermAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.UserDirectDisPermAfterDelReq;
+export declare const UserDirectDisPermAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.UserDirectDisPermAfterDelReq_C;
+export declare type UserDirectPermAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.UserDirectPermAfterDelReq;
+export declare const UserDirectPermAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.UserDirectPermAfterDelReq_C;
+export declare type UsrGrpBusiRoleAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.UsrGrpBusiRoleAfterDelReq;
+export declare const UsrGrpBusiRoleAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.UsrGrpBusiRoleAfterDelReq_C;
+export declare type UsrGrpComRoleAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.UsrGrpComRoleAfterDelReq;
+export declare const UsrGrpComRoleAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.UsrGrpComRoleAfterDelReq_C;
+export declare type UsrGrpUserAfterDelReq = $.kd.bos.permission.model.perm.req.bat.afterdel.UsrGrpUserAfterDelReq;
+export declare const UsrGrpUserAfterDelReq: $.kd.bos.permission.model.perm.req.bat.afterdel.UsrGrpUserAfterDelReq_C;

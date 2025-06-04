@@ -1,0 +1,10 @@
+export const AfterQteGenQTEvent = $.type("kd.sdk.wtc.wtes.business.qte.executor.AfterQteGenQTEvent");
+export const QteGenQTExtPlugin = $.type("kd.sdk.wtc.wtes.business.qte.executor.QteGenQTExtPlugin");
+export const QuotaDetail = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetail");
+export const QuotaDetailInOut = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetailInOut");
+export const QuotaDetailOverdraw = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetailOverdraw");
+export const QuotaDetailOverdrawQl = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetailOverdrawQl");
+export const QuotaDetailQualification = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetailQualification");
+export const QuotaDetailStandard = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetailStandard");
+export const QuotaDetailUse = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetailUse");
+export const QuotaDetailUseQualification = $.type("kd.sdk.wtc.wtes.business.qte.executor.QuotaDetailUseQualification");

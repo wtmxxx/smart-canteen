@@ -1,0 +1,10 @@
+export const Distinctable = $.type("kd.bos.orm.query.Distinctable");
+export const EntityNotExistsException = $.type("kd.bos.orm.query.EntityNotExistsException");
+export const NoSuchPropertyException = $.type("kd.bos.orm.query.NoSuchPropertyException");
+export const ORMException = $.type("kd.bos.orm.query.ORMException");
+export const QCP = $.type("kd.bos.orm.query.QCP");
+export const QFilter = $.type("kd.bos.orm.query.QFilter");
+export const QFilter$QFilterNest = $.type("kd.bos.orm.query.QFilter$QFilterNest");
+export const QFilterEvaluator = $.type("kd.bos.orm.query.QFilterEvaluator");
+export const QFilterHint = $.type("kd.bos.orm.query.QFilterHint");
+export const WithEntityEntryDistinctable = $.type("kd.bos.orm.query.WithEntityEntryDistinctable");

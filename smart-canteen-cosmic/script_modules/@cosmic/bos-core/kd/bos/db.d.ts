@@ -1,0 +1,14 @@
+export declare type DB = $.kd.bos.db.DB;
+export declare const DB: $.kd.bos.db.DB_C;
+export declare type DBModule = $.kd.bos.db.DBModule;
+export declare const DBModule: $.kd.bos.db.DBModule_C;
+export declare type DBRoute = $.kd.bos.db.DBRoute;
+export declare const DBRoute: $.kd.bos.db.DBRoute_C;
+export declare type DBType = $.kd.bos.db.DBType;
+export declare const DBType: typeof $.kd.bos.db.DBType;
+export declare type ResultSetHandler = $.kd.bos.db.ResultSetHandler;
+export declare const ResultSetHandler: $.kd.bos.db.ResultSetHandler;
+export declare type SqlBuilder = $.kd.bos.db.SqlBuilder;
+export declare const SqlBuilder: $.kd.bos.db.SqlBuilder_C;
+export declare type SqlParameter = $.kd.bos.db.SqlParameter;
+export declare const SqlParameter: $.kd.bos.db.SqlParameter_C;

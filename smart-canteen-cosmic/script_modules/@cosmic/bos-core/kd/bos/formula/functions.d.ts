@@ -1,0 +1,12 @@
+export declare type Avg = $.kd.bos.formula.functions.Avg;
+export declare const Avg: $.kd.bos.formula.functions.Avg_C;
+export declare type Count = $.kd.bos.formula.functions.Count;
+export declare const Count: $.kd.bos.formula.functions.Count_C;
+export declare type If = $.kd.bos.formula.functions.If;
+export declare const If: $.kd.bos.formula.functions.If_C;
+export declare type Max = $.kd.bos.formula.functions.Max;
+export declare const Max: $.kd.bos.formula.functions.Max_C;
+export declare type Min = $.kd.bos.formula.functions.Min;
+export declare const Min: $.kd.bos.formula.functions.Min_C;
+export declare type Sum = $.kd.bos.formula.functions.Sum;
+export declare const Sum: $.kd.bos.formula.functions.Sum_C;

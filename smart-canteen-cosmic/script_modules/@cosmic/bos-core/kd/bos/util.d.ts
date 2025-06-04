@@ -1,0 +1,25 @@
+/// <reference types="dist/index" />
+export declare type CollectionUtils = $.kd.bos.util.CollectionUtils;
+export declare const CollectionUtils: $.kd.bos.util.CollectionUtils_C;
+export declare type ConfigurationUtil = $.kd.bos.util.ConfigurationUtil;
+export declare const ConfigurationUtil: $.kd.bos.util.ConfigurationUtil_C;
+export declare type DisCardUtil = $.kd.bos.util.DisCardUtil;
+export declare const DisCardUtil: $.kd.bos.util.DisCardUtil_C;
+export declare type ExceptionUtils = $.kd.bos.util.ExceptionUtils;
+export declare const ExceptionUtils: $.kd.bos.util.ExceptionUtils_C;
+export declare type FileNameUtils = $.kd.bos.util.FileNameUtils;
+export declare const FileNameUtils: $.kd.bos.util.FileNameUtils_C;
+export declare type HttpClientUtils = $.kd.bos.util.HttpClientUtils;
+export declare const HttpClientUtils: $.kd.bos.util.HttpClientUtils_C;
+export declare type HttpUtils = $.kd.bos.util.HttpUtils;
+export declare const HttpUtils: $.kd.bos.util.HttpUtils_C;
+export declare type JSONUtils = $.kd.bos.util.JSONUtils;
+export declare const JSONUtils: $.kd.bos.util.JSONUtils_C;
+export declare type NetAddressUtils = $.kd.bos.util.NetAddressUtils;
+export declare const NetAddressUtils: $.kd.bos.util.NetAddressUtils_C;
+export declare type RevProxyUtil = $.kd.bos.util.RevProxyUtil;
+export declare const RevProxyUtil: $.kd.bos.util.RevProxyUtil_C;
+export declare type StringUtils = $.kd.bos.util.StringUtils;
+export declare const StringUtils: $.kd.bos.util.StringUtils_C;
+export declare type ThreadLocals = $.kd.bos.util.ThreadLocals;
+export declare const ThreadLocals: $.kd.bos.util.ThreadLocals_C;

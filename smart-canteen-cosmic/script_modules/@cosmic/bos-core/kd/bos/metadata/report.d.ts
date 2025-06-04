@@ -1,0 +1,14 @@
+export declare type ReportCommFilterPanelAp = $.kd.bos.metadata.report.ReportCommFilterPanelAp;
+export declare const ReportCommFilterPanelAp: $.kd.bos.metadata.report.ReportCommFilterPanelAp_C;
+export declare type ReportEntity = $.kd.bos.metadata.report.ReportEntity;
+export declare const ReportEntity: $.kd.bos.metadata.report.ReportEntity_C;
+export declare type ReportFilterAp = $.kd.bos.metadata.report.ReportFilterAp;
+export declare const ReportFilterAp: $.kd.bos.metadata.report.ReportFilterAp_C;
+export declare type ReportFormAp = $.kd.bos.metadata.report.ReportFormAp;
+export declare const ReportFormAp: $.kd.bos.metadata.report.ReportFormAp_C;
+export declare type ReportListAp = $.kd.bos.metadata.report.ReportListAp;
+export declare const ReportListAp: $.kd.bos.metadata.report.ReportListAp_C;
+export declare type ReportMoreFilterPanelAp = $.kd.bos.metadata.report.ReportMoreFilterPanelAp;
+export declare const ReportMoreFilterPanelAp: $.kd.bos.metadata.report.ReportMoreFilterPanelAp_C;
+export declare type ReportTreeAp = $.kd.bos.metadata.report.ReportTreeAp;
+export declare const ReportTreeAp: $.kd.bos.metadata.report.ReportTreeAp_C;

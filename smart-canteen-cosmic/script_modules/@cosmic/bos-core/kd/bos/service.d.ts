@@ -1,0 +1,14 @@
+export declare type ITimeService = $.kd.bos.service.ITimeService;
+export declare const ITimeService: $.kd.bos.service.ITimeService;
+export declare type InteTimeZone = $.kd.bos.service.InteTimeZone;
+export declare const InteTimeZone: $.kd.bos.service.InteTimeZone_C;
+export declare type KDDateFormatUtils = $.kd.bos.service.KDDateFormatUtils;
+export declare const KDDateFormatUtils: $.kd.bos.service.KDDateFormatUtils_C;
+export declare type KDDateUtils = $.kd.bos.service.KDDateUtils;
+export declare const KDDateUtils: $.kd.bos.service.KDDateUtils_C;
+export declare type ServiceFactory = $.kd.bos.service.ServiceFactory;
+export declare const ServiceFactory: $.kd.bos.service.ServiceFactory_C;
+export declare type TimeService = $.kd.bos.service.TimeService;
+export declare const TimeService: $.kd.bos.service.TimeService_C;
+export declare type IUserService = $.kd.bos.service.IUserService;
+export declare const IUserService: $.kd.bos.service.IUserService;

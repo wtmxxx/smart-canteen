@@ -1,0 +1,18 @@
+export declare type AbstractMessageInfo = $.kd.bos.message.api.AbstractMessageInfo;
+export declare const AbstractMessageInfo: $.kd.bos.message.api.AbstractMessageInfo_C;
+export declare type DingdingMessageInfo = $.kd.bos.message.api.DingdingMessageInfo;
+export declare const DingdingMessageInfo: $.kd.bos.message.api.DingdingMessageInfo_C;
+export declare type DingdingTodoInfo = $.kd.bos.message.api.DingdingTodoInfo;
+export declare const DingdingTodoInfo: $.kd.bos.message.api.DingdingTodoInfo_C;
+export declare type EmailInfo = $.kd.bos.message.api.EmailInfo;
+export declare const EmailInfo: $.kd.bos.message.api.EmailInfo_C;
+export declare type IMessageService = $.kd.bos.message.api.IMessageService;
+export declare const IMessageService: $.kd.bos.message.api.IMessageService;
+export declare type IMsgEventListener = $.kd.bos.message.api.IMsgEventListener;
+export declare const IMsgEventListener: $.kd.bos.message.api.IMsgEventListener;
+export declare type ShortMessageInfo = $.kd.bos.message.api.ShortMessageInfo;
+export declare const ShortMessageInfo: $.kd.bos.message.api.ShortMessageInfo_C;
+export declare type WeixinqyMessageInfo = $.kd.bos.message.api.WeixinqyMessageInfo;
+export declare const WeixinqyMessageInfo: $.kd.bos.message.api.WeixinqyMessageInfo_C;
+export declare type YzjMessageInfo = $.kd.bos.message.api.YzjMessageInfo;
+export declare const YzjMessageInfo: $.kd.bos.message.api.YzjMessageInfo_C;

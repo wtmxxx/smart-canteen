@@ -1,0 +1,14 @@
+export declare type BasLoginConfigParam = $.kd.bos.portal.model.BasLoginConfigParam;
+export declare const BasLoginConfigParam: $.kd.bos.portal.model.BasLoginConfigParam_C;
+export declare type BrandUpEnum = $.kd.bos.portal.model.BrandUpEnum;
+export declare const BrandUpEnum: typeof $.kd.bos.portal.model.BrandUpEnum;
+export declare type CardCountType = $.kd.bos.portal.model.CardCountType;
+export declare const CardCountType: typeof $.kd.bos.portal.model.CardCountType;
+export declare type CardInfo = $.kd.bos.portal.model.CardInfo;
+export declare const CardInfo: $.kd.bos.portal.model.CardInfo_C;
+export declare type CountErrorCode = $.kd.bos.portal.model.CountErrorCode;
+export declare const CountErrorCode: typeof $.kd.bos.portal.model.CountErrorCode;
+export declare type CountRst = $.kd.bos.portal.model.CountRst;
+export declare const CountRst: $.kd.bos.portal.model.CountRst_C;
+export declare type CountStatusEnum = $.kd.bos.portal.model.CountStatusEnum;
+export declare const CountStatusEnum: typeof $.kd.bos.portal.model.CountStatusEnum;

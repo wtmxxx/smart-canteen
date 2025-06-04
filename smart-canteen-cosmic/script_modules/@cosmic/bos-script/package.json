@@ -1,0 +1,29 @@
+{
+	"types":"index_reference.d.ts",
+	"keywords":[
+		"kingdee",
+		"kingscript",
+		"cosmic",
+		"sdk",
+		"bos",
+		"script"
+	],
+	"buildTime":"2025-03-27 10:11:25",
+	"exports":{
+		"./*":"*.d.ts"
+	},
+	"author":"zzf",
+	"description":"SDK: bos-script",
+	"main":"index.js",
+	"version":"1.0.0",
+	"dependencies":{},
+	"license":"MIT",
+	"name":"@cosmic/bos-script",
+	"files":[
+		"**/*"
+	],
+	"scripts":{
+		"pp":"npm run build & cd dist & npm publish",
+		"build":"kk prepack clear & tsc & kk prepack compile"
+	}
+}

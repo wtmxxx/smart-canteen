@@ -1,0 +1,10 @@
+export const AbstractListPlugin = $.type("kd.bos.list.plugin.AbstractListPlugin");
+export const AbstractListViewPluginProxy = $.type("kd.bos.list.plugin.AbstractListViewPluginProxy");
+export const AbstractMobListPlugin = $.type("kd.bos.list.plugin.AbstractMobListPlugin");
+export const AbstractTreeListPlugin = $.type("kd.bos.list.plugin.AbstractTreeListPlugin");
+export const IListPlugin = $.type("kd.bos.list.plugin.IListPlugin");
+export const IMobListPlugin = $.type("kd.bos.list.plugin.IMobListPlugin");
+export const IPCListPlugin = $.type("kd.bos.list.plugin.IPCListPlugin");
+export const ITreeListPlugin = $.type("kd.bos.list.plugin.ITreeListPlugin");
+export const ListViewPluginProxy = $.type("kd.bos.list.plugin.ListViewPluginProxy");
+export const StandardTreeListPlugin = $.type("kd.bos.list.plugin.StandardTreeListPlugin");

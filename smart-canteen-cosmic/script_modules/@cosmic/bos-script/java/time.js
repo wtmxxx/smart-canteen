@@ -1,0 +1,14 @@
+export const Clock = $.type("java.time.Clock");
+export const DayOfWeek = $.type("java.time.DayOfWeek");
+export const Duration = $.type("java.time.Duration");
+export const Instant = $.type("java.time.Instant");
+export const LocalDate = $.type("java.time.LocalDate");
+export const LocalDateTime = $.type("java.time.LocalDateTime");
+export const LocalTime = $.type("java.time.LocalTime");
+export const Month = $.type("java.time.Month");
+export const OffsetDateTime = $.type("java.time.OffsetDateTime");
+export const OffsetTime = $.type("java.time.OffsetTime");
+export const Period = $.type("java.time.Period");
+export const ZoneId = $.type("java.time.ZoneId");
+export const ZoneOffset = $.type("java.time.ZoneOffset");
+export const ZonedDateTime = $.type("java.time.ZonedDateTime");

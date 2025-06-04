@@ -1,0 +1,10 @@
+export declare type IOperateInfo = $.kd.bos.entity.operate.result.IOperateInfo;
+export declare const IOperateInfo: $.kd.bos.entity.operate.result.IOperateInfo;
+export declare type OperateErrorInfo = $.kd.bos.entity.operate.result.OperateErrorInfo;
+export declare const OperateErrorInfo: $.kd.bos.entity.operate.result.OperateErrorInfo_C;
+export declare type OperateInfo = $.kd.bos.entity.operate.result.OperateInfo;
+export declare const OperateInfo: $.kd.bos.entity.operate.result.OperateInfo_C;
+export declare type OperateResultInfo = $.kd.bos.entity.operate.result.OperateResultInfo;
+export declare const OperateResultInfo: $.kd.bos.entity.operate.result.OperateResultInfo_C;
+export declare type OperationResult = $.kd.bos.entity.operate.result.OperationResult;
+export declare const OperationResult: $.kd.bos.entity.operate.result.OperationResult_C;

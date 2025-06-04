@@ -1,0 +1,10 @@
+export declare type MobCommonBaseDataFilterColumn = $.kd.bos.filter.mcontrol.MobCommonBaseDataFilterColumn;
+export declare const MobCommonBaseDataFilterColumn: $.kd.bos.filter.mcontrol.MobCommonBaseDataFilterColumn_C;
+export declare type MobCommonDateFilterColumn = $.kd.bos.filter.mcontrol.MobCommonDateFilterColumn;
+export declare const MobCommonDateFilterColumn: $.kd.bos.filter.mcontrol.MobCommonDateFilterColumn_C;
+export declare type MobCommonFilterColumn = $.kd.bos.filter.mcontrol.MobCommonFilterColumn;
+export declare const MobCommonFilterColumn: $.kd.bos.filter.mcontrol.MobCommonFilterColumn_C;
+export declare type MobFilterSort = $.kd.bos.filter.mcontrol.MobFilterSort;
+export declare const MobFilterSort: $.kd.bos.filter.mcontrol.MobFilterSort_C;
+export declare type MobSortColumn = $.kd.bos.filter.mcontrol.MobSortColumn;
+export declare const MobSortColumn: $.kd.bos.filter.mcontrol.MobSortColumn_C;

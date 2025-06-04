@@ -1,0 +1,14 @@
+export declare type AdminGroupPermTypeEnum = $.kd.bos.permission.enums.AdminGroupPermTypeEnum;
+export declare const AdminGroupPermTypeEnum: typeof $.kd.bos.permission.enums.AdminGroupPermTypeEnum;
+export declare type AssignModEnum = $.kd.bos.permission.enums.AssignModEnum;
+export declare const AssignModEnum: typeof $.kd.bos.permission.enums.AssignModEnum;
+export declare type EnumsDataChangeType = $.kd.bos.permission.enums.EnumsDataChangeType;
+export declare const EnumsDataChangeType: typeof $.kd.bos.permission.enums.EnumsDataChangeType;
+export declare type EnumsFieldPermCtrlMode = $.kd.bos.permission.enums.EnumsFieldPermCtrlMode;
+export declare const EnumsFieldPermCtrlMode: typeof $.kd.bos.permission.enums.EnumsFieldPermCtrlMode;
+export declare type EnumsFpsFieldFrom = $.kd.bos.permission.enums.EnumsFpsFieldFrom;
+export declare const EnumsFpsFieldFrom: typeof $.kd.bos.permission.enums.EnumsFpsFieldFrom;
+export declare type GrpUsrFromTypeEnum = $.kd.bos.permission.enums.GrpUsrFromTypeEnum;
+export declare const GrpUsrFromTypeEnum: typeof $.kd.bos.permission.enums.GrpUsrFromTypeEnum;
+export declare type OperationTypeEnum = $.kd.bos.permission.enums.OperationTypeEnum;
+export declare const OperationTypeEnum: typeof $.kd.bos.permission.enums.OperationTypeEnum;

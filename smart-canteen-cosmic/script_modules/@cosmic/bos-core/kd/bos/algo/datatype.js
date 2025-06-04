@@ -1,0 +1,12 @@
+export const AnyType = $.type("kd.bos.algo.datatype.AnyType");
+export const BigDecimalType = $.type("kd.bos.algo.datatype.BigDecimalType");
+export const BooleanType = $.type("kd.bos.algo.datatype.BooleanType");
+export const DateType = $.type("kd.bos.algo.datatype.DateType");
+export const FractionalType = $.type("kd.bos.algo.datatype.FractionalType");
+export const IntegerType = $.type("kd.bos.algo.datatype.IntegerType");
+export const IntegralType = $.type("kd.bos.algo.datatype.IntegralType");
+export const LongType = $.type("kd.bos.algo.datatype.LongType");
+export const NullType = $.type("kd.bos.algo.datatype.NullType");
+export const NumericType = $.type("kd.bos.algo.datatype.NumericType");
+export const StringType = $.type("kd.bos.algo.datatype.StringType");
+export const TimestampType = $.type("kd.bos.algo.datatype.TimestampType");

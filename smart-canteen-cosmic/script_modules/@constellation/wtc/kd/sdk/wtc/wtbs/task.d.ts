@@ -1,0 +1,10 @@
+export declare type AfterSubTaskEndEvent = $.kd.sdk.wtc.wtbs.task.AfterSubTaskEndEvent;
+export declare const AfterSubTaskEndEvent: $.kd.sdk.wtc.wtbs.task.AfterSubTaskEndEvent_C;
+export declare type AfterTaskEndEvent = $.kd.sdk.wtc.wtbs.task.AfterTaskEndEvent;
+export declare const AfterTaskEndEvent: $.kd.sdk.wtc.wtbs.task.AfterTaskEndEvent_C;
+export declare type DispatchTaskResp = $.kd.sdk.wtc.wtbs.task.DispatchTaskResp;
+export declare const DispatchTaskResp: $.kd.sdk.wtc.wtbs.task.DispatchTaskResp;
+export declare type WTCSubTaskEndExtPlugin = $.kd.sdk.wtc.wtbs.task.WTCSubTaskEndExtPlugin;
+export declare const WTCSubTaskEndExtPlugin: $.kd.sdk.wtc.wtbs.task.WTCSubTaskEndExtPlugin;
+export declare type WTCTaskEndExtPlugin = $.kd.sdk.wtc.wtbs.task.WTCTaskEndExtPlugin;
+export declare const WTCTaskEndExtPlugin: $.kd.sdk.wtc.wtbs.task.WTCTaskEndExtPlugin;

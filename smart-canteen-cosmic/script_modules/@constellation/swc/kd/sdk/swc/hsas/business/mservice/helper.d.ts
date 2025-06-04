@@ -1,0 +1,16 @@
+export declare type BizDataServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.BizDataServiceHelper;
+export declare const BizDataServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.BizDataServiceHelper_C;
+export declare type CalPayrollTaskServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.CalPayrollTaskServiceHelper;
+export declare const CalPayrollTaskServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.CalPayrollTaskServiceHelper_C;
+export declare type OnHoldServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.OnHoldServiceHelper;
+export declare const OnHoldServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.OnHoldServiceHelper_C;
+export declare type PayDetailServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.PayDetailServiceHelper;
+export declare const PayDetailServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.PayDetailServiceHelper_C;
+export declare type PaySettingServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.PaySettingServiceHelper;
+export declare const PaySettingServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.PaySettingServiceHelper_C;
+export declare type PersonServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.PersonServiceHelper;
+export declare const PersonServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.PersonServiceHelper_C;
+export declare type SalaryCalculationServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.SalaryCalculationServiceHelper;
+export declare const SalaryCalculationServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.SalaryCalculationServiceHelper_C;
+export declare type SalaryFileServiceHelper = $.kd.sdk.swc.hsas.business.mservice.helper.SalaryFileServiceHelper;
+export declare const SalaryFileServiceHelper: $.kd.sdk.swc.hsas.business.mservice.helper.SalaryFileServiceHelper_C;

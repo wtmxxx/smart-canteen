@@ -1,0 +1,12 @@
+export declare type IInvBatchFillExpand = $.kd.sdk.scmc.im.extpoint.IInvBatchFillExpand;
+export declare const IInvBatchFillExpand: $.kd.sdk.scmc.im.extpoint.IInvBatchFillExpand;
+export declare type IInvCountSchemeAuditExpand = $.kd.sdk.scmc.im.extpoint.IInvCountSchemeAuditExpand;
+export declare const IInvCountSchemeAuditExpand: $.kd.sdk.scmc.im.extpoint.IInvCountSchemeAuditExpand;
+export declare type IInvEntrustExpand = $.kd.sdk.scmc.im.extpoint.IInvEntrustExpand;
+export declare const IInvEntrustExpand: $.kd.sdk.scmc.im.extpoint.IInvEntrustExpand;
+export declare type IInvMatchruleoutExpand = $.kd.sdk.scmc.im.extpoint.IInvMatchruleoutExpand;
+export declare const IInvMatchruleoutExpand: $.kd.sdk.scmc.im.extpoint.IInvMatchruleoutExpand;
+export declare type IInvQueryExpand = $.kd.sdk.scmc.im.extpoint.IInvQueryExpand;
+export declare const IInvQueryExpand: $.kd.sdk.scmc.im.extpoint.IInvQueryExpand;
+export declare type ImExpandCaseCodes = $.kd.sdk.scmc.im.extpoint.ImExpandCaseCodes;
+export declare const ImExpandCaseCodes: $.kd.sdk.scmc.im.extpoint.ImExpandCaseCodes_C;

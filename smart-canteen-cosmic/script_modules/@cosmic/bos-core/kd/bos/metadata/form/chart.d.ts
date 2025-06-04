@@ -1,0 +1,16 @@
+export declare type BarChartAp = $.kd.bos.metadata.form.chart.BarChartAp;
+export declare const BarChartAp: $.kd.bos.metadata.form.chart.BarChartAp_C;
+export declare type ChartAp = $.kd.bos.metadata.form.chart.ChartAp;
+export declare const ChartAp: $.kd.bos.metadata.form.chart.ChartAp_C;
+export declare type CustomChartAp = $.kd.bos.metadata.form.chart.CustomChartAp;
+export declare const CustomChartAp: $.kd.bos.metadata.form.chart.CustomChartAp_C;
+export declare type GaugeChartAp = $.kd.bos.metadata.form.chart.GaugeChartAp;
+export declare const GaugeChartAp: $.kd.bos.metadata.form.chart.GaugeChartAp_C;
+export declare type HistogramChartAp = $.kd.bos.metadata.form.chart.HistogramChartAp;
+export declare const HistogramChartAp: $.kd.bos.metadata.form.chart.HistogramChartAp_C;
+export declare type PieChartAp = $.kd.bos.metadata.form.chart.PieChartAp;
+export declare const PieChartAp: $.kd.bos.metadata.form.chart.PieChartAp_C;
+export declare type PointLineChartAp = $.kd.bos.metadata.form.chart.PointLineChartAp;
+export declare const PointLineChartAp: $.kd.bos.metadata.form.chart.PointLineChartAp_C;
+export declare type RadarChartAp = $.kd.bos.metadata.form.chart.RadarChartAp;
+export declare const RadarChartAp: $.kd.bos.metadata.form.chart.RadarChartAp_C;

@@ -1,0 +1,11 @@
+export const DataEntityDeserializerOption = $.type("kd.bos.dataentity.serialization.DataEntityDeserializerOption");
+export const DataEntitySerializer = $.type("kd.bos.dataentity.serialization.DataEntitySerializer");
+export const DataEntitySerializerOption = $.type("kd.bos.dataentity.serialization.DataEntitySerializerOption");
+export const DcBinder = $.type("kd.bos.dataentity.serialization.DcBinder");
+export const DcJsonSerializer = $.type("kd.bos.dataentity.serialization.DcJsonSerializer");
+export const DcSerializer = $.type("kd.bos.dataentity.serialization.DcSerializer");
+export const DcxmlSerializer = $.type("kd.bos.dataentity.serialization.DcxmlSerializer");
+export const DynamicObjectSerializationBinder = $.type("kd.bos.dataentity.serialization.DynamicObjectSerializationBinder");
+export const IDataEntityBinder = $.type("kd.bos.dataentity.serialization.IDataEntityBinder");
+export const ListDcxmlBinder = $.type("kd.bos.dataentity.serialization.ListDcxmlBinder");
+export const SerializationUtils = $.type("kd.bos.dataentity.serialization.SerializationUtils");

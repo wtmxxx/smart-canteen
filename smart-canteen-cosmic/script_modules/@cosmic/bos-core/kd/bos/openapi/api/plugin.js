@@ -1,0 +1,15 @@
+export const ApiAppendEntryRowsPlugin = $.type("kd.bos.openapi.api.plugin.ApiAppendEntryRowsPlugin");
+export const ApiAuditPlugin = $.type("kd.bos.openapi.api.plugin.ApiAuditPlugin");
+export const ApiCommonPlugin = $.type("kd.bos.openapi.api.plugin.ApiCommonPlugin");
+export const ApiDeleteEntryRowsPlugin = $.type("kd.bos.openapi.api.plugin.ApiDeleteEntryRowsPlugin");
+export const ApiDeletePlugin = $.type("kd.bos.openapi.api.plugin.ApiDeletePlugin");
+export const ApiDeserializerPlugin = $.type("kd.bos.openapi.api.plugin.ApiDeserializerPlugin");
+export const ApiDisablePlugin = $.type("kd.bos.openapi.api.plugin.ApiDisablePlugin");
+export const ApiEnablePlugin = $.type("kd.bos.openapi.api.plugin.ApiEnablePlugin");
+export const ApiQueryPlugin = $.type("kd.bos.openapi.api.plugin.ApiQueryPlugin");
+export const ApiSavePlugin = $.type("kd.bos.openapi.api.plugin.ApiSavePlugin");
+export const ApiSerializerPlugin = $.type("kd.bos.openapi.api.plugin.ApiSerializerPlugin");
+export const ApiSubmitPlugin = $.type("kd.bos.openapi.api.plugin.ApiSubmitPlugin");
+export const ApiUnAuditPlugin = $.type("kd.bos.openapi.api.plugin.ApiUnAuditPlugin");
+export const ApiUnSubmitPlugin = $.type("kd.bos.openapi.api.plugin.ApiUnSubmitPlugin");
+export const SerializerResult = $.type("kd.bos.openapi.api.plugin.SerializerResult");

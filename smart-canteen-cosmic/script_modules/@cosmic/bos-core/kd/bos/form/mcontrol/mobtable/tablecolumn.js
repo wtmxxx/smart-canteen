@@ -1,0 +1,10 @@
+export const AmountMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.AmountMobTableColumn");
+export const DateMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.DateMobTableColumn");
+export const DecimalMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.DecimalMobTableColumn");
+export const IMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.IMobTableColumn");
+export const IntegerMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.IntegerMobTableColumn");
+export const MobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.MobTableColumn");
+export const PictureMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.PictureMobTableColumn");
+export const TextMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.TextMobTableColumn");
+export const TimeMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.TimeMobTableColumn");
+export const AttachmentMobTableColumn = $.type("kd.bos.form.mcontrol.mobtable.tablecolumn.AttachmentMobTableColumn");

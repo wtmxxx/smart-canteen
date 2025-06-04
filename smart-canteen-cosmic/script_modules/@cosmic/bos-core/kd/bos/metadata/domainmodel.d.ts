@@ -1,0 +1,18 @@
+export declare type Category = $.kd.bos.metadata.domainmodel.Category;
+export declare const Category: $.kd.bos.metadata.domainmodel.Category_C;
+export declare type CategoryCollection = $.kd.bos.metadata.domainmodel.CategoryCollection;
+export declare const CategoryCollection: $.kd.bos.metadata.domainmodel.CategoryCollection_C;
+export declare type DomainModelBinder = $.kd.bos.metadata.domainmodel.DomainModelBinder;
+export declare const DomainModelBinder: $.kd.bos.metadata.domainmodel.DomainModelBinder_C;
+export declare type DomainModelType = $.kd.bos.metadata.domainmodel.DomainModelType;
+export declare const DomainModelType: $.kd.bos.metadata.domainmodel.DomainModelType_C;
+export declare type ElementType = $.kd.bos.metadata.domainmodel.ElementType;
+export declare const ElementType: $.kd.bos.metadata.domainmodel.ElementType_C;
+export declare type Property = $.kd.bos.metadata.domainmodel.Property;
+export declare const Property: $.kd.bos.metadata.domainmodel.Property_C;
+export declare type PropertyCollection = $.kd.bos.metadata.domainmodel.PropertyCollection;
+export declare const PropertyCollection: $.kd.bos.metadata.domainmodel.PropertyCollection_C;
+export declare type PropertyGroup = $.kd.bos.metadata.domainmodel.PropertyGroup;
+export declare const PropertyGroup: $.kd.bos.metadata.domainmodel.PropertyGroup_C;
+export declare type PropertyGroupCollection = $.kd.bos.metadata.domainmodel.PropertyGroupCollection;
+export declare const PropertyGroupCollection: $.kd.bos.metadata.domainmodel.PropertyGroupCollection_C;

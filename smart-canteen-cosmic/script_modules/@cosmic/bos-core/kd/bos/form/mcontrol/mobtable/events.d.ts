@@ -1,0 +1,16 @@
+export declare type BeforeCreateMobTableColumnsEvent = $.kd.bos.form.mcontrol.mobtable.events.BeforeCreateMobTableColumnsEvent;
+export declare const BeforeCreateMobTableColumnsEvent: $.kd.bos.form.mcontrol.mobtable.events.BeforeCreateMobTableColumnsEvent_C;
+export declare type IBeforeCreateMobTableColumnsListener = $.kd.bos.form.mcontrol.mobtable.events.IBeforeCreateMobTableColumnsListener;
+export declare const IBeforeCreateMobTableColumnsListener: $.kd.bos.form.mcontrol.mobtable.events.IBeforeCreateMobTableColumnsListener;
+export declare type IMobTableDataProviderListener = $.kd.bos.form.mcontrol.mobtable.events.IMobTableDataProviderListener;
+export declare const IMobTableDataProviderListener: $.kd.bos.form.mcontrol.mobtable.events.IMobTableDataProviderListener;
+export declare type IMobTableHyperLinkClickListener = $.kd.bos.form.mcontrol.mobtable.events.IMobTableHyperLinkClickListener;
+export declare const IMobTableHyperLinkClickListener: $.kd.bos.form.mcontrol.mobtable.events.IMobTableHyperLinkClickListener;
+export declare type IMobTablePackageDataHandlerListener = $.kd.bos.form.mcontrol.mobtable.events.IMobTablePackageDataHandlerListener;
+export declare const IMobTablePackageDataHandlerListener: $.kd.bos.form.mcontrol.mobtable.events.IMobTablePackageDataHandlerListener;
+export declare type MobTableHandleResult = $.kd.bos.form.mcontrol.mobtable.events.MobTableHandleResult;
+export declare const MobTableHandleResult: $.kd.bos.form.mcontrol.mobtable.events.MobTableHandleResult_C;
+export declare type MobTablePackageDataHandlerArgs = $.kd.bos.form.mcontrol.mobtable.events.MobTablePackageDataHandlerArgs;
+export declare const MobTablePackageDataHandlerArgs: $.kd.bos.form.mcontrol.mobtable.events.MobTablePackageDataHandlerArgs_C;
+export declare type MobTablePackageDataHandlerEvent = $.kd.bos.form.mcontrol.mobtable.events.MobTablePackageDataHandlerEvent;
+export declare const MobTablePackageDataHandlerEvent: $.kd.bos.form.mcontrol.mobtable.events.MobTablePackageDataHandlerEvent_C;

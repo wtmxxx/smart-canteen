@@ -1,0 +1,11 @@
+export const IAmountControl = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IAmountControl");
+export const IAssetentryMustInput = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IAssetentryMustInput");
+export const IChangeReceiveAmount = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IChangeReceiveAmount");
+export const IEntryMustInput = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IEntryMustInput");
+export const IInitBillInfo = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IInitBillInfo");
+export const IPayAmountCal = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IPayAmountCal");
+export const IReimburseAmount = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IReimburseAmount");
+export const ISuperClosedCallBack = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.ISuperClosedCallBack");
+export const ITripStandardControl = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.ITripStandardControl");
+export const IWriteBackService = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IWriteBackService");
+export const IWriteOffMoney = $.type("kd.sdk.fi.er.extpoint.dailyreimbursebill.IWriteOffMoney");

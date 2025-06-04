@@ -1,0 +1,16 @@
+export declare type BaseModule = $.kd.bos.base.BaseModule;
+export declare const BaseModule: $.kd.bos.base.BaseModule_C;
+export declare type AbstractBasePlugIn = $.kd.bos.base.AbstractBasePlugIn;
+export declare const AbstractBasePlugIn: $.kd.bos.base.AbstractBasePlugIn_C;
+export declare type AbstractBasedataController = $.kd.bos.base.AbstractBasedataController;
+export declare const AbstractBasedataController: $.kd.bos.base.AbstractBasedataController_C;
+export declare type AbstractMobBasePlugIn = $.kd.bos.base.AbstractMobBasePlugIn;
+export declare const AbstractMobBasePlugIn: $.kd.bos.base.AbstractMobBasePlugIn_C;
+export declare type BaseShowParameter = $.kd.bos.base.BaseShowParameter;
+export declare const BaseShowParameter: $.kd.bos.base.BaseShowParameter_C;
+export declare type BasedataHelper = $.kd.bos.base.BasedataHelper;
+export declare const BasedataHelper: $.kd.bos.base.BasedataHelper_C;
+export declare type IBasedataController = $.kd.bos.base.IBasedataController;
+export declare const IBasedataController: $.kd.bos.base.IBasedataController;
+export declare type MobileBaseShowParameter = $.kd.bos.base.MobileBaseShowParameter;
+export declare const MobileBaseShowParameter: $.kd.bos.base.MobileBaseShowParameter_C;

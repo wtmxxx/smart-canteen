@@ -1,0 +1,12 @@
+export const AppCustomParam = $.type("kd.bos.entity.param.AppCustomParam");
+export const AppParam = $.type("kd.bos.entity.param.AppParam");
+export const BillParam = $.type("kd.bos.entity.param.BillParam");
+export const CustomParam = $.type("kd.bos.entity.param.CustomParam");
+export const FuzzySearch = $.type("kd.bos.entity.param.FuzzySearch");
+export const MobileListF7Config = $.type("kd.bos.entity.param.MobileListF7Config");
+export const OverallParam = $.type("kd.bos.entity.param.OverallParam");
+export const ParamKey = $.type("kd.bos.entity.param.ParamKey");
+export const ParamOperationResult = $.type("kd.bos.entity.param.ParamOperationResult");
+export const ParamPublishObject = $.type("kd.bos.entity.param.ParamPublishObject");
+export const ParamRow = $.type("kd.bos.entity.param.ParamRow");
+export const ShowColumn = $.type("kd.bos.entity.param.ShowColumn");

@@ -1,0 +1,12 @@
+export const AbstractValidator = $.type("kd.bos.entity.validate.AbstractValidator");
+export const BillStatus = $.type("kd.bos.entity.validate.BillStatus");
+export const ErrorLevel = $.type("kd.bos.entity.validate.ErrorLevel");
+export const GroupFieldsUniqueValidateResult = $.type("kd.bos.entity.validate.GroupFieldsUniqueValidateResult");
+export const IScopeCheck = $.type("kd.bos.entity.validate.IScopeCheck");
+export const IValidatorHanlder = $.type("kd.bos.entity.validate.IValidatorHanlder");
+export const RequiredValidator = $.type("kd.bos.entity.validate.RequiredValidator");
+export const ValidateContext = $.type("kd.bos.entity.validate.ValidateContext");
+export const ValidatePriority = $.type("kd.bos.entity.validate.ValidatePriority");
+export const ValidateResult = $.type("kd.bos.entity.validate.ValidateResult");
+export const ValidateResultCollection = $.type("kd.bos.entity.validate.ValidateResultCollection");
+export const ValidationErrorInfo = $.type("kd.bos.entity.validate.ValidationErrorInfo");

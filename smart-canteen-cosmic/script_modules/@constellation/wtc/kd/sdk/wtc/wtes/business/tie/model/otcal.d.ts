@@ -1,0 +1,10 @@
+export declare type OtRuleCalCompenConfigExt = $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtRuleCalCompenConfigExt;
+export declare const OtRuleCalCompenConfigExt: $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtRuleCalCompenConfigExt;
+export declare type OtRuleCalConfigExt = $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtRuleCalConfigExt;
+export declare const OtRuleCalConfigExt: $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtRuleCalConfigExt;
+export declare type OtRulePackageExt = $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtRulePackageExt;
+export declare const OtRulePackageExt: $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtRulePackageExt;
+export declare type OtSubConfigExt = $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtSubConfigExt;
+export declare const OtSubConfigExt: $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtSubConfigExt;
+export declare type OtSubTimeItemExt = $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtSubTimeItemExt;
+export declare const OtSubTimeItemExt: $.kd.sdk.wtc.wtes.business.tie.model.otcal.OtSubTimeItemExt;

@@ -1,0 +1,16 @@
+export const BufferStrategy = $.type("java.awt.image.BufferStrategy");
+export const BufferedImage = $.type("java.awt.image.BufferedImage");
+export const BufferedImageOp = $.type("java.awt.image.BufferedImageOp");
+export const ColorModel = $.type("java.awt.image.ColorModel");
+export const DataBuffer = $.type("java.awt.image.DataBuffer");
+export const ImageConsumer = $.type("java.awt.image.ImageConsumer");
+export const ImageObserver = $.type("java.awt.image.ImageObserver");
+export const ImageProducer = $.type("java.awt.image.ImageProducer");
+export const IndexColorModel = $.type("java.awt.image.IndexColorModel");
+export const Raster = $.type("java.awt.image.Raster");
+export const RenderedImage = $.type("java.awt.image.RenderedImage");
+export const SampleModel = $.type("java.awt.image.SampleModel");
+export const TileObserver = $.type("java.awt.image.TileObserver");
+export const VolatileImage = $.type("java.awt.image.VolatileImage");
+export const WritableRaster = $.type("java.awt.image.WritableRaster");
+export const WritableRenderedImage = $.type("java.awt.image.WritableRenderedImage");

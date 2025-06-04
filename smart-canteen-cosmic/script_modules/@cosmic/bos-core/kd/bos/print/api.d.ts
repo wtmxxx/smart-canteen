@@ -1,0 +1,14 @@
+export declare type FileStorageType = $.kd.bos.print.api.FileStorageType;
+export declare const FileStorageType: typeof $.kd.bos.print.api.FileStorageType;
+export declare type IPrintWorkExt = $.kd.bos.print.api.IPrintWorkExt;
+export declare const IPrintWorkExt: $.kd.bos.print.api.IPrintWorkExt;
+export declare type PrintContext = $.kd.bos.print.api.PrintContext;
+export declare const PrintContext: $.kd.bos.print.api.PrintContext_C;
+export declare type PrintParam = $.kd.bos.print.api.PrintParam;
+export declare const PrintParam: $.kd.bos.print.api.PrintParam_C;
+export declare type PrintTask = $.kd.bos.print.api.PrintTask;
+export declare const PrintTask: $.kd.bos.print.api.PrintTask_C;
+export declare type PrintWork = $.kd.bos.print.api.PrintWork;
+export declare const PrintWork: $.kd.bos.print.api.PrintWork_C;
+export declare type PrintWork$EXP_TYPE = $.kd.bos.print.api.PrintWork$EXP_TYPE;
+export declare const PrintWork$EXP_TYPE: typeof $.kd.bos.print.api.PrintWork$EXP_TYPE;

@@ -1,0 +1,13 @@
+export const BigIntegerField = $.type("kd.bos.print.core.data.field.BigIntegerField");
+export const CollectionField = $.type("kd.bos.print.core.data.field.CollectionField");
+export const DateField = $.type("kd.bos.print.core.data.field.DateField");
+export const DateTimeField = $.type("kd.bos.print.core.data.field.DateTimeField");
+export const DecimalField = $.type("kd.bos.print.core.data.field.DecimalField");
+export const Field = $.type("kd.bos.print.core.data.field.Field");
+export const ImageField = $.type("kd.bos.print.core.data.field.ImageField");
+export const IntegerField = $.type("kd.bos.print.core.data.field.IntegerField");
+export const LongField = $.type("kd.bos.print.core.data.field.LongField");
+export const NullField = $.type("kd.bos.print.core.data.field.NullField");
+export const NumberField = $.type("kd.bos.print.core.data.field.NumberField");
+export const TextField = $.type("kd.bos.print.core.data.field.TextField");
+export const TimeField = $.type("kd.bos.print.core.data.field.TimeField");

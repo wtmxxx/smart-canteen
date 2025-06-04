@@ -1,0 +1,10 @@
+export const AbstractStdExtPlugin = $.type("kd.bos.extplugin.AbstractStdExtPlugin");
+export const ExtEvent = $.type("kd.bos.extplugin.ExtEvent");
+export const PluginCall = $.type("kd.bos.extplugin.PluginCall");
+export const PluginFilter = $.type("kd.bos.extplugin.PluginFilter");
+export const PluginModule = $.type("kd.bos.extplugin.PluginModule");
+export const PluginProvider = $.type("kd.bos.extplugin.PluginProvider");
+export const PluginProxy = $.type("kd.bos.extplugin.PluginProxy");
+export const ScriptExtensionManager = $.type("kd.bos.extplugin.ScriptExtensionManager");
+export const StdExtPlugin = $.type("kd.bos.extplugin.StdExtPlugin");
+export const StdExtPluginProxy = $.type("kd.bos.extplugin.StdExtPluginProxy");

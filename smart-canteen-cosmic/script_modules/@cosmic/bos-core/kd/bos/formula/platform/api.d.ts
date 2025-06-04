@@ -1,0 +1,16 @@
+export declare type FuncInfo = $.kd.bos.formula.platform.api.FuncInfo;
+export declare const FuncInfo: $.kd.bos.formula.platform.api.FuncInfo_C;
+export declare type IFormulaFunctions = $.kd.bos.formula.platform.api.IFormulaFunctions;
+export declare const IFormulaFunctions: $.kd.bos.formula.platform.api.IFormulaFunctions;
+export declare type IFormulaGrammarVerifier = $.kd.bos.formula.platform.api.IFormulaGrammarVerifier;
+export declare const IFormulaGrammarVerifier: $.kd.bos.formula.platform.api.IFormulaGrammarVerifier;
+export declare type IFormulaVarInfos = $.kd.bos.formula.platform.api.IFormulaVarInfos;
+export declare const IFormulaVarInfos: $.kd.bos.formula.platform.api.IFormulaVarInfos;
+export declare type IFuncInfo = $.kd.bos.formula.platform.api.IFuncInfo;
+export declare const IFuncInfo: $.kd.bos.formula.platform.api.IFuncInfo;
+export declare type IVarInfo = $.kd.bos.formula.platform.api.IVarInfo;
+export declare const IVarInfo: $.kd.bos.formula.platform.api.IVarInfo;
+export declare type InvokeFunctionException = $.kd.bos.formula.platform.api.InvokeFunctionException;
+export declare const InvokeFunctionException: $.kd.bos.formula.platform.api.InvokeFunctionException_C;
+export declare type VarInfo = $.kd.bos.formula.platform.api.VarInfo;
+export declare const VarInfo: $.kd.bos.formula.platform.api.VarInfo_C;

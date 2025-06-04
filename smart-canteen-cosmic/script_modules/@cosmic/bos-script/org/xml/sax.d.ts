@@ -1,0 +1,21 @@
+/// <reference types="../../index" />
+export declare type Attributes = $.org.xml.sax.Attributes;
+export declare const Attributes: $.org.xml.sax.Attributes;
+export declare type ContentHandler = $.org.xml.sax.ContentHandler;
+export declare const ContentHandler: $.org.xml.sax.ContentHandler;
+export declare type DTDHandler = $.org.xml.sax.DTDHandler;
+export declare const DTDHandler: $.org.xml.sax.DTDHandler;
+export declare type EntityResolver = $.org.xml.sax.EntityResolver;
+export declare const EntityResolver: $.org.xml.sax.EntityResolver;
+export declare type ErrorHandler = $.org.xml.sax.ErrorHandler;
+export declare const ErrorHandler: $.org.xml.sax.ErrorHandler;
+export declare type InputSource = $.org.xml.sax.InputSource;
+export declare const InputSource: $.org.xml.sax.InputSource_C;
+export declare type Locator = $.org.xml.sax.Locator;
+export declare const Locator: $.org.xml.sax.Locator;
+export declare type SAXException = $.org.xml.sax.SAXException;
+export declare const SAXException: $.org.xml.sax.SAXException_C;
+export declare type SAXParseException = $.org.xml.sax.SAXParseException;
+export declare const SAXParseException: $.org.xml.sax.SAXParseException_C;
+export declare type XMLReader = $.org.xml.sax.XMLReader;
+export declare const XMLReader: $.org.xml.sax.XMLReader;

@@ -1,0 +1,12 @@
+export declare type ApControlService = $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.ApControlService;
+export declare const ApControlService: $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.ApControlService_C;
+export declare type ApCreateUtils = $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.ApCreateUtils;
+export declare const ApCreateUtils: $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.ApCreateUtils_C;
+export declare type CustomDrawUtils = $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.CustomDrawUtils;
+export declare const CustomDrawUtils: $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.CustomDrawUtils_C;
+export declare type DynamicPanelUtils = $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.DynamicPanelUtils;
+export declare const DynamicPanelUtils: $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.DynamicPanelUtils_C;
+export declare type FieldContainerViewService = $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.FieldContainerViewService;
+export declare const FieldContainerViewService: $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.FieldContainerViewService_C;
+export declare type TemplateEditUtils = $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.TemplateEditUtils;
+export declare const TemplateEditUtils: $.kd.sdk.hr.hspm.formplugin.web.file.ermanfile.drawutil.TemplateEditUtils_C;

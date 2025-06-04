@@ -1,0 +1,12 @@
+export const ApprovalConstants = $.type("kd.sdk.hr.hspm.common.constants.ApprovalConstants");
+export const AttachConstants = $.type("kd.sdk.hr.hspm.common.constants.AttachConstants");
+export const DynConfigConstants = $.type("kd.sdk.hr.hspm.common.constants.DynConfigConstants");
+export const HSPMFieldConstants = $.type("kd.sdk.hr.hspm.common.constants.HSPMFieldConstants");
+export const HspmCommonConstants = $.type("kd.sdk.hr.hspm.common.constants.HspmCommonConstants");
+export const ImportTypeConstant = $.type("kd.sdk.hr.hspm.common.constants.ImportTypeConstant");
+export const InfoClassifyCommonConstant = $.type("kd.sdk.hr.hspm.common.constants.InfoClassifyCommonConstant");
+export const MobileDrawConstants = $.type("kd.sdk.hr.hspm.common.constants.MobileDrawConstants");
+export const MultiViewConfigConstants = $.type("kd.sdk.hr.hspm.common.constants.MultiViewConfigConstants");
+export const MyErManFileConstants = $.type("kd.sdk.hr.hspm.common.constants.MyErManFileConstants");
+export const ReportDisplayPageConstants = $.type("kd.sdk.hr.hspm.common.constants.ReportDisplayPageConstants");
+export const ScheduleDrawConstants = $.type("kd.sdk.hr.hspm.common.constants.ScheduleDrawConstants");

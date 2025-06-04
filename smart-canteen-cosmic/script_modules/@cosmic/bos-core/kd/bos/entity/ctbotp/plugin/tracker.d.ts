@@ -1,0 +1,10 @@
+export declare type AbstractCtWriteBackPlugIn = $.kd.bos.entity.ctbotp.plugin.tracker.AbstractCtWriteBackPlugIn;
+export declare const AbstractCtWriteBackPlugIn: $.kd.bos.entity.ctbotp.plugin.tracker.AbstractCtWriteBackPlugIn_C;
+export declare type CtBillCloseType = $.kd.bos.entity.ctbotp.plugin.tracker.CtBillCloseType;
+export declare const CtBillCloseType: typeof $.kd.bos.entity.ctbotp.plugin.tracker.CtBillCloseType;
+export declare type CtDistributeType = $.kd.bos.entity.ctbotp.plugin.tracker.CtDistributeType;
+export declare const CtDistributeType: typeof $.kd.bos.entity.ctbotp.plugin.tracker.CtDistributeType;
+export declare type CtExcessCheckType = $.kd.bos.entity.ctbotp.plugin.tracker.CtExcessCheckType;
+export declare const CtExcessCheckType: typeof $.kd.bos.entity.ctbotp.plugin.tracker.CtExcessCheckType;
+export declare type ICtWriteBackPlugIn = $.kd.bos.entity.ctbotp.plugin.tracker.ICtWriteBackPlugIn;
+export declare const ICtWriteBackPlugIn: $.kd.bos.entity.ctbotp.plugin.tracker.ICtWriteBackPlugIn;

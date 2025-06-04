@@ -1,0 +1,10 @@
+export declare type ORM = $.kd.bos.orm.ORM;
+export declare const ORM: $.kd.bos.orm.ORM;
+export declare type ORMHint = $.kd.bos.orm.ORMHint;
+export declare const ORMHint: $.kd.bos.orm.ORMHint_C;
+export declare type ORMHint$JoinHint = $.kd.bos.orm.ORMHint$JoinHint;
+export declare const ORMHint$JoinHint: typeof $.kd.bos.orm.ORMHint$JoinHint;
+export declare type ORMHint$JoinHinter = $.kd.bos.orm.ORMHint$JoinHinter;
+export declare const ORMHint$JoinHinter: $.kd.bos.orm.ORMHint$JoinHinter;
+export declare type ORMModule = $.kd.bos.orm.ORMModule;
+export declare const ORMModule: $.kd.bos.orm.ORMModule_C;

@@ -1,0 +1,10 @@
+export const MacroItem = $.type("kd.bos.workflow.api.model.MacroItem");
+export const NodeMacro = $.type("kd.bos.workflow.api.model.NodeMacro");
+export const NodeProperty = $.type("kd.bos.workflow.api.model.NodeProperty");
+export const ProcPublishResult = $.type("kd.bos.workflow.api.model.ProcPublishResult");
+export const ProcessDefinitionInfo = $.type("kd.bos.workflow.api.model.ProcessDefinitionInfo");
+export const ProcessInitiator = $.type("kd.bos.workflow.api.model.ProcessInitiator");
+export const ProcessModel = $.type("kd.bos.workflow.api.model.ProcessModel");
+export const ProcessNode = $.type("kd.bos.workflow.api.model.ProcessNode");
+export const ProcessTemplate = $.type("kd.bos.workflow.api.model.ProcessTemplate");
+export const ValidateResultItem = $.type("kd.bos.workflow.api.model.ValidateResultItem");

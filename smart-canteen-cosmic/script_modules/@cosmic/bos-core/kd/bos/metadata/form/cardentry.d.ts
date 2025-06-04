@@ -1,0 +1,18 @@
+export declare type CardEntryAp = $.kd.bos.metadata.form.cardentry.CardEntryAp;
+export declare const CardEntryAp: $.kd.bos.metadata.form.cardentry.CardEntryAp_C;
+export declare type CardEntryFieldAp = $.kd.bos.metadata.form.cardentry.CardEntryFieldAp;
+export declare const CardEntryFieldAp: $.kd.bos.metadata.form.cardentry.CardEntryFieldAp_C;
+export declare type CardEntryFixRowAp = $.kd.bos.metadata.form.cardentry.CardEntryFixRowAp;
+export declare const CardEntryFixRowAp: $.kd.bos.metadata.form.cardentry.CardEntryFixRowAp_C;
+export declare type CardEntryFixRowPanelAp = $.kd.bos.metadata.form.cardentry.CardEntryFixRowPanelAp;
+export declare const CardEntryFixRowPanelAp: $.kd.bos.metadata.form.cardentry.CardEntryFixRowPanelAp_C;
+export declare type CardEntryFlexPanelAp = $.kd.bos.metadata.form.cardentry.CardEntryFlexPanelAp;
+export declare const CardEntryFlexPanelAp: $.kd.bos.metadata.form.cardentry.CardEntryFlexPanelAp_C;
+export declare type CardEntryRowAp = $.kd.bos.metadata.form.cardentry.CardEntryRowAp;
+export declare const CardEntryRowAp: $.kd.bos.metadata.form.cardentry.CardEntryRowAp_C;
+export declare type CardEntryViewAp = $.kd.bos.metadata.form.cardentry.CardEntryViewAp;
+export declare const CardEntryViewAp: $.kd.bos.metadata.form.cardentry.CardEntryViewAp_C;
+export declare type CardSelectorAp = $.kd.bos.metadata.form.cardentry.CardSelectorAp;
+export declare const CardSelectorAp: $.kd.bos.metadata.form.cardentry.CardSelectorAp_C;
+export declare type SubCardEntryAp = $.kd.bos.metadata.form.cardentry.SubCardEntryAp;
+export declare const SubCardEntryAp: $.kd.bos.metadata.form.cardentry.SubCardEntryAp_C;

@@ -1,0 +1,10 @@
+export declare type ORMArgInvalidException = $.kd.bos.dataentity.exception.ORMArgInvalidException;
+export declare const ORMArgInvalidException: $.kd.bos.dataentity.exception.ORMArgInvalidException_C;
+export declare type ORMBusinessException = $.kd.bos.dataentity.exception.ORMBusinessException;
+export declare const ORMBusinessException: $.kd.bos.dataentity.exception.ORMBusinessException_C;
+export declare type ORMDesignException = $.kd.bos.dataentity.exception.ORMDesignException;
+export declare const ORMDesignException: $.kd.bos.dataentity.exception.ORMDesignException_C;
+export declare type OrmException = $.kd.bos.dataentity.exception.OrmException;
+export declare const OrmException: $.kd.bos.dataentity.exception.OrmException_C;
+export declare type SerializationException = $.kd.bos.dataentity.exception.SerializationException;
+export declare const SerializationException: $.kd.bos.dataentity.exception.SerializationException_C;

@@ -1,0 +1,16 @@
+export declare type BatchOperateResult = $.kd.bos.workflow.engine.task.BatchOperateResult;
+export declare const BatchOperateResult: $.kd.bos.workflow.engine.task.BatchOperateResult_C;
+export declare type BizType = $.kd.bos.workflow.engine.task.BizType;
+export declare const BizType: $.kd.bos.workflow.engine.task.BizType_C;
+export declare type Comment = $.kd.bos.workflow.engine.task.Comment;
+export declare const Comment: $.kd.bos.workflow.engine.task.Comment;
+export declare type MessageCenterParams = $.kd.bos.workflow.engine.task.MessageCenterParams;
+export declare const MessageCenterParams: $.kd.bos.workflow.engine.task.MessageCenterParams_C;
+export declare type OperateResult = $.kd.bos.workflow.engine.task.OperateResult;
+export declare const OperateResult: $.kd.bos.workflow.engine.task.OperateResult_C;
+export declare type TaskInfo = $.kd.bos.workflow.engine.task.TaskInfo;
+export declare const TaskInfo: $.kd.bos.workflow.engine.task.TaskInfo;
+export declare type TaskOperateResult = $.kd.bos.workflow.engine.task.TaskOperateResult;
+export declare const TaskOperateResult: $.kd.bos.workflow.engine.task.TaskOperateResult;
+export declare type ThirdCommentInfo = $.kd.bos.workflow.engine.task.ThirdCommentInfo;
+export declare const ThirdCommentInfo: $.kd.bos.workflow.engine.task.ThirdCommentInfo_C;

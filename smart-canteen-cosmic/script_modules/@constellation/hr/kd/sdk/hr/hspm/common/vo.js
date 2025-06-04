@@ -1,0 +1,11 @@
+export const AfterCreatVo = $.type("kd.sdk.hr.hspm.common.vo.AfterCreatVo");
+export const BeforeCreatVo = $.type("kd.sdk.hr.hspm.common.vo.BeforeCreatVo");
+export const CardViewCompareVo = $.type("kd.sdk.hr.hspm.common.vo.CardViewCompareVo");
+export const CardViewVo = $.type("kd.sdk.hr.hspm.common.vo.CardViewVo");
+export const ContentApVo = $.type("kd.sdk.hr.hspm.common.vo.ContentApVo");
+export const DefineSpecialVo = $.type("kd.sdk.hr.hspm.common.vo.DefineSpecialVo");
+export const FieldTransVo = $.type("kd.sdk.hr.hspm.common.vo.FieldTransVo");
+export const PreBindDataVo = $.type("kd.sdk.hr.hspm.common.vo.PreBindDataVo");
+export const QueryDbVo = $.type("kd.sdk.hr.hspm.common.vo.QueryDbVo");
+export const TextColorVo = $.type("kd.sdk.hr.hspm.common.vo.TextColorVo");
+export const TimeApVo = $.type("kd.sdk.hr.hspm.common.vo.TimeApVo");

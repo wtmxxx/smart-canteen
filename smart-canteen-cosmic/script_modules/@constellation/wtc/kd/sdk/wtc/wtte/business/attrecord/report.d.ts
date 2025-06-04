@@ -1,0 +1,16 @@
+export declare type AttRecordDailyItemRptExtPlugin = $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordDailyItemRptExtPlugin;
+export declare const AttRecordDailyItemRptExtPlugin: $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordDailyItemRptExtPlugin;
+export declare type AttRecordDailyRptExtPlugin = $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordDailyRptExtPlugin;
+export declare const AttRecordDailyRptExtPlugin: $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordDailyRptExtPlugin;
+export declare type AttRecordPeriodItemRptExtPlugin = $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordPeriodItemRptExtPlugin;
+export declare const AttRecordPeriodItemRptExtPlugin: $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordPeriodItemRptExtPlugin;
+export declare type AttRecordPeriodRptExtPlugin = $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordPeriodRptExtPlugin;
+export declare const AttRecordPeriodRptExtPlugin: $.kd.sdk.wtc.wtte.business.attrecord.report.AttRecordPeriodRptExtPlugin;
+export declare type OnGetBaseQFiltersEvent = $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetBaseQFiltersEvent;
+export declare const OnGetBaseQFiltersEvent: $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetBaseQFiltersEvent_C;
+export declare type OnGetBaseSortEvent = $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetBaseSortEvent;
+export declare const OnGetBaseSortEvent: $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetBaseSortEvent_C;
+export declare type OnGetDetailQFiltersEvent = $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetDetailQFiltersEvent;
+export declare const OnGetDetailQFiltersEvent: $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetDetailQFiltersEvent_C;
+export declare type OnGetDetailSortEvent = $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetDetailSortEvent;
+export declare const OnGetDetailSortEvent: $.kd.sdk.wtc.wtte.business.attrecord.report.OnGetDetailSortEvent_C;

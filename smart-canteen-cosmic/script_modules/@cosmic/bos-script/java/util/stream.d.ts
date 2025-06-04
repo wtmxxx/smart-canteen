@@ -1,0 +1,23 @@
+/// <reference types="../../index" />
+export declare type BaseStream = $.java.util.stream.BaseStream;
+export declare const BaseStream: $.java.util.stream.BaseStream;
+export declare type Collector = $.java.util.stream.Collector;
+export declare const Collector: $.java.util.stream.Collector;
+export declare type Collector$Characteristics = $.java.util.stream.Collector$Characteristics;
+export declare const Collector$Characteristics: typeof $.java.util.stream.Collector$Characteristics;
+export declare type DoubleStream = $.java.util.stream.DoubleStream;
+export declare const DoubleStream: $.java.util.stream.DoubleStream;
+export declare type DoubleStream$Builder = $.java.util.stream.DoubleStream$Builder;
+export declare const DoubleStream$Builder: $.java.util.stream.DoubleStream$Builder;
+export declare type IntStream = $.java.util.stream.IntStream;
+export declare const IntStream: $.java.util.stream.IntStream;
+export declare type IntStream$Builder = $.java.util.stream.IntStream$Builder;
+export declare const IntStream$Builder: $.java.util.stream.IntStream$Builder;
+export declare type LongStream = $.java.util.stream.LongStream;
+export declare const LongStream: $.java.util.stream.LongStream;
+export declare type LongStream$Builder = $.java.util.stream.LongStream$Builder;
+export declare const LongStream$Builder: $.java.util.stream.LongStream$Builder;
+export declare type Stream = $.java.util.stream.Stream;
+export declare const Stream: $.java.util.stream.Stream;
+export declare type Stream$Builder = $.java.util.stream.Stream$Builder;
+export declare const Stream$Builder: $.java.util.stream.Stream$Builder;

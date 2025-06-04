@@ -1,0 +1,14 @@
+export declare type CustomDataSource = $.kd.bos.print.core.data.datasource.CustomDataSource;
+export declare const CustomDataSource: $.kd.bos.print.core.data.datasource.CustomDataSource_C;
+export declare type DsType = $.kd.bos.print.core.data.datasource.DsType;
+export declare const DsType: typeof $.kd.bos.print.core.data.datasource.DsType;
+export declare type FormDataSource = $.kd.bos.print.core.data.datasource.FormDataSource;
+export declare const FormDataSource: $.kd.bos.print.core.data.datasource.FormDataSource_C;
+export declare type MainDataSource = $.kd.bos.print.core.data.datasource.MainDataSource;
+export declare const MainDataSource: $.kd.bos.print.core.data.datasource.MainDataSource_C;
+export declare type PrtDataSource = $.kd.bos.print.core.data.datasource.PrtDataSource;
+export declare const PrtDataSource: $.kd.bos.print.core.data.datasource.PrtDataSource_C;
+export declare type RefDataSource = $.kd.bos.print.core.data.datasource.RefDataSource;
+export declare const RefDataSource: $.kd.bos.print.core.data.datasource.RefDataSource_C;
+export declare type WorkflowDataSource = $.kd.bos.print.core.data.datasource.WorkflowDataSource;
+export declare const WorkflowDataSource: $.kd.bos.print.core.data.datasource.WorkflowDataSource_C;

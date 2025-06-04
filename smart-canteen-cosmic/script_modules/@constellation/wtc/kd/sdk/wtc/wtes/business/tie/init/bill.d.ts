@@ -1,0 +1,12 @@
+export declare type OnBuildOTQFilterEvent = $.kd.sdk.wtc.wtes.business.tie.init.bill.OnBuildOTQFilterEvent;
+export declare const OnBuildOTQFilterEvent: $.kd.sdk.wtc.wtes.business.tie.init.bill.OnBuildOTQFilterEvent_C;
+export declare type OnBuildTPQFilterEvent = $.kd.sdk.wtc.wtes.business.tie.init.bill.OnBuildTPQFilterEvent;
+export declare const OnBuildTPQFilterEvent: $.kd.sdk.wtc.wtes.business.tie.init.bill.OnBuildTPQFilterEvent_C;
+export declare type TieInitOTBillExtPlugin = $.kd.sdk.wtc.wtes.business.tie.init.bill.TieInitOTBillExtPlugin;
+export declare const TieInitOTBillExtPlugin: $.kd.sdk.wtc.wtes.business.tie.init.bill.TieInitOTBillExtPlugin;
+export declare type TieInitTPBillExtPlugin = $.kd.sdk.wtc.wtes.business.tie.init.bill.TieInitTPBillExtPlugin;
+export declare const TieInitTPBillExtPlugin: $.kd.sdk.wtc.wtes.business.tie.init.bill.TieInitTPBillExtPlugin;
+export declare type VaBillInitExpService = $.kd.sdk.wtc.wtes.business.tie.init.bill.VaBillInitExpService;
+export declare const VaBillInitExpService: $.kd.sdk.wtc.wtes.business.tie.init.bill.VaBillInitExpService;
+export declare type VaTimeBucketSplitExtPlugin = $.kd.sdk.wtc.wtes.business.tie.init.bill.VaTimeBucketSplitExtPlugin;
+export declare const VaTimeBucketSplitExtPlugin: $.kd.sdk.wtc.wtes.business.tie.init.bill.VaTimeBucketSplitExtPlugin;

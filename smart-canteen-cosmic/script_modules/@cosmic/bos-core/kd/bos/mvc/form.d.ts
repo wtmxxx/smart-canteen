@@ -1,0 +1,14 @@
+export declare type ClientViewProxy = $.kd.bos.mvc.form.ClientViewProxy;
+export declare const ClientViewProxy: $.kd.bos.mvc.form.ClientViewProxy_C;
+export declare type FormController = $.kd.bos.mvc.form.FormController;
+export declare const FormController: $.kd.bos.mvc.form.FormController_C;
+export declare type FormDataModel = $.kd.bos.mvc.form.FormDataModel;
+export declare const FormDataModel: $.kd.bos.mvc.form.FormDataModel_C;
+export declare type FormRuleContainer = $.kd.bos.mvc.form.FormRuleContainer;
+export declare const FormRuleContainer: $.kd.bos.mvc.form.FormRuleContainer_C;
+export declare type FormView = $.kd.bos.mvc.form.FormView;
+export declare const FormView: $.kd.bos.mvc.form.FormView_C;
+export declare type IFormController = $.kd.bos.mvc.form.IFormController;
+export declare const IFormController: $.kd.bos.mvc.form.IFormController;
+export declare type MobileFormView = $.kd.bos.mvc.form.MobileFormView;
+export declare const MobileFormView: $.kd.bos.mvc.form.MobileFormView_C;

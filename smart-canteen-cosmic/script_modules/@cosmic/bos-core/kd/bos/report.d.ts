@@ -1,0 +1,18 @@
+export declare type AbstractReportListModel = $.kd.bos.report.AbstractReportListModel;
+export declare const AbstractReportListModel: $.kd.bos.report.AbstractReportListModel_C;
+export declare type AbstractReportModel = $.kd.bos.report.AbstractReportModel;
+export declare const AbstractReportModel: $.kd.bos.report.AbstractReportModel_C;
+export declare type IReportView = $.kd.bos.report.IReportView;
+export declare const IReportView: $.kd.bos.report.IReportView;
+export declare type ReportForm = $.kd.bos.report.ReportForm;
+export declare const ReportForm: $.kd.bos.report.ReportForm_C;
+export declare type ReportList = $.kd.bos.report.ReportList;
+export declare const ReportList: $.kd.bos.report.ReportList_C;
+export declare type ReportOperationColumn = $.kd.bos.report.ReportOperationColumn;
+export declare const ReportOperationColumn: $.kd.bos.report.ReportOperationColumn_C;
+export declare type ReportSelectedRow = $.kd.bos.report.ReportSelectedRow;
+export declare const ReportSelectedRow: $.kd.bos.report.ReportSelectedRow_C;
+export declare type ReportShowParameter = $.kd.bos.report.ReportShowParameter;
+export declare const ReportShowParameter: $.kd.bos.report.ReportShowParameter_C;
+export declare type ReportTree = $.kd.bos.report.ReportTree;
+export declare const ReportTree: $.kd.bos.report.ReportTree_C;

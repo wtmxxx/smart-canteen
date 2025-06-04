@@ -1,0 +1,12 @@
+export declare type ApprovalHelper = $.kd.sdk.hr.hspm.business.helper.ApprovalHelper;
+export declare const ApprovalHelper: $.kd.sdk.hr.hspm.business.helper.ApprovalHelper_C;
+export declare type BasedataHelper = $.kd.sdk.hr.hspm.business.helper.BasedataHelper;
+export declare const BasedataHelper: $.kd.sdk.hr.hspm.business.helper.BasedataHelper_C;
+export declare type CommonQFilterHelper = $.kd.sdk.hr.hspm.business.helper.CommonQFilterHelper;
+export declare const CommonQFilterHelper: $.kd.sdk.hr.hspm.business.helper.CommonQFilterHelper_C;
+export declare type HSPMBusinessDataServiceHelper = $.kd.sdk.hr.hspm.business.helper.HSPMBusinessDataServiceHelper;
+export declare const HSPMBusinessDataServiceHelper: $.kd.sdk.hr.hspm.business.helper.HSPMBusinessDataServiceHelper_C;
+export declare type HpfsChgexternalrecordQueueHelper = $.kd.sdk.hr.hspm.business.helper.HpfsChgexternalrecordQueueHelper;
+export declare const HpfsChgexternalrecordQueueHelper: $.kd.sdk.hr.hspm.business.helper.HpfsChgexternalrecordQueueHelper_C;
+export declare type InfoGroupHelper = $.kd.sdk.hr.hspm.business.helper.InfoGroupHelper;
+export declare const InfoGroupHelper: $.kd.sdk.hr.hspm.business.helper.InfoGroupHelper_C;

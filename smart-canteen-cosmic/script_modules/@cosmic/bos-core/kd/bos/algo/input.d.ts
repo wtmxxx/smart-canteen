@@ -1,0 +1,16 @@
+export declare type CollectionInput = $.kd.bos.algo.input.CollectionInput;
+export declare const CollectionInput: $.kd.bos.algo.input.CollectionInput_C;
+export declare type DataSetInput = $.kd.bos.algo.input.DataSetInput;
+export declare const DataSetInput: $.kd.bos.algo.input.DataSetInput_C;
+export declare type DbInput = $.kd.bos.algo.input.DbInput;
+export declare const DbInput: $.kd.bos.algo.input.DbInput_C;
+export declare type EmptyInput = $.kd.bos.algo.input.EmptyInput;
+export declare const EmptyInput: $.kd.bos.algo.input.EmptyInput_C;
+export declare type IterableInput = $.kd.bos.algo.input.IterableInput;
+export declare const IterableInput: $.kd.bos.algo.input.IterableInput_C;
+export declare type IteratorInput = $.kd.bos.algo.input.IteratorInput;
+export declare const IteratorInput: $.kd.bos.algo.input.IteratorInput_C;
+export declare type OqlInput = $.kd.bos.algo.input.OqlInput;
+export declare const OqlInput: $.kd.bos.algo.input.OqlInput_C;
+export declare type OrmInput = $.kd.bos.algo.input.OrmInput;
+export declare const OrmInput: $.kd.bos.algo.input.OrmInput_C;

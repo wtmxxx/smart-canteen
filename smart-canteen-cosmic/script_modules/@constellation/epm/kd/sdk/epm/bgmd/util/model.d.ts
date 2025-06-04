@@ -1,0 +1,10 @@
+export declare type BusinessModelUtils = $.kd.sdk.epm.bgmd.util.model.BusinessModelUtils;
+export declare const BusinessModelUtils: $.kd.sdk.epm.bgmd.util.model.BusinessModelUtils_C;
+export declare type CubeUtils = $.kd.sdk.epm.bgmd.util.model.CubeUtils;
+export declare const CubeUtils: $.kd.sdk.epm.bgmd.util.model.CubeUtils_C;
+export declare type DatasetUtils = $.kd.sdk.epm.bgmd.util.model.DatasetUtils;
+export declare const DatasetUtils: $.kd.sdk.epm.bgmd.util.model.DatasetUtils_C;
+export declare type DimensionUtils = $.kd.sdk.epm.bgmd.util.model.DimensionUtils;
+export declare const DimensionUtils: $.kd.sdk.epm.bgmd.util.model.DimensionUtils_C;
+export declare type MemberUtils = $.kd.sdk.epm.bgmd.util.model.MemberUtils;
+export declare const MemberUtils: $.kd.sdk.epm.bgmd.util.model.MemberUtils_C;

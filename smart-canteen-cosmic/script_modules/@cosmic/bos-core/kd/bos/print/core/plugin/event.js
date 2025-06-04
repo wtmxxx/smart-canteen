@@ -1,0 +1,16 @@
+export const AfterLoadDataEvent = $.type("kd.bos.print.core.plugin.event.AfterLoadDataEvent");
+export const AfterOutputGridEvent = $.type("kd.bos.print.core.plugin.event.AfterOutputGridEvent");
+export const AfterOutputRowEvent = $.type("kd.bos.print.core.plugin.event.AfterOutputRowEvent");
+export const AfterOutputWidgetEvent = $.type("kd.bos.print.core.plugin.event.AfterOutputWidgetEvent");
+export const BeforeExportEvent = $.type("kd.bos.print.core.plugin.event.BeforeExportEvent");
+export const BeforeInitWidgetEvent = $.type("kd.bos.print.core.plugin.event.BeforeInitWidgetEvent");
+export const BeforeLoadDataEvent = $.type("kd.bos.print.core.plugin.event.BeforeLoadDataEvent");
+export const BeforeOutputGridEvent = $.type("kd.bos.print.core.plugin.event.BeforeOutputGridEvent");
+export const BeforeOutputRowEvent = $.type("kd.bos.print.core.plugin.event.BeforeOutputRowEvent");
+export const BeforeOutputTextEvent = $.type("kd.bos.print.core.plugin.event.BeforeOutputTextEvent");
+export const BeforeOutputWidgetEvent = $.type("kd.bos.print.core.plugin.event.BeforeOutputWidgetEvent");
+export const CustomDataLoadEvent = $.type("kd.bos.print.core.plugin.event.CustomDataLoadEvent");
+export const EndExportEvent = $.type("kd.bos.print.core.plugin.event.EndExportEvent");
+export const ExpFileEvent = $.type("kd.bos.print.core.plugin.event.ExpFileEvent");
+export const LineWrapEvent = $.type("kd.bos.print.core.plugin.event.LineWrapEvent");
+export const ParseRichImgEvent = $.type("kd.bos.print.core.plugin.event.ParseRichImgEvent");

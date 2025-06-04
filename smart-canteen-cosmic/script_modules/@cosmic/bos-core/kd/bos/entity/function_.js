@@ -1,0 +1,12 @@
+export const BOSBatchFunction = $.type("kd.bos.entity.function.BOSBatchFunction");
+export const BOSUDFunction = $.type("kd.bos.entity.function.BOSUDFunction");
+export const BatchFuncParser = $.type("kd.bos.entity.function.BatchFuncParser");
+export const BatchFuncRunParam = $.type("kd.bos.entity.function.BatchFuncRunParam");
+export const BillFuncTypesLoader = $.type("kd.bos.entity.function.BillFuncTypesLoader");
+export const ExprFuncCreator = $.type("kd.bos.entity.function.ExprFuncCreator");
+export const FunctionFeatures = $.type("kd.bos.entity.function.FunctionFeatures");
+export const FunctionGroup = $.type("kd.bos.entity.function.FunctionGroup");
+export const FunctionManage = $.type("kd.bos.entity.function.FunctionManage");
+export const FunctionType = $.type("kd.bos.entity.function.FunctionType");
+export const FunctionTypes = $.type("kd.bos.entity.function.FunctionTypes");
+export const UDFunctionVisitor = $.type("kd.bos.entity.function.UDFunctionVisitor");

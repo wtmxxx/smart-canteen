@@ -1,0 +1,9 @@
+export const AbstractMessageInfo = $.type("kd.bos.message.api.AbstractMessageInfo");
+export const DingdingMessageInfo = $.type("kd.bos.message.api.DingdingMessageInfo");
+export const DingdingTodoInfo = $.type("kd.bos.message.api.DingdingTodoInfo");
+export const EmailInfo = $.type("kd.bos.message.api.EmailInfo");
+export const IMessageService = $.type("kd.bos.message.api.IMessageService");
+export const IMsgEventListener = $.type("kd.bos.message.api.IMsgEventListener");
+export const ShortMessageInfo = $.type("kd.bos.message.api.ShortMessageInfo");
+export const WeixinqyMessageInfo = $.type("kd.bos.message.api.WeixinqyMessageInfo");
+export const YzjMessageInfo = $.type("kd.bos.message.api.YzjMessageInfo");

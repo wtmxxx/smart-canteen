@@ -1,0 +1,14 @@
+export declare type Assert = $.kd.bos.entity.plugin.support.util.Assert;
+export declare const Assert: $.kd.bos.entity.plugin.support.util.Assert_C;
+export declare type ClassUtils = $.kd.bos.entity.plugin.support.util.ClassUtils;
+export declare const ClassUtils: $.kd.bos.entity.plugin.support.util.ClassUtils_C;
+export declare type CollectionUtils = $.kd.bos.entity.plugin.support.util.CollectionUtils;
+export declare const CollectionUtils: $.kd.bos.entity.plugin.support.util.CollectionUtils_C;
+export declare type ObjectUtils = $.kd.bos.entity.plugin.support.util.ObjectUtils;
+export declare const ObjectUtils: $.kd.bos.entity.plugin.support.util.ObjectUtils_C;
+export declare type ReflectionUtils = $.kd.bos.entity.plugin.support.util.ReflectionUtils;
+export declare const ReflectionUtils: $.kd.bos.entity.plugin.support.util.ReflectionUtils_C;
+export declare type StringUtils = $.kd.bos.entity.plugin.support.util.StringUtils;
+export declare const StringUtils: $.kd.bos.entity.plugin.support.util.StringUtils_C;
+export declare type TypeUtils = $.kd.bos.entity.plugin.support.util.TypeUtils;
+export declare const TypeUtils: $.kd.bos.entity.plugin.support.util.TypeUtils_C;

@@ -1,0 +1,12 @@
+export declare type AppMetadata = $.kd.bos.metadata.devportal.AppMetadata;
+export declare const AppMetadata: $.kd.bos.metadata.devportal.AppMetadata_C;
+export declare type AppReader = $.kd.bos.metadata.devportal.AppReader;
+export declare const AppReader: $.kd.bos.metadata.devportal.AppReader_C;
+export declare type AppTemplate = $.kd.bos.metadata.devportal.AppTemplate;
+export declare const AppTemplate: $.kd.bos.metadata.devportal.AppTemplate_C;
+export declare type AppWriter = $.kd.bos.metadata.devportal.AppWriter;
+export declare const AppWriter: $.kd.bos.metadata.devportal.AppWriter_C;
+export declare type DifferenceOperationParseUtil = $.kd.bos.metadata.devportal.DifferenceOperationParseUtil;
+export declare const DifferenceOperationParseUtil: $.kd.bos.metadata.devportal.DifferenceOperationParseUtil_C;
+export declare type EnvTypeHelper = $.kd.bos.metadata.devportal.EnvTypeHelper;
+export declare const EnvTypeHelper: $.kd.bos.metadata.devportal.EnvTypeHelper_C;

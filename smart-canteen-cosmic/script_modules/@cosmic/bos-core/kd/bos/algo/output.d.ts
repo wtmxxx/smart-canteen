@@ -1,0 +1,10 @@
+export declare type DataSetCacheOutput = $.kd.bos.algo.output.DataSetCacheOutput;
+export declare const DataSetCacheOutput: $.kd.bos.algo.output.DataSetCacheOutput_C;
+export declare type DataSetOutput = $.kd.bos.algo.output.DataSetOutput;
+export declare const DataSetOutput: $.kd.bos.algo.output.DataSetOutput_C;
+export declare type DbOutput = $.kd.bos.algo.output.DbOutput;
+export declare const DbOutput: $.kd.bos.algo.output.DbOutput_C;
+export declare type IgnoreOutput = $.kd.bos.algo.output.IgnoreOutput;
+export declare const IgnoreOutput: $.kd.bos.algo.output.IgnoreOutput_C;
+export declare type PrintOutput = $.kd.bos.algo.output.PrintOutput;
+export declare const PrintOutput: $.kd.bos.algo.output.PrintOutput_C;

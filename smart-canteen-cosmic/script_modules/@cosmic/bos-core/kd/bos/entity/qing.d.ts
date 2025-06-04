@@ -1,0 +1,16 @@
+export declare type EntryEntity = $.kd.bos.entity.qing.EntryEntity;
+export declare const EntryEntity: $.kd.bos.entity.qing.EntryEntity_C;
+export declare type Field = $.kd.bos.entity.qing.Field;
+export declare const Field: $.kd.bos.entity.qing.Field_C;
+export declare type IQingDataProvider = $.kd.bos.entity.qing.IQingDataProvider;
+export declare const IQingDataProvider: $.kd.bos.entity.qing.IQingDataProvider;
+export declare type ParentChildDimension = $.kd.bos.entity.qing.ParentChildDimension;
+export declare const ParentChildDimension: $.kd.bos.entity.qing.ParentChildDimension_C;
+export declare type QingData = $.kd.bos.entity.qing.QingData;
+export declare const QingData: $.kd.bos.entity.qing.QingData_C;
+export declare type QingFieldType = $.kd.bos.entity.qing.QingFieldType;
+export declare const QingFieldType: typeof $.kd.bos.entity.qing.QingFieldType;
+export declare type QingLinkageInfo = $.kd.bos.entity.qing.QingLinkageInfo;
+export declare const QingLinkageInfo: $.kd.bos.entity.qing.QingLinkageInfo_C;
+export declare type QingMeta = $.kd.bos.entity.qing.QingMeta;
+export declare const QingMeta: $.kd.bos.entity.qing.QingMeta_C;

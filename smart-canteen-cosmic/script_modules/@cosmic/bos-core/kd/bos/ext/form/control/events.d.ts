@@ -1,0 +1,12 @@
+export declare type AppStartedEvent = $.kd.bos.ext.form.control.events.AppStartedEvent;
+export declare const AppStartedEvent: $.kd.bos.ext.form.control.events.AppStartedEvent_C;
+export declare type AppStartedListener = $.kd.bos.ext.form.control.events.AppStartedListener;
+export declare const AppStartedListener: $.kd.bos.ext.form.control.events.AppStartedListener;
+export declare type CountDownEvent = $.kd.bos.ext.form.control.events.CountDownEvent;
+export declare const CountDownEvent: $.kd.bos.ext.form.control.events.CountDownEvent_C;
+export declare type CountDownListener = $.kd.bos.ext.form.control.events.CountDownListener;
+export declare const CountDownListener: $.kd.bos.ext.form.control.events.CountDownListener;
+export declare type MapSelectEvent = $.kd.bos.ext.form.control.events.MapSelectEvent;
+export declare const MapSelectEvent: $.kd.bos.ext.form.control.events.MapSelectEvent_C;
+export declare type MapSelectListener = $.kd.bos.ext.form.control.events.MapSelectListener;
+export declare const MapSelectListener: $.kd.bos.ext.form.control.events.MapSelectListener;

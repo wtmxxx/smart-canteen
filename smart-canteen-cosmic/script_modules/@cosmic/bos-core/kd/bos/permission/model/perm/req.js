@@ -1,0 +1,11 @@
+export const AdminGroupReq = $.type("kd.bos.permission.model.perm.req.AdminGroupReq");
+export const CheckPermissionReq = $.type("kd.bos.permission.model.perm.req.CheckPermissionReq");
+export const DimFuncPermReq = $.type("kd.bos.permission.model.perm.req.DimFuncPermReq");
+export const DimRoleReq = $.type("kd.bos.permission.model.perm.req.DimRoleReq");
+export const GetPermLevelHashReq = $.type("kd.bos.permission.model.perm.req.GetPermLevelHashReq");
+export const PermLogReq = $.type("kd.bos.permission.model.perm.req.PermLogReq");
+export const RoleAssignUserDimReq = $.type("kd.bos.permission.model.perm.req.RoleAssignUserDimReq");
+export const UserAssignDimRoleReq = $.type("kd.bos.permission.model.perm.req.UserAssignDimRoleReq");
+export const UserAssignUserGroupReq = $.type("kd.bos.permission.model.perm.req.UserAssignUserGroupReq");
+export const UserDimReq = $.type("kd.bos.permission.model.perm.req.UserDimReq");
+export const UserGroupAssignUserReq = $.type("kd.bos.permission.model.perm.req.UserGroupAssignUserReq");

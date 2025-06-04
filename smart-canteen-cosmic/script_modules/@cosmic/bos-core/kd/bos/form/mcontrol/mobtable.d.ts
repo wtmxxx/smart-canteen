@@ -1,0 +1,14 @@
+export declare type IMobTableModel = $.kd.bos.form.mcontrol.mobtable.IMobTableModel;
+export declare const IMobTableModel: $.kd.bos.form.mcontrol.mobtable.IMobTableModel;
+export declare type IMobTablePackageDataHandler = $.kd.bos.form.mcontrol.mobtable.IMobTablePackageDataHandler;
+export declare const IMobTablePackageDataHandler: $.kd.bos.form.mcontrol.mobtable.IMobTablePackageDataHandler;
+export declare type MobTable = $.kd.bos.form.mcontrol.mobtable.MobTable;
+export declare const MobTable: $.kd.bos.form.mcontrol.mobtable.MobTable_C;
+export declare type MobTableData = $.kd.bos.form.mcontrol.mobtable.MobTableData;
+export declare const MobTableData: $.kd.bos.form.mcontrol.mobtable.MobTableData_C;
+export declare type MobTablePackageDataHandler = $.kd.bos.form.mcontrol.mobtable.MobTablePackageDataHandler;
+export declare const MobTablePackageDataHandler: $.kd.bos.form.mcontrol.mobtable.MobTablePackageDataHandler_C;
+export declare type MobTableRowBuilder = $.kd.bos.form.mcontrol.mobtable.MobTableRowBuilder;
+export declare const MobTableRowBuilder: $.kd.bos.form.mcontrol.mobtable.MobTableRowBuilder_C;
+export declare type MobTableRowData = $.kd.bos.form.mcontrol.mobtable.MobTableRowData;
+export declare const MobTableRowData: $.kd.bos.form.mcontrol.mobtable.MobTableRowData_C;

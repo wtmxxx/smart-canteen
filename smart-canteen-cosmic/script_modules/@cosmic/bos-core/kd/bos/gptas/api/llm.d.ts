@@ -1,0 +1,10 @@
+export declare type MarkedMessageStream = $.kd.bos.gptas.api.llm.MarkedMessageStream;
+export declare const MarkedMessageStream: $.kd.bos.gptas.api.llm.MarkedMessageStream;
+export declare type Marker = $.kd.bos.gptas.api.llm.Marker;
+export declare const Marker: $.kd.bos.gptas.api.llm.Marker_C;
+export declare type MarkerContent = $.kd.bos.gptas.api.llm.MarkerContent;
+export declare const MarkerContent: $.kd.bos.gptas.api.llm.MarkerContent_C;
+export declare type MarkerPair = $.kd.bos.gptas.api.llm.MarkerPair;
+export declare const MarkerPair: $.kd.bos.gptas.api.llm.MarkerPair_C;
+export declare type MessageStream = $.kd.bos.gptas.api.llm.MessageStream;
+export declare const MessageStream: $.kd.bos.gptas.api.llm.MessageStream;

@@ -1,0 +1,12 @@
+export declare type DateTypeExt = $.kd.sdk.wtc.wtes.business.tie.model.roster.DateTypeExt;
+export declare const DateTypeExt: $.kd.sdk.wtc.wtes.business.tie.model.roster.DateTypeExt;
+export declare type RosterExt = $.kd.sdk.wtc.wtes.business.tie.model.roster.RosterExt;
+export declare const RosterExt: $.kd.sdk.wtc.wtes.business.tie.model.roster.RosterExt;
+export declare type RosterExtMap = $.kd.sdk.wtc.wtes.business.tie.model.roster.RosterExtMap;
+export declare const RosterExtMap: $.kd.sdk.wtc.wtes.business.tie.model.roster.RosterExtMap;
+export declare type ShiftMiddleRuleExt = $.kd.sdk.wtc.wtes.business.tie.model.roster.ShiftMiddleRuleExt;
+export declare const ShiftMiddleRuleExt: $.kd.sdk.wtc.wtes.business.tie.model.roster.ShiftMiddleRuleExt;
+export declare type ShiftSessionExt = $.kd.sdk.wtc.wtes.business.tie.model.roster.ShiftSessionExt;
+export declare const ShiftSessionExt: $.kd.sdk.wtc.wtes.business.tie.model.roster.ShiftSessionExt;
+export declare type ShiftSpecExt = $.kd.sdk.wtc.wtes.business.tie.model.roster.ShiftSpecExt;
+export declare const ShiftSpecExt: $.kd.sdk.wtc.wtes.business.tie.model.roster.ShiftSpecExt;

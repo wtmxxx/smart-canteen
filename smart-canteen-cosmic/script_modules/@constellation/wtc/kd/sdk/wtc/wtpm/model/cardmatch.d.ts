@@ -1,0 +1,14 @@
+export declare type CardMatchTaskVoExt = $.kd.sdk.wtc.wtpm.model.cardmatch.CardMatchTaskVoExt;
+export declare const CardMatchTaskVoExt: $.kd.sdk.wtc.wtpm.model.cardmatch.CardMatchTaskVoExt;
+export declare type CardMatchVoExt = $.kd.sdk.wtc.wtpm.model.cardmatch.CardMatchVoExt;
+export declare const CardMatchVoExt: $.kd.sdk.wtc.wtpm.model.cardmatch.CardMatchVoExt;
+export declare type MultiCardEntryExt = $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardEntryExt;
+export declare const MultiCardEntryExt: $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardEntryExt_C;
+export declare type MultiCardEntryExtStd = $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardEntryExtStd;
+export declare const MultiCardEntryExtStd: $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardEntryExtStd;
+export declare type MultiCardExt = $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardExt;
+export declare const MultiCardExt: $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardExt_C;
+export declare type MultiCardExtStd = $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardExtStd;
+export declare const MultiCardExtStd: $.kd.sdk.wtc.wtpm.model.cardmatch.MultiCardExtStd;
+export declare type SignCardExt = $.kd.sdk.wtc.wtpm.model.cardmatch.SignCardExt;
+export declare const SignCardExt: $.kd.sdk.wtc.wtpm.model.cardmatch.SignCardExt;

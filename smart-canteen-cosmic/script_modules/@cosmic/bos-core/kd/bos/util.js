@@ -1,0 +1,12 @@
+export const CollectionUtils = $.type("kd.bos.util.CollectionUtils");
+export const ConfigurationUtil = $.type("kd.bos.util.ConfigurationUtil");
+export const DisCardUtil = $.type("kd.bos.util.DisCardUtil");
+export const ExceptionUtils = $.type("kd.bos.util.ExceptionUtils");
+export const FileNameUtils = $.type("kd.bos.util.FileNameUtils");
+export const HttpClientUtils = $.type("kd.bos.util.HttpClientUtils");
+export const HttpUtils = $.type("kd.bos.util.HttpUtils");
+export const JSONUtils = $.type("kd.bos.util.JSONUtils");
+export const NetAddressUtils = $.type("kd.bos.util.NetAddressUtils");
+export const RevProxyUtil = $.type("kd.bos.util.RevProxyUtil");
+export const StringUtils = $.type("kd.bos.util.StringUtils");
+export const ThreadLocals = $.type("kd.bos.util.ThreadLocals");

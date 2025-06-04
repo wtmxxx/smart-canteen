@@ -1,0 +1,17 @@
+export const Copy = $.type("kd.bos.form.operate.Copy");
+export const DefaultDynamicFormOperate = $.type("kd.bos.form.operate.DefaultDynamicFormOperate");
+export const Modify = $.type("kd.bos.form.operate.Modify");
+export const MoveEntryDown = $.type("kd.bos.form.operate.MoveEntryDown");
+export const MoveEntryUp = $.type("kd.bos.form.operate.MoveEntryUp");
+export const New = $.type("kd.bos.form.operate.New");
+export const SetEntryBottom = $.type("kd.bos.form.operate.SetEntryBottom");
+export const SetEntryTop = $.type("kd.bos.form.operate.SetEntryTop");
+export const View = $.type("kd.bos.form.operate.View");
+export const EntityOperate = $.type("kd.bos.form.operate.EntityOperate");
+export const MutexHelper = $.type("kd.bos.form.operate.MutexHelper");
+export const AbstractOperate = $.type("kd.bos.form.operate.AbstractOperate");
+export const CoreMutexHelper = $.type("kd.bos.form.operate.CoreMutexHelper");
+export const FormOperate = $.type("kd.bos.form.operate.FormOperate");
+export const IFormMutexService = $.type("kd.bos.form.operate.IFormMutexService");
+export const IFormOperate = $.type("kd.bos.form.operate.IFormOperate");
+export const OpFieldValueReader = $.type("kd.bos.form.operate.OpFieldValueReader");

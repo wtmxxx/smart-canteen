@@ -1,0 +1,10 @@
+export declare type QSConditionRow = $.kd.bos.entity.mulentities.QSConditionRow;
+export declare const QSConditionRow: $.kd.bos.entity.mulentities.QSConditionRow_C;
+export declare type QueryPlugInField = $.kd.bos.entity.mulentities.QueryPlugInField;
+export declare const QueryPlugInField: $.kd.bos.entity.mulentities.QueryPlugInField_C;
+export declare type QuerySelectField = $.kd.bos.entity.mulentities.QuerySelectField;
+export declare const QuerySelectField: $.kd.bos.entity.mulentities.QuerySelectField_C;
+export declare type QuerySortField = $.kd.bos.entity.mulentities.QuerySortField;
+export declare const QuerySortField: $.kd.bos.entity.mulentities.QuerySortField_C;
+export declare type QuerySourceJoinRelation = $.kd.bos.entity.mulentities.QuerySourceJoinRelation;
+export declare const QuerySourceJoinRelation: $.kd.bos.entity.mulentities.QuerySourceJoinRelation_C;

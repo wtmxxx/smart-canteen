@@ -1,0 +1,27 @@
+{
+	"license":"MIT",
+	"types":"index_reference.d.ts",
+	"keywords":[
+		"kingdee",
+		"cosmic",
+		"sdk",
+		"bos",
+		"framework"
+	],
+	"buildTime":"2024-09-25 10:44:21",
+	"exports":{
+		".":"index.d.ts"
+	},
+	"name":"@constellation/odc",
+	"description":"",
+	"files":[
+		"**/*"
+	],
+	"main":"index.js",
+	"scripts":{},
+	"version":"1.0.0",
+	"dependencies":{
+		"@cosmic/bos-script":"^1.0.0",
+		"@cosmic/bos-core":"^1.0.0"
+	}
+}

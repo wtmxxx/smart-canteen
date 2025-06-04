@@ -1,0 +1,14 @@
+export declare type OnCalVaApplyTimeEvent = $.kd.sdk.wtc.wtabm.business.va.OnCalVaApplyTimeEvent;
+export declare const OnCalVaApplyTimeEvent: $.kd.sdk.wtc.wtabm.business.va.OnCalVaApplyTimeEvent;
+export declare type OnCheckVaApplyOverlapEvent = $.kd.sdk.wtc.wtabm.business.va.OnCheckVaApplyOverlapEvent;
+export declare const OnCheckVaApplyOverlapEvent: $.kd.sdk.wtc.wtabm.business.va.OnCheckVaApplyOverlapEvent_C;
+export declare type VaApplyOverlapCheckExtPlugin = $.kd.sdk.wtc.wtabm.business.va.VaApplyOverlapCheckExtPlugin;
+export declare const VaApplyOverlapCheckExtPlugin: $.kd.sdk.wtc.wtabm.business.va.VaApplyOverlapCheckExtPlugin;
+export declare type VaApplyTimeCalExtPlugin = $.kd.sdk.wtc.wtabm.business.va.VaApplyTimeCalExtPlugin;
+export declare const VaApplyTimeCalExtPlugin: $.kd.sdk.wtc.wtabm.business.va.VaApplyTimeCalExtPlugin;
+export declare type VaInfoCallBackParam = $.kd.sdk.wtc.wtabm.business.va.VaInfoCallBackParam;
+export declare const VaInfoCallBackParam: $.kd.sdk.wtc.wtabm.business.va.VaInfoCallBackParam_C;
+export declare type VaInfoExpService = $.kd.sdk.wtc.wtabm.business.va.VaInfoExpService;
+export declare const VaInfoExpService: $.kd.sdk.wtc.wtabm.business.va.VaInfoExpService;
+export declare type VaTimeResult = $.kd.sdk.wtc.wtabm.business.va.VaTimeResult;
+export declare const VaTimeResult: $.kd.sdk.wtc.wtabm.business.va.VaTimeResult_C;
