@@ -22,10 +22,8 @@ CREATE TABLE student_info (
 CREATE TABLE merchant_info (
                                user_id TEXT PRIMARY KEY,
                                shop_name TEXT,
-                               license_number TEXT,
                                contact_phone TEXT,
                                address TEXT,
-                               open_hours TEXT,
                                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
@@ -74,7 +72,7 @@ CREATE TABLE menu (
 );
 
 -- 订单表
-CREATE TABLE order (
+CREATE TABLE "order" (
                         order_id TEXT PRIMARY KEY,
                         student_id TEXT,
                         merchant_id TEXT REFERENCES merchant_info(user_id),
