@@ -31,3 +31,92 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# ==========================================
+# 前端项目 (Node.js/React/Vite) 忽略规则
+# ==========================================
+
+### Node.js ###
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+### Package Manager ###
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+### Build Output ###
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+.vite/
+
+### Environment Variables ###
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+### IDE and Editors ###
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+### OS Generated Files ###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### Logs ###
+logs/
+*.log
+
+### Runtime Data ###
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+### Coverage Reports ###
+coverage/
+*.lcov
+.nyc_output/
+
+### ESLint Cache ###
+.eslintcache
+
+### TypeScript ###
+*.tsbuildinfo
+
+### Temporary Files ###
+.tmp/
+.temp/
+
+### Storybook ###
+storybook-static/
+
+### Optional: 如果使用 MacOS ###
+.DS_Store
+
+### Optional: 如果使用 Windows ###
+Thumbs.db
+ehthumbs.db
+
+### Java Build 相关(保持原有) ###
+smart-canteen-agent/target/
+smart-canteen-agent/.mvn/wrapper/maven-wrapper.jar
